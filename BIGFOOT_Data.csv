@@ -1,0 +1,5021 @@
+﻿Id,Class,Year,Season,State,Follow Up
+14338,Class A,1870,Fall,California,yes
+1245,Class B,1890,Winter,Wyoming,no
+4543,Class C,1905,Summer,Tennessee,no
+807,Class B,1910,Unknown,Michigan,no
+1606,Class B,1920,Unknown,Arizona,no
+4088,Class C,1920,Spring,Arkansas,no
+14358,Class A,1921,Winter,Pennsylvania,no
+24413,Class B,1925,Fall,Louisiana,yes
+5641,Class B,1926,Unknown,Colorado,yes
+2477,Class B,1930,Fall,Texas,no
+24102,Class B,1932,Unknown,Missouri,yes
+14336,Class A,1937,Summer,Indiana,no
+2395,Class B,1938,Unknown,Texas,yes
+1353,Class B,1940,Unknown,Colorado,no
+1689,Class A,1941,Fall,Washington,no
+1303,Class B,1942,Spring,Oklahoma,no
+2494,Class A,1943,Fall,Arkansas,no
+5333,Class A,1943,Fall,Ohio,yes
+2896,Class A,1944,Summer,California,yes
+28897,Class B,1944,Summer,Michigan,yes
+49954,Class A,1945,Spring,Illinois,yes
+1723,Class A,1948,Unknown,Washington,yes
+7235,Class A,1949,Summer,Alabama,yes
+576,,,,,no
+8745,Class A,1949,Fall,Oregon,yes
+33793,Class B,1949,Fall,Washington,yes
+1043,Class B,1950,Spring,Washington,no
+404,,,,,no
+418,,,,,no
+419,,,,,no
+1339,Class A,1950,Summer,Mississippi,no
+2248,Class A,1950,Summer,California,no
+3684,Class A,1950,Summer,California,yes
+5678,Class A,1950,Summer,Kentucky,yes
+30753,Class A,1950,Summer,Michigan,yes
+1024,Class A,1953,Fall,Kentucky,yes
+16408,Class A,1953,Summer,Connecticut,yes
+44986,Class A,1953,Summer,Alabama,yes
+49182,Class B,1953,Summer,Illinois,yes
+1115,Class B,1954,Unknown,Missouri,no
+1229,Class A,1955,Fall,California,yes
+13034,Class A,1955,Unknown,Florida,yes
+24547,Class B,1955,Unknown,Tennessee,yes
+1158,Class A,1956,Fall,Missouri,no
+716,,,,,no
+4946,Class A,1956,Fall,California,yes
+4982,Class B,1956,Unknown,Ohio,no
+12021,Class A,1956,Summer,Oregon,yes
+679,Class A,1957,Summer,Virginia,yes
+25012,Class A,1957,Unknown,Nebraska,yes
+55706,Class A,1957,Winter,Illinois,yes
+1670,Class A,1958,Unknown,Washington,no
+240,,,,,no
+5954,Class A,1958,Summer,Alabama,yes
+7425,Class A,1958,Winter,Ohio,yes
+8086,Class B,1958,Winter,Ohio,yes
+16691,Class B,1958,Spring,California,yes
+7211,Class B,1959,Fall,California,yes
+1330,Class A,1960,Unknown,Kansas,yes
+1495,Class A,1960,Summer,Washington,yes
+15610,Class A,1960,Summer,Missouri,yes
+57998,Class B,1960,Summer,New York,yes
+1691,Class B,1961,Winter,Washington,no
+5232,Class B,1961,Spring,California,yes
+6097,Class A,1961,Fall,Georgia,yes
+7234,Class A,1961,Fall,Arkansas,yes
+12951,Class A,1961,Summer,Pennsylvania,yes
+28678,Class B,1961,Spring,Florida,yes
+38547,Class A,1961,Summer,West Virginia,yes
+445,Class A,1962,Summer,Florida,yes
+751,Class A,1962,Spring,North Dakota,no
+9962,Class A,1962,Spring,Utah,yes
+24238,Class A,1962,Spring,Michigan,yes
+25009,Class A,1962,Summer,California,yes
+28668,Class A,1962,Spring,Michigan,yes
+801,Class A,1963,Summer,Michigan,no
+1063,Class A,1963,Fall,Texas,yes
+1643,Class A,1963,Spring,California,yes
+1953,Class B,1963,Winter,California,no
+2200,Class A,1963,Summer,California,no
+2309,Class B,1963,Winter,California,no
+2310,Class B,1963,Winter,California,no
+5299,Class A,1963,Spring,Washington,yes
+5720,Class A,1963,Spring,Idaho,yes
+6758,Class A,1963,Summer,Idaho,yes
+6961,Class A,1963,Summer,California,yes
+6992,Class B,1963,Spring,Florida,yes
+7026,Class A,1963,Summer,Ohio,yes
+7759,Class B,1963,Summer,California,yes
+8405,Class A,1963,Summer,Georgia,yes
+9546,Class A,1963,Fall,Pennsylvania,yes
+41995,Class A,1963,Unknown,Florida,yes
+975,Class B,1964,Summer,South Carolina,no
+1256,Class A,1964,Fall,Alaska,no
+2396,Class B,1964,Unknown,Texas,no
+2553,Class B,1964,Summer,Colorado,yes
+4141,Class A,1964,Unknown,Texas,no
+5381,Class B,1964,Fall,South Carolina,yes
+6962,Class B,1964,Winter,California,yes
+8183,Class A,1964,Unknown,California,yes
+15273,Class A,1964,Summer,Colorado,yes
+24648,Class A,1964,Summer,California,yes
+28095,Class B,1964,Summer,Utah,yes
+30367,Class A,1964,Fall,Illinois,yes
+1939,Class A,1965,Fall,North Carolina,yes
+3150,Class A,1965,Summer,Washington,no
+4236,Class B,1965,Summer,Georgia,yes
+5652,Class A,1965,Summer,Michigan,yes
+6347,Class A,1965,Summer,Washington,yes
+6963,Class A,1965,Summer,California,yes
+9202,Class A,1965,Summer,California,yes
+20002,Class A,1965,Summer,Michigan,yes
+25470,Class A,1965,Summer,Wisconsin,yes
+40475,Class B,1965,Fall,Illinois,yes
+1473,Class A,1966,Fall,California,yes
+1792,Class A,1966,Summer,California,yes
+8059,Class A,1966,Summer,California,yes
+13816,Class B,1966,Spring,Washington,yes
+14237,Class B,1966,Fall,Missouri,yes
+16308,Class A,1966,Summer,New Jersey,yes
+22561,Class B,1966,Winter,New York,yes
+34555,Class A,1966,Summer,Oklahoma,yes
+1563,Class A,1967,Fall,California,yes
+1564,Class B,1967,Fall,Washington,no
+1564,Class B,1967,Fall,Washington,no
+1596,Class A,1967,Summer,Washington,no
+1644,Class A,1967,Fall,Washington,yes
+1801,Class A,1967,Summer,Idaho,no
+1973,Class A,1967,Spring,Washington,yes
+2462,Class B,1967,Winter,Indiana,no
+7830,Class B,1967,Summer,Ohio,yes
+12294,Class A,1967,Spring,California,yes
+18516,Class A,1967,Fall,North Carolina,yes
+23956,Class A,1967,Summer,Pennsylvania,yes
+24404,Class A,1967,Summer,Missouri,yes
+25082,Class B,1967,Summer,Wisconsin,yes
+29409,Class A,1967,Spring,Michigan,yes
+43968,Class A,1967,Fall,Michigan,yes
+44487,Class A,1967,Summer,Alabama,yes
+46494,Class A,1967,Spring,Illinois,yes
+629,Class B,1968,Fall,California,yes
+677,Class A,1968,Unknown,Oregon,no
+847,Class A,1968,Fall,Connecticut,yes
+925,Class B,1968,Summer,Washington,no
+1344,Class A,1968,Unknown,Mississippi,no
+605,,,,,no
+284,,,,,no
+1526,Class A,1968,Fall,Texas,no
+1795,Class B,1968,Summer,Idaho,no
+2347,Class A,1968,Fall,Utah,no
+2876,Class A,1968,Summer,California,no
+2907,Class A,1968,Fall,California,yes
+3467,Class C,1968,Summer,Illinois,yes
+4953,Class A,1968,Summer,Ohio,no
+5816,Class B,1968,Summer,Oregon,yes
+6534,Class A,1968,Summer,Indiana,yes
+6960,Class B,1968,Fall,North Carolina,yes
+12984,Class A,1968,Fall,Illinois,yes
+13674,Class B,1968,Summer,South Carolina,yes
+19170,Class A,1968,Summer,Pennsylvania,yes
+37448,Class B,1968,Fall,Michigan,yes
+42730,Class B,1968,Spring,Illinois,yes
+661,Class B,1969,Summer,Oregon,no
+700,Class A,1969,Spring,Oregon,no
+1451,Class A,1969,Winter,New York,no
+1524,Class B,1969,Summer,New York,yes
+1620,Class B,1969,Winter,Washington,no
+1621,Class A,1969,Winter,Washington,no
+1944,Class A,1969,Summer,Arkansas,yes
+2271,Class A,1969,Fall,New Jersey,yes
+2935,Class B,1969,Fall,California,yes
+3566,Class A,1969,Summer,Pennsylvania,no
+4741,Class A,1969,Summer,Idaho,yes
+5452,Class A,1969,Fall,Washington,yes
+5453,Class A,1969,Fall,Washington,yes
+6444,Class C,1969,Summer,Tennessee,no
+10510,Class A,1969,Fall,Idaho,yes
+259,,,,,no
+260,,,,,no
+351,,,,,no
+258,,,,,no
+14376,Class A,1969,Summer,Texas,yes
+22448,Class A,1969,Summer,Missouri,yes
+24147,Class A,1969,Summer,Illinois,yes
+24421,Class A,1969,Fall,West Virginia,yes
+28714,Class A,1969,Summer,Illinois,yes
+29124,Class A,1969,Fall,West Virginia,yes
+50155,Class B,1969,Summer,Illinois,yes
+50155,Class B,1969,Summer,Illinois,yes
+232,Class A,1970,Summer,Maryland,yes
+454,Class B,1970,Summer,New York,yes
+459,Class A,1970,Summer,New Jersey,yes
+642,Class A,1970,Summer,New Jersey,yes
+1234,Class A,1970,Summer,Iowa,no
+1372,Class A,1970,Fall,Colorado,no
+1384,Class B,1970,Summer,Washington,no
+1895,Class B,1970,Winter,Washington,yes
+2182,Class B,1970,Summer,California,no
+2602,Class B,1970,Spring,Washington,yes
+2782,Class B,1970,Summer,California,yes
+2957,Class A,1970,Summer,Arkansas,yes
+3050,Class A,1970,Fall,Oregon,yes
+4011,Class A,1970,Fall,Iowa,yes
+4669,Class B,1970,Summer,Washington,yes
+4968,Class B,1970,Fall,Ohio,no
+5692,Class B,1970,Fall,Nevada,no
+6027,Class B,1970,Summer,Oregon,yes
+8407,Class A,1970,Fall,Washington,no
+13037,Class B,1970,Summer,Oregon,yes
+13673,Class A,1970,Summer,South Carolina,yes
+15540,Class B,1970,Summer,California,yes
+16714,Class B,1970,Summer,Iowa,yes
+23645,Class A,1970,Spring,Tennessee,yes
+23929,Class A,1970,Fall,Michigan,yes
+447,,,,,no
+24569,Class A,1970,Summer,Virginia,yes
+25764,Class B,1970,Winter,Oregon,yes
+28711,Class A,1970,Fall,Minnesota,yes
+35477,Class A,1970,Spring,Virginia,yes
+38797,Class B,1970,Summer,Utah,yes
+44740,Class B,1970,Fall,Iowa,yes
+47911,Class A,1970,Fall,Illinois,yes
+50659,Class B,1970,Fall,Washington,yes
+56107,Class A,1970,Spring,Louisiana,yes
+56809,Class B,1970,Winter,Tennessee,yes
+513,Class A,1971,Summer,Colorado,yes
+604,Class A,1971,Summer,Oregon,no
+1120,Class A,1971,Summer,Missouri,yes
+1228,Class B,1971,Fall,Colorado,yes
+1645,Class A,1971,Summer,Washington,no
+1954,Class B,1971,Summer,California,no
+2385,Class B,1971,Summer,Kentucky,no
+2909,Class B,1971,Fall,Oklahoma,yes
+3606,Class A,1971,Fall,Colorado,no
+4307,Class A,1971,Summer,Ohio,no
+4983,Class A,1971,Summer,Ohio,no
+5563,Class A,1971,Spring,Pennsylvania,no
+10046,Class A,1971,Fall,New Jersey,yes
+11930,Class B,1971,Winter,Washington,yes
+14707,Class A,1971,Fall,Pennsylvania,yes
+19938,Class A,1971,Summer,Michigan,yes
+23018,Class A,1971,Fall,Louisiana,yes
+23227,Class A,1971,Fall,Louisiana,yes
+25531,Class A,1971,Fall,Oregon,yes
+36761,Class A,1971,Fall,Missouri,yes
+39858,Class B,1971,Fall,Washington,yes
+47215,Class B,1971,Summer,Montana,yes
+160,Class B,1972,Summer,California,yes
+809,Class B,1972,Summer,Michigan,no
+1081,Class A,1972,Summer,Minnesota,no
+1136,Class A,1972,Summer,Missouri,no
+1226,Class A,1972,Summer,Washington,no
+1370,Class A,1972,Spring,Colorado,no
+1377,Class A,1972,Fall,Colorado,no
+1612,Class B,1972,Summer,Washington,yes
+1632,Class B,1972,Summer,Texas,no
+1636,Class A,1972,Fall,Arkansas,no
+1652,Class A,1972,Spring,Washington,no
+1853,Class A,1972,Summer,Arizona,yes
+2390,Class A,1972,Fall,Kentucky,no
+2830,Class A,1972,Fall,Michigan,yes
+3471,Class C,1972,Fall,Illinois,no
+3525,Class B,1972,Winter,Michigan,yes
+3554,Class A,1972,Fall,Pennsylvania,no
+3801,Class A,1972,Fall,Minnesota,yes
+4959,Class A,1972,Summer,Ohio,no
+5697,Class A,1972,Summer,Nevada,no
+5770,Class B,1972,Summer,Nevada,yes
+5771,Class A,1972,Summer,Washington,no
+7653,Class A,1972,Summer,Texas,yes
+7715,Class A,1972,Fall,Louisiana,no
+8487,Class A,1972,Summer,California,yes
+10595,Class A,1972,Summer,Oklahoma,yes
+15120,Class B,1972,Fall,Idaho,yes
+24052,Class B,1972,Winter,Arizona,yes
+26605,Class A,1972,Fall,Kentucky,yes
+27035,Class B,1972,Fall,New York,yes
+27768,Class A,1972,Summer,Texas,yes
+28423,Class A,1972,Fall,Illinois,yes
+31912,Class A,1972,Summer,Texas,yes
+37304,Class A,1972,Summer,Florida,yes
+41634,Class B,1972,Summer,Oregon,yes
+63178,Class B,1972,Winter,Ohio,yes
+1186,Class A,1973,Summer,Maine,no
+1219,Class B,1973,Summer,Minnesota,yes
+1338,Class A,1973,Winter,Mississippi,no
+1383,Class A,1973,Spring,Washington,yes
+1680,Class B,1973,Summer,Washington,no
+1809,Class A,1973,Spring,Washington,yes
+2144,Class B,1973,Summer,New York,no
+2376,Class B,1973,Fall,Mississippi,yes
+2428,Class A,1973,Summer,Kentucky,yes
+2856,Class A,1973,Spring,Florida,yes
+2996,Class B,1973,Fall,California,no
+3292,Class A,1973,Fall,Idaho,yes
+3333,Class A,1973,Fall,North Carolina,no
+3472,Class C,1973,Summer,Illinois,yes
+4323,Class B,1973,Fall,Washington,yes
+5021,Class B,1973,Spring,Louisiana,no
+5059,Class B,1973,Spring,Missouri,yes
+6094,Class A,1973,Summer,Indiana,yes
+7562,Class A,1973,Fall,Oregon,yes
+9765,Class A,1973,Fall,Oklahoma,yes
+10153,Class A,1973,Summer,Indiana,yes
+10538,Class A,1973,Summer,Indiana,yes
+13874,Class A,1973,Summer,New York,yes
+18623,Class A,1973,Fall,Virginia,yes
+23400,Class A,1973,Summer,Virginia,yes
+577,,,,,no
+24405,Class A,1973,Winter,Arizona,yes
+26888,Class A,1973,Summer,Pennsylvania,yes
+26905,Class A,1973,Spring,Illinois,yes
+27978,Class B,1973,Summer,Iowa,yes
+32162,Class A,1973,Summer,Illinois,yes
+33014,Class A,1973,Summer,Ohio,yes
+42547,Class B,1973,Summer,Illinois,yes
+50534,Class B,1973,Summer,Missouri,yes
+56954,Class A,1973,Spring,Arkansas,yes
+58048,Class A,1973,Summer,Washington,yes
+447,Class A,1974,Summer,Georgia,yes
+652,Class A,1974,Summer,Oregon,no
+655,Class B,1974,Fall,Oregon,no
+861,Class A,1974,Fall,Michigan,yes
+875,Class A,1974,Summer,California,yes
+883,Class B,1974,Spring,Maine,yes
+967,Class B,1974,Summer,Washington,no
+1149,Class A,1974,Fall,Nebraska,no
+1446,Class B,1974,Fall,Oregon,yes
+1742,Class A,1974,Fall,California,yes
+2100,Class B,1974,Spring,Georgia,no
+2379,Class A,1974,Spring,Texas,no
+2712,Class A,1974,Summer,Pennsylvania,yes
+3385,Class A,1974,Fall,Ohio,no
+6391,Class A,1974,Summer,Idaho,yes
+6496,Class A,1974,Fall,Rhode Island,yes
+6644,Class A,1974,Fall,Oklahoma,yes
+7464,Class B,1974,Fall,Georgia,yes
+7860,Class A,1974,Summer,California,yes
+9502,Class A,1974,Fall,Missouri,yes
+9954,Class B,1974,Fall,Idaho,yes
+10151,Class A,1974,Fall,Michigan,yes
+10660,Class A,1974,Fall,Kansas,yes
+11328,Class B,1974,Spring,Tennessee,yes
+11487,Class A,1974,Spring,South Carolina,yes
+11812,Class A,1974,Fall,Florida,yes
+12247,Class A,1974,Spring,California,yes
+13729,Class A,1974,Fall,Oregon,no
+14223,Class B,1974,Spring,Ohio,yes
+15744,Class B,1974,Summer,Oregon,yes
+20870,Class A,1974,Fall,Nebraska,yes
+24562,Class A,1974,Fall,Washington,yes
+24620,Class B,1974,Summer,Michigan,yes
+26963,Class A,1974,Spring,West Virginia,yes
+27778,Class B,1974,Winter,Florida,yes
+27983,Class A,1974,Summer,California,yes
+43911,Class B,1974,Fall,Washington,yes
+44837,Class A,1974,Summer,Florida,yes
+45041,Class B,1974,Summer,Illinois,yes
+45551,Class B,1974,Summer,Florida,yes
+93,,,,,no
+176,,,,,no
+90,,,,,no
+87,,,,,no
+86,,,,,no
+55386,Class B,1974,Fall,Illinois,yes
+113,Class B,1975,Fall,Kansas,yes
+400,Class A,1975,Fall,Texas,yes
+510,Class A,1975,Fall,Arizona,yes
+592,Class A,1975,Winter,Florida,no
+669,Class B,1975,Fall,Oregon,no
+671,Class A,1975,Fall,Oregon,no
+695,Class B,1975,Fall,Oregon,yes
+927,Class B,1975,Summer,Washington,no
+1108,Class A,1975,Summer,California,yes
+1270,Class A,1975,Fall,Iowa,no
+1326,Class A,1975,Fall,Kansas,no
+1341,Class A,1975,Summer,Mississippi,no
+1366,Class A,1975,Summer,Colorado,no
+1721,Class B,1975,Spring,Washington,yes
+1722,Class A,1975,Spring,Washington,no
+1724,Class A,1975,Fall,Washington,yes
+1730,Class A,1975,Fall,Washington,yes
+1830,Class C,1975,Summer,Alabama,no
+1949,Class A,1975,Spring,Utah,no
+1950,Class C,1975,Winter,Utah,no
+2050,Class A,1975,Summer,Texas,no
+2229,Class A,1975,Summer,California,no
+2397,Class B,1975,Unknown,Texas,no
+2805,Class A,1975,Winter,Illinois,yes
+3300,Class B,1975,Winter,Illinois,yes
+3483,Class A,1975,Fall,Missouri,yes
+3556,Class A,1975,Summer,Pennsylvania,no
+3562,Class A,1975,Summer,Pennsylvania,no
+3702,Class A,1975,Summer,Oregon,yes
+4237,Class B,1975,Summer,West Virginia,yes
+4403,Class B,1975,Summer,Washington,yes
+4681,Class A,1975,Summer,Mississippi,yes
+4763,Class B,1975,Summer,North Carolina,yes
+4994,Class A,1975,Fall,Texas,yes
+5260,Class B,1975,Fall,California,no
+6235,Class B,1975,Fall,Texas,yes
+6384,Class B,1975,Fall,New York,no
+6706,Class B,1975,Summer,California,yes
+6983,Class A,1975,Fall,Idaho,yes
+7809,Class A,1975,Summer,Nebraska,yes
+10919,Class A,1975,Summer,Arkansas,yes
+723,,,,,no
+541,,,,,no
+13236,Class B,1975,Fall,California,yes
+13310,Class B,1975,Spring,New Jersey,yes
+14271,Class B,1975,Fall,Florida,yes
+15075,Class A,1975,Summer,Missouri,yes
+16683,Class A,1975,Fall,Florida,yes
+18584,Class B,1975,Fall,Illinois,no
+23771,Class A,1975,Fall,Oregon,yes
+26029,Class A,1975,Summer,South Carolina,yes
+26587,Class A,1975,Summer,Indiana,yes
+28453,Class B,1975,Fall,Indiana,yes
+40316,Class B,1975,Fall,Minnesota,yes
+40842,Class B,1975,Fall,Illinois,yes
+41318,Class A,1975,Fall,Illinois,yes
+43648,Class B,1975,Fall,Wisconsin,yes
+49019,Class A,1975,Summer,Wisconsin,yes
+49084,Class A,1975,Spring,Florida,yes
+50178,Class A,1975,Summer,Alabama,yes
+62340,Class A,1975,Summer,Arkansas,yes
+806,Class A,1976,Summer,Michigan,no
+1132,Class B,1976,Summer,Missouri,no
+1318,Class A,1976,Summer,Oregon,yes
+1356,Class A,1976,Summer,Missouri,yes
+1432,Class B,1976,Summer,Wisconsin,yes
+1436,Class A,1976,Fall,Utah,no
+1634,Class B,1976,Fall,California,yes
+1635,Class A,1976,Summer,Oregon,yes
+1684,Class B,1976,Summer,Washington,yes
+1925,Class A,1976,Winter,Washington,yes
+2159,Class A,1976,Fall,Texas,no
+2201,Class B,1976,Summer,California,no
+2249,Class A,1976,Summer,California,yes
+2381,Class A,1976,Summer,Kentucky,no
+3122,Class A,1976,Spring,Pennsylvania,yes
+3227,Class A,1976,Summer,Minnesota,yes
+3547,Class A,1976,Summer,Pennsylvania,no
+3560,Class A,1976,Fall,Pennsylvania,no
+4837,Class A,1976,Winter,Ohio,yes
+4966,Class B,1976,Summer,Ohio,no
+6267,Class A,1976,Fall,North Carolina,yes
+6394,Class B,1976,Winter,Iowa,no
+7124,Class A,1976,Summer,Oregon,yes
+7356,Class B,1976,Winter,Georgia,yes
+7558,Class B,1976,Winter,Kansas,yes
+333,,,,,no
+171,,,,,no
+7658,Class B,1976,Spring,Oregon,yes
+8417,Class A,1976,Fall,New Mexico,yes
+8494,Class A,1976,Summer,Ohio,yes
+8587,Class A,1976,Fall,Ohio,yes
+9661,Class A,1976,Fall,California,yes
+9759,Class A,1976,Summer,California,yes
+10718,Class B,1976,Fall,California,yes
+10861,Class A,1976,Summer,Ohio,yes
+11592,Class A,1976,Fall,Texas,yes
+13378,Class B,1976,Winter,North Carolina,yes
+14525,Class A,1976,Fall,Georgia,yes
+23836,Class A,1976,Fall,Missouri,yes
+23882,Class B,1976,Summer,Louisiana,yes
+24435,Class B,1976,Fall,Ohio,yes
+24435,Class B,1976,Fall,Ohio,yes
+27687,Class B,1976,Winter,California,yes
+27764,Class A,1976,Spring,Washington,yes
+28788,Class A,1976,Summer,Washington,yes
+30462,Class A,1976,Fall,Virginia,yes
+35721,Class B,1976,Winter,Texas,yes
+39314,Class B,1976,Summer,Wisconsin,yes
+51180,Class B,1976,Winter,Texas,yes
+55573,Class B,1976,Unknown,Michigan,yes
+57471,Class A,1976,Fall,Arkansas,yes
+62297,Class A,1976,Spring,Missouri,yes
+374,Class A,1977,Winter,Ohio,yes
+440,Class A,1977,Summer,Arizona,yes
+496,Class A,1977,Summer,Missouri,yes
+726,Class A,1977,Fall,Florida,yes
+728,Class A,1977,Winter,Florida,yes
+929,Class B,1977,Unknown,Washington,yes
+1075,Class A,1977,Summer,Colorado,yes
+172,,,,,no
+106,,,,,no
+105,,,,,no
+104,,,,,no
+103,,,,,no
+102,,,,,no
+101,,,,,no
+95,,,,,no
+100,,,,,no
+94,,,,,no
+94,,,,,no
+1148,Class A,1977,Summer,Missouri,no
+1169,Class A,1977,Summer,Maryland,no
+1332,Class A,1977,Fall,Kansas,no
+1342,Class A,1977,Spring,Mississippi,no
+1471,Class B,1977,Summer,Minnesota,yes
+1501,Class A,1977,Fall,Louisiana,no
+1510,Class A,1977,Summer,California,yes
+1530,Class A,1977,Summer,Montana,no
+1614,Class A,1977,Summer,Montana,no
+1625,Class A,1977,Summer,Ohio,yes
+1630,Class A,1977,Fall,Iowa,no
+1682,Class A,1977,Summer,Washington,no
+1749,Class A,1977,Summer,Washington,yes
+1811,Class A,1977,Fall,Michigan,yes
+1818,Class B,1977,Summer,Arizona,yes
+1880,Class A,1977,Winter,Washington,yes
+1955,Class B,1977,Fall,California,no
+2061,Class A,1977,Fall,Idaho,no
+2180,Class A,1977,Summer,Missouri,yes
+2199,Class B,1977,Unknown,California,no
+2430,Class A,1977,Summer,Kentucky,no
+2459,Class A,1977,Winter,Indiana,no
+2579,Class B,1977,Summer,California,no
+2750,Class A,1977,Summer,New Jersey,yes
+2789,Class B,1977,Summer,Oklahoma,no
+2887,Class B,1977,Winter,California,no
+2932,Class A,1977,Summer,Pennsylvania,yes
+3022,Class A,1977,Fall,Utah,yes
+3280,Class A,1977,Summer,Pennsylvania,yes
+3550,Class A,1977,Unknown,Pennsylvania,no
+3840,Class B,1977,Winter,Pennsylvania,yes
+4093,Class A,1977,Fall,Arkansas,no
+4137,Class A,1977,Summer,Texas,no
+4366,Class B,1977,Summer,California,yes
+4556,Class A,1977,Unknown,Ohio,no
+4583,Class A,1977,Summer,Washington,yes
+4595,Class A,1977,Spring,Oregon,no
+4970,Class A,1977,Spring,Ohio,no
+4975,Class B,1977,Fall,Ohio,no
+5072,Class B,1977,Fall,Iowa,yes
+5350,Class B,1977,Summer,Oregon,yes
+5637,Class B,1977,Summer,California,yes
+6937,Class A,1977,Fall,Texas,yes
+7097,Class B,1977,Winter,California,yes
+7231,Class B,1977,Winter,California,yes
+7352,Class B,1977,Summer,California,yes
+7393,Class A,1977,Summer,North Carolina,yes
+7555,Class A,1977,Spring,California,yes
+7664,Class A,1977,Summer,Texas,yes
+8289,Class B,1977,Summer,Texas,yes
+8717,Class A,1977,Winter,Massachusetts,yes
+9796,Class B,1977,Fall,Minnesota,yes
+10397,Class A,1977,Summer,Washington,yes
+10533,Class A,1977,Summer,Colorado,yes
+11506,Class A,1977,Fall,Pennsylvania,yes
+15895,Class B,1977,Winter,Illinois,yes
+16470,Class A,1977,Fall,Utah,yes
+21154,Class B,1977,Spring,Oregon,yes
+21951,Class A,1977,Fall,Florida,yes
+22570,Class B,1977,Summer,Oregon,yes
+22905,Class A,1977,Spring,New Jersey,yes
+24393,Class B,1977,Summer,Georgia,yes
+25233,Class B,1977,Fall,Utah,yes
+27341,Class B,1977,Spring,Missouri,yes
+28197,Class B,1977,Fall,Washington,yes
+29032,Class A,1977,Spring,Indiana,yes
+524,,,,,no
+29336,Class A,1977,Summer,New Jersey,yes
+29615,Class A,1977,Fall,Michigan,yes
+33358,Class B,1977,Spring,North Carolina,yes
+36702,Class B,1977,Fall,Illinois,yes
+39852,Class B,1977,Fall,Illinois,yes
+40223,Class B,1977,Winter,Michigan,yes
+535,,,,,no
+534,,,,,no
+533,,,,,no
+42945,Class A,1977,Fall,Illinois,yes
+47378,Class A,1977,Fall,Florida,yes
+49883,Class B,1977,Summer,New Jersey,yes
+56212,Class B,1977,Fall,Texas,yes
+63193,Class B,1977,Summer,Texas,yes
+65807,Class A,1977,Fall,Washington,yes
+96,Class B,1978,Summer,Oregon,yes
+656,Class B,1978,Fall,Oregon,no
+662,Class A,1978,Summer,Oregon,no
+799,Class A,1978,Spring,Alabama,no
+803,Class B,1978,Winter,California,no
+912,Class A,1978,Summer,Kentucky,yes
+1049,Class A,1978,Fall,Minnesota,no
+1062,Class A,1978,Summer,Minnesota,no
+1197,Class A,1978,Fall,Iowa,yes
+1241,Class A,1978,Spring,Wyoming,yes
+1268,Class A,1978,Fall,Iowa,no
+1282,Class C,1978,Summer,Louisiana,no
+1301,Class A,1978,Summer,California,yes
+1312,Class A,1978,Winter,Kansas,no
+299,,,,,no
+243,,,,,no
+1315,Class A,1978,Unknown,Kansas,no
+1325,Class A,1978,Summer,Kansas,no
+1456,Class B,1978,Unknown,Louisiana,yes
+1505,Class A,1978,Summer,New Jersey,no
+1631,Class B,1978,Fall,Texas,no
+1651,Class A,1978,Spring,Washington,yes
+578,,,,,no
+578,,,,,no
+1731,Class B,1978,Spring,Washington,yes
+2219,Class A,1978,Summer,Georgia,no
+2383,Class A,1978,Fall,Kentucky,no
+2398,Class B,1978,Unknown,Texas,no
+2450,Class A,1978,Summer,Ohio,yes
+2470,Class B,1978,Summer,Indiana,no
+2554,Class A,1978,Fall,Michigan,yes
+2581,Class B,1978,Fall,California,no
+2901,Class B,1978,Spring,Illinois,no
+2901,Class B,1978,Spring,Illinois,no
+3180,Class A,1978,Summer,Ohio,yes
+3293,Class A,1978,Winter,Ohio,yes
+3421,Class A,1978,Spring,California,yes
+3612,Class B,1978,Spring,California,yes
+3780,Class B,1978,Fall,Oregon,yes
+4103,Class A,1978,Summer,Virginia,yes
+4475,Class A,1978,Summer,Oregon,yes
+4642,Class B,1978,Spring,California,yes
+4960,Class B,1978,Fall,Ohio,no
+4972,Class B,1978,Fall,Ohio,no
+4977,Class A,1978,Summer,Ohio,no
+5369,Class A,1978,Summer,Florida,yes
+5477,Class B,1978,Winter,California,yes
+6170,Class A,1978,Summer,Montana,yes
+6425,Class A,1978,Fall,Washington,yes
+6631,Class A,1978,Spring,Massachusetts,no
+446,,,,,no
+245,,,,,no
+6643,Class A,1978,Summer,Rhode Island,no
+6656,Class B,1978,Summer,Missouri,yes
+6724,Class B,1978,Summer,Oregon,yes
+246,,,,,no
+7003,Class A,1978,Summer,Washington,yes
+7225,Class A,1978,Summer,Colorado,yes
+7431,Class A,1978,Fall,Ohio,yes
+7593,Class B,1978,Summer,Washington,yes
+7627,Class B,1978,Summer,Florida,yes
+7652,Class B,1978,Spring,Texas,yes
+7676,Class B,1978,Fall,California,yes
+8836,Class A,1978,Winter,Ohio,yes
+8944,Class A,1978,Summer,Ohio,yes
+10260,Class B,1978,Summer,Montana,yes
+10632,Class A,1978,Summer,Pennsylvania,yes
+10977,Class A,1978,Winter,Oregon,yes
+12067,Class A,1978,Summer,Kansas,yes
+18632,Class A,1978,Summer,South Carolina,yes
+19917,Class B,1978,Fall,Wisconsin,yes
+20254,Class B,1978,Fall,Utah,yes
+21660,Class B,1978,Winter,Missouri,yes
+22802,Class A,1978,Fall,Michigan,yes
+23367,Class B,1978,Fall,Minnesota,yes
+23481,Class A,1978,Summer,Michigan,yes
+23730,Class B,1978,Fall,Kentucky,yes
+23760,Class B,1978,Spring,Illinois,yes
+24032,Class A,1978,Winter,Florida,yes
+24945,Class A,1978,Fall,West Virginia,yes
+27908,Class A,1978,Summer,North Carolina,yes
+28370,Class B,1978,Summer,Illinois,yes
+28516,Class A,1978,Fall,Illinois,yes
+29055,Class A,1978,Summer,Washington,yes
+30384,Class B,1978,Fall,Montana,yes
+31427,Class B,1978,Summer,Washington,yes
+31444,Class A,1978,Summer,Michigan,yes
+32435,Class A,1978,Summer,Georgia,yes
+33098,Class B,1978,Summer,Utah,yes
+33137,Class B,1978,Fall,Minnesota,yes
+33887,Class B,1978,Summer,Virginia,yes
+35293,Class A,1978,Fall,Alabama,yes
+37044,Class A,1978,Summer,Oregon,yes
+41786,Class A,1978,Summer,Illinois,yes
+41916,Class A,1978,Spring,Illinois,yes
+48156,Class B,1978,Winter,Missouri,yes
+62851,Class A,1978,Summer,Arkansas,yes
+236,Class A,1979,Winter,Michigan,yes
+691,Class B,1979,Summer,Oregon,no
+1152,Class A,1979,Fall,Nebraska,no
+1502,Class A,1979,Summer,Louisiana,no
+1516,Class B,1979,Unknown,Louisiana,no
+1527,Class A,1979,Summer,Texas,no
+1556,Class A,1979,Summer,New Jersey,no
+1589,Class B,1979,Winter,Washington,no
+1595,Class A,1979,Winter,Washington,no
+1664,Class A,1979,Spring,California,no
+1695,Class A,1979,Winter,Montana,no
+2218,Class A,1979,Winter,Georgia,yes
+2399,Class A,1979,Spring,Texas,no
+2452,Class A,1979,Winter,Pennsylvania,yes
+2458,Class B,1979,Summer,Indiana,no
+2770,Class B,1979,Summer,California,yes
+3005,Class A,1979,Unknown,Wisconsin,no
+3281,Class A,1979,Spring,Washington,no
+3820,Class B,1979,Fall,Oregon,no
+5220,Class B,1979,Fall,California,yes
+5284,Class A,1979,Winter,California,yes
+6410,Class B,1979,Summer,Nebraska,no
+247,,,,,no
+244,,,,,no
+6445,Class A,1979,Winter,Tennessee,no
+6695,Class A,1979,Summer,New York,no
+7205,Class A,1979,Summer,Florida,yes
+7232,Class A,1979,Summer,Wisconsin,yes
+7368,Class A,1979,Fall,New York,yes
+7692,Class B,1979,Fall,Florida,yes
+7758,Class A,1979,Fall,Texas,yes
+8083,Class A,1979,Summer,Texas,yes
+8394,Class A,1979,Spring,Ohio,yes
+8972,Class B,1979,Summer,Massachusetts,no
+10498,Class A,1979,Fall,Alabama,yes
+11273,Class A,1979,Summer,Illinois,yes
+12140,Class A,1979,Spring,Illinois,yes
+12158,Class A,1979,Winter,Idaho,yes
+12328,Class B,1979,Fall,California,yes
+12917,Class A,1979,Winter,California,yes
+15615,Class A,1979,Winter,Nebraska,yes
+20173,Class A,1979,Summer,Michigan,yes
+20423,Class A,1979,Fall,Michigan,yes
+21821,Class A,1979,Fall,Indiana,yes
+24061,Class A,1979,Summer,West Virginia,yes
+24936,Class A,1979,Spring,California,yes
+24970,Class A,1979,Summer,Texas,yes
+25056,Class B,1979,Fall,Idaho,yes
+26076,Class A,1979,Unknown,North Carolina,yes
+26440,Class B,1979,Summer,Washington,yes
+26513,Class A,1979,Summer,Alabama,yes
+27012,Class A,1979,Fall,Mississippi,yes
+27477,Class A,1979,Fall,Oklahoma,yes
+27630,Class A,1979,Fall,Wisconsin,yes
+29223,Class A,1979,Spring,Tennessee,yes
+30548,Class B,1979,Summer,Ohio,yes
+31302,Class B,1979,Summer,Michigan,yes
+35671,Class B,1979,Fall,Michigan,yes
+38762,Class B,1979,Summer,New Jersey,yes
+43612,Class A,1979,Summer,Missouri,yes
+44485,Class B,1979,Summer,Arizona,yes
+48085,Class A,1979,Fall,Wisconsin,yes
+63860,Class A,1979,Summer,Arkansas,yes
+69398,Class B,1979,Fall,Ohio,yes
+490,Class A,1980,Summer,New Mexico,yes
+553,Class A,1980,Fall,Oregon,yes
+594,Class A,1980,Summer,Florida,no
+667,Class A,1980,Summer,Oregon,yes
+681,Class B,1980,Fall,Oregon,no
+725,Class A,1980,Summer,Florida,yes
+832,Class A,1980,Fall,Alabama,no
+992,Class B,1980,Fall,Minnesota,yes
+1031,Class A,1980,Winter,Oregon,yes
+1155,Class A,1980,Unknown,Nebraska,no
+1200,Class B,1980,Summer,West Virginia,no
+1208,Class C,1980,Spring,Montana,no
+1275,Class A,1980,Spring,Florida,yes
+1278,Class B,1980,Fall,Louisiana,no
+1311,Class A,1980,Summer,Kansas,no
+182,,,,,no
+181,,,,,no
+1360,Class A,1980,Winter,Colorado,no
+1429,Class B,1980,Fall,New Jersey,yes
+1547,Class A,1980,Spring,California,no
+1565,Class B,1980,Unknown,Washington,no
+1593,Class B,1980,Spring,Washington,no
+1671,Class A,1980,Unknown,Washington,yes
+1672,Class A,1980,Unknown,Washington,yes
+1707,Class A,1980,Spring,Washington,yes
+2047,Class A,1980,Spring,Washington,yes
+2382,Class A,1980,Fall,Kentucky,no
+2388,Class A,1980,Fall,Louisiana,no
+2400,Class A,1980,Unknown,Texas,no
+2425,Class A,1980,Fall,Kentucky,no
+2426,Class A,1980,Winter,Kentucky,no
+2472,Class A,1980,Summer,Indiana,no
+2806,Class C,1980,Unknown,Illinois,no
+2864,Class A,1980,Spring,California,no
+3085,Class A,1980,Summer,Idaho,no
+3301,Class A,1980,Summer,Ohio,yes
+3455,Class A,1980,Summer,Nevada,yes
+3920,Class A,1980,Fall,Ohio,yes
+4156,Class C,1980,Fall,Texas,no
+4613,Class A,1980,Summer,Michigan,yes
+5510,Class B,1980,Summer,Florida,yes
+6836,Class B,1980,Summer,Pennsylvania,yes
+7133,Class A,1980,Summer,Ohio,yes
+7236,Class A,1980,Summer,Louisiana,no
+7298,Class A,1980,Fall,Oregon,yes
+7642,Class B,1980,Summer,Oregon,yes
+7670,Class A,1980,Winter,Texas,yes
+7773,Class B,1980,Fall,California,yes
+7803,Class A,1980,Summer,Ohio,yes
+7940,Class A,1980,Summer,Ohio,yes
+7969,Class B,1980,Summer,Arkansas,yes
+8530,Class A,1980,Summer,Texas,yes
+8680,Class B,1980,Summer,Oregon,yes
+10892,Class A,1980,Spring,Illinois,yes
+11841,Class A,1980,Summer,New York,yes
+12220,Class B,1980,Spring,Ohio,yes
+12916,Class A,1980,Spring,Washington,yes
+13096,Class B,1980,Winter,California,yes
+13613,Class B,1980,Summer,California,yes
+13889,Class B,1980,Summer,Florida,yes
+13983,Class A,1980,Summer,Arkansas,yes
+14467,Class B,1980,Winter,Missouri,yes
+14467,Class B,1980,Winter,Missouri,yes
+20197,Class A,1980,Fall,California,yes
+21674,Class A,1980,Summer,California,yes
+21684,Class B,1980,Spring,California,yes
+22572,Class A,1980,Summer,Tennessee,yes
+23745,Class A,1980,Summer,Louisiana,yes
+25156,Class A,1980,Fall,Idaho,yes
+25267,Class A,1980,Winter,Illinois,yes
+25462,Class B,1980,Summer,Washington,yes
+26124,Class A,1980,Fall,Louisiana,yes
+329,,,,,no
+26521,Class B,1980,Fall,Wyoming,yes
+26713,Class B,1980,Spring,Iowa,yes
+27067,Class A,1980,Winter,Alabama,yes
+27897,Class B,1980,Summer,Washington,yes
+29178,Class A,1980,Fall,Michigan,yes
+29636,Class B,1980,Summer,Michigan,yes
+29980,Class A,1980,Fall,Missouri,yes
+31594,Class B,1980,Summer,Virginia,yes
+36202,Class B,1980,Winter,Virginia,yes
+37522,Class A,1980,Winter,Illinois,yes
+38155,Class A,1980,Fall,Michigan,yes
+58031,Class B,1980,Spring,Washington,yes
+58890,Class B,1980,Fall,Idaho,yes
+135,Class A,1981,Summer,Wisconsin,yes
+231,Class A,1981,Spring,Maryland,yes
+415,Class B,1981,Fall,Tennessee,yes
+430,Class B,1981,Summer,Florida,yes
+431,Class B,1981,Summer,California,yes
+717,Class B,1981,Summer,Missouri,no
+821,Class A,1981,Fall,Michigan,no
+874,Class B,1981,Winter,Indiana,yes
+941,Class A,1981,Fall,Washington,no
+1079,Class B,1981,Fall,Florida,yes
+1113,Class A,1981,Summer,Washington,no
+1376,Class A,1981,Unknown,Colorado,no
+1533,Class B,1981,Winter,Montana,no
+1681,Class B,1981,Fall,Washington,no
+2142,Class B,1981,Summer,California,no
+2704,Class A,1981,Winter,New York,yes
+2764,Class A,1981,Summer,Louisiana,no
+2779,Class C,1981,Winter,California,yes
+3233,Class A,1981,Fall,Indiana,yes
+3352,Class B,1981,Winter,Ohio,no
+4381,Class B,1981,Fall,Tennessee,yes
+4731,Class A,1981,Summer,Ohio,yes
+4929,Class B,1981,Summer,California,yes
+6178,Class A,1981,Fall,Arkansas,no
+6418,Class B,1981,Spring,Tennessee,no
+6420,Class A,1981,Unknown,Tennessee,no
+6929,Class A,1981,Summer,Idaho,yes
+6971,Class B,1981,Summer,California,yes
+7481,Class B,1981,Spring,Washington,yes
+8022,Class B,1981,Spring,Tennessee,yes
+8678,Class A,1981,Spring,Oklahoma,yes
+8685,Class A,1981,Fall,Arizona,yes
+10556,Class A,1981,Winter,Kentucky,yes
+10867,Class A,1981,Summer,Florida,yes
+11430,Class A,1981,Summer,Arkansas,yes
+12803,Class B,1981,Spring,Washington,yes
+13347,Class B,1981,Summer,Mississippi,yes
+13833,Class A,1981,Fall,Texas,yes
+14232,Class B,1981,Fall,New Jersey,yes
+68,,,,,no
+16962,Class A,1981,Summer,South Carolina,yes
+22945,Class B,1981,Winter,Iowa,yes
+23691,Class A,1981,Summer,Wisconsin,yes
+24224,Class B,1981,Summer,Idaho,yes
+24539,Class A,1981,Spring,Texas,yes
+25189,Class A,1981,Summer,Indiana,yes
+27250,Class A,1981,Fall,Florida,yes
+27743,Class A,1981,Spring,New Jersey,yes
+28263,Class B,1981,Winter,Florida,yes
+28946,Class A,1981,Summer,Arizona,yes
+28993,Class B,1981,Spring,Wisconsin,yes
+40645,Class A,1981,Fall,Virginia,yes
+66051,Class A,1981,Fall,New Jersey,yes
+672,Class A,1982,Summer,Oregon,no
+330,,,,,no
+841,Class A,1982,Fall,Ohio,yes
+956,Class A,1982,Winter,Washington,no
+986,Class A,1982,Fall,Washington,yes
+989,Class A,1982,Winter,Florida,yes
+1028,Class B,1982,Fall,Arizona,yes
+1134,Class A,1982,Fall,Pennsylvania,yes
+1141,Class A,1982,Summer,Missouri,no
+1371,Class A,1982,Winter,Colorado,no
+1440,Class B,1982,Spring,Indiana,no
+1504,Class A,1982,Summer,Washington,yes
+1517,Class A,1982,Fall,Montana,no
+1519,Class A,1982,Summer,Montana,no
+2063,Class A,1982,Spring,Idaho,no
+2063,Class A,1982,Spring,Idaho,no
+2198,Class A,1982,Summer,California,no
+2279,Class A,1982,Unknown,Georgia,yes
+2316,Class B,1982,Unknown,Idaho,no
+2406,Class B,1982,Fall,Indiana,no
+2599,Class A,1982,Spring,Washington,yes
+2816,Class A,1982,Spring,California,no
+310,,,,,no
+3335,Class A,1982,Fall,North Carolina,no
+4081,Class A,1982,Winter,Oklahoma,yes
+4132,Class A,1982,Summer,California,yes
+4143,Class A,1982,Spring,Texas,no
+4392,Class B,1982,Summer,Washington,yes
+4421,Class A,1982,Spring,Missouri,yes
+4452,Class A,1982,Summer,Washington,yes
+5623,Class B,1982,Summer,Kansas,yes
+6530,Class A,1982,Summer,Louisiana,no
+6651,Class A,1982,Summer,California,yes
+6775,Class B,1982,Summer,Missouri,yes
+7575,Class B,1982,Winter,Georgia,yes
+9568,Class B,1982,Fall,Michigan,yes
+9810,Class A,1982,Winter,Texas,yes
+10024,Class B,1982,Fall,Utah,yes
+10273,Class A,1982,Summer,Texas,yes
+10421,Class B,1982,Summer,Ohio,yes
+12597,Class B,1982,Summer,Ohio,yes
+547,,,,,no
+14642,Class A,1982,Summer,California,yes
+18823,Class A,1982,Spring,Washington,yes
+19937,Class B,1982,Summer,Washington,yes
+20011,Class B,1982,Fall,New Mexico,yes
+20202,Class A,1982,Fall,Michigan,yes
+23293,Class A,1982,Fall,Kentucky,yes
+23537,Class B,1982,Summer,Indiana,yes
+24399,Class A,1982,Fall,Oregon,yes
+25444,Class A,1982,Spring,California,yes
+27472,Class B,1982,Winter,Virginia,yes
+27955,Class A,1982,Fall,Kentucky,yes
+28805,Class B,1982,Summer,Michigan,yes
+33097,Class B,1982,Summer,Kentucky,yes
+33559,Class B,1982,Fall,Michigan,yes
+35079,Class A,1982,Spring,Ohio,yes
+40087,Class A,1982,Fall,Missouri,yes
+40280,Class B,1982,Fall,Oklahoma,yes
+40378,Class B,1982,Winter,Washington,yes
+702,,,,,no
+689,,,,,no
+691,,,,,no
+699,,,,,no
+686,,,,,no
+687,,,,,no
+731,,,,,no
+42408,Class B,1982,Fall,Washington,yes
+58004,Class A,1982,Summer,Oregon,yes
+58136,Class A,1982,Winter,Texas,yes
+58414,Class A,1982,Fall,Iowa,yes
+63738,Class A,1982,Summer,Oregon,yes
+63779,Class B,1982,Fall,Oregon,yes
+77,Class B,1983,Fall,Washington,no
+80,Class B,1983,Summer,Oregon,yes
+338,Class B,1983,Winter,Arkansas,no
+416,Class A,1983,Winter,Alabama,yes
+546,Class B,1983,Summer,South Carolina,no
+595,Class B,1983,Summer,Florida,no
+607,Class A,1983,Winter,Florida,no
+805,Class A,1983,Summer,Michigan,no
+808,Class A,1983,Fall,Michigan,no
+811,Class A,1983,Fall,Michigan,no
+908,Class B,1983,Fall,Michigan,yes
+1059,Class A,1983,Fall,Minnesota,no
+1100,Class B,1983,Spring,Missouri,no
+1387,Class C,1983,Summer,Washington,no
+1549,Class A,1983,Fall,California,yes
+1796,Class A,1983,Fall,Idaho,yes
+1919,Class A,1983,Spring,California,yes
+2264,Class A,1983,Summer,Iowa,yes
+3332,Class A,1983,Spring,North Carolina,no
+3567,Class A,1983,Fall,Pennsylvania,no
+4089,Class C,1983,Unknown,Arkansas,no
+4138,Class A,1983,Summer,Texas,no
+4969,Class B,1983,Summer,Ohio,yes
+4981,Class B,1983,Fall,Ohio,no
+5244,Class A,1983,Summer,Wisconsin,yes
+5245,Class A,1983,Spring,New York,no
+5311,Class A,1983,Spring,Ohio,yes
+6007,Class A,1983,Summer,Texas,yes
+6746,Class A,1983,Winter,California,yes
+7246,Class A,1983,Fall,North Carolina,yes
+7336,Class B,1983,Summer,California,yes
+7437,Class A,1983,Summer,New Jersey,yes
+7495,Class A,1983,Winter,Arizona,yes
+8409,Class A,1983,Spring,New Mexico,yes
+9128,Class B,1983,Fall,Washington,no
+9169,Class A,1983,Summer,Texas,yes
+10506,Class A,1983,Winter,Texas,yes
+11030,Class B,1983,Winter,Georgia,yes
+11911,Class A,1983,Summer,Illinois,yes
+12054,Class B,1983,Fall,Missouri,yes
+12669,Class B,1983,Fall,Ohio,yes
+13654,Class A,1983,Spring,Washington,yes
+709,,,,,no
+14493,Class B,1983,Fall,Minnesota,yes
+16486,Class B,1983,Spring,New Jersey,yes
+20333,Class B,1983,Summer,Florida,yes
+23068,Class B,1983,Spring,Washington,yes
+696,,,,,no
+690,,,,,no
+24310,Class B,1983,Summer,Washington,yes
+25242,Class A,1983,Fall,Kentucky,yes
+26372,Class A,1983,Fall,Michigan,yes
+28080,Class A,1983,Fall,Missouri,yes
+31009,Class A,1983,Fall,Washington,yes
+31303,Class A,1983,Fall,North Carolina,yes
+32620,Class A,1983,Fall,Ohio,yes
+33307,Class A,1983,Fall,Alabama,yes
+34787,Class B,1983,Summer,Florida,yes
+56829,Class B,1983,Fall,Oklahoma,yes
+406,Class A,1984,Fall,Washington,yes
+699,Class A,1984,Fall,Oregon,yes
+703,Class B,1984,Spring,Oregon,no
+737,Class A,1984,Summer,Florida,no
+800,Class B,1984,Summer,Michigan,no
+898,Class A,1984,Summer,Washington,yes
+930,Class A,1984,Summer,Washington,no
+940,Class A,1984,Summer,Washington,no
+688,,,,,no
+1003,Class A,1984,Fall,Florida,yes
+1058,Class B,1984,Summer,California,no
+1061,Class A,1984,Summer,Florida,yes
+1167,Class A,1984,Summer,Maryland,no
+1178,Class A,1984,Winter,Vermont,no
+1327,Class B,1984,Unknown,Kansas,no
+1382,Class A,1984,Fall,Washington,yes
+1385,Class B,1984,Summer,Washington,no
+1683,Class A,1984,Spring,Washington,yes
+1700,Class C,1984,Fall,Montana,no
+2285,Class A,1984,Spring,Virginia,no
+2792,Class A,1984,Summer,Wisconsin,no
+3424,Class B,1984,Summer,California,yes
+3518,Class A,1984,Fall,Washington,yes
+3519,Class A,1984,Spring,Arkansas,yes
+3571,Class A,1984,Fall,Pennsylvania,no
+3584,Class A,1984,Fall,Pennsylvania,yes
+3605,Class B,1984,Summer,California,yes
+4073,Class A,1984,Summer,Ohio,yes
+5529,Class A,1984,Summer,Oregon,no
+676,,,,,no
+674,,,,,no
+673,,,,,no
+675,,,,,no
+625,,,,,no
+5909,Class A,1984,Fall,Nevada,yes
+6737,Class A,1984,Summer,Colorado,yes
+7077,Class B,1984,Fall,Colorado,no
+7662,Class A,1984,Summer,Oregon,yes
+7766,Class A,1984,Summer,Missouri,yes
+8184,Class B,1984,Summer,California,yes
+8236,Class A,1984,Winter,Ohio,yes
+8670,Class B,1984,Summer,Washington,yes
+9168,Class B,1984,Winter,Washington,yes
+9407,Class B,1984,Winter,Kentucky,yes
+9712,Class A,1984,Summer,Georgia,yes
+10889,Class B,1984,Winter,Michigan,yes
+11295,Class B,1984,Winter,Illinois,yes
+12838,Class A,1984,Summer,Washington,yes
+12884,Class A,1984,Winter,Wyoming,yes
+15514,Class B,1984,Fall,Michigan,yes
+16777,Class B,1984,Summer,Virginia,yes
+25298,Class A,1984,Fall,Michigan,yes
+25377,Class B,1984,Summer,Tennessee,yes
+25454,Class A,1984,Summer,Indiana,yes
+26790,Class B,1984,Summer,Kansas,yes
+49302,Class A,1984,Summer,Illinois,yes
+81,Class A,1985,Fall,Tennessee,yes
+270,Class B,1985,Summer,Washington,no
+816,Class B,1985,Summer,California,yes
+937,Class B,1985,Summer,Washington,no
+1190,Class A,1985,Summer,Maine,no
+730,,,,,no
+729,,,,,no
+1244,Class A,1985,Fall,Wyoming,yes
+1548,Class B,1985,Spring,California,no
+1551,Class A,1985,Fall,California,yes
+1585,Class B,1985,Summer,Washington,no
+1783,Class B,1985,Unknown,Alabama,no
+1790,Class A,1985,Winter,Indiana,yes
+2176,Class B,1985,Fall,California,yes
+2228,Class C,1985,Spring,California,no
+2393,Class A,1985,Summer,Georgia,yes
+2490,Class A,1985,Summer,California,yes
+2566,Class A,1985,Fall,Florida,yes
+3049,Class B,1985,Spring,Iowa,yes
+684,,,,,no
+4099,Class A,1985,Fall,Illinois,yes
+4445,Class B,1985,Fall,California,no
+4777,Class A,1985,Fall,Minnesota,yes
+4886,Class B,1985,Summer,California,yes
+5229,Class A,1985,Summer,Ohio,yes
+5608,Class A,1985,Spring,Colorado,yes
+5609,Class A,1985,Summer,Louisiana,no
+6249,Class B,1985,Spring,Maryland,no
+6417,Class A,1985,Summer,Tennessee,no
+6478,Class A,1985,Summer,Tennessee,no
+7272,Class B,1985,Fall,Michigan,yes
+8064,Class A,1985,Winter,New York,no
+8251,Class A,1985,Fall,Idaho,yes
+8435,Class B,1985,Fall,Wisconsin,yes
+8935,Class B,1985,Winter,Florida,yes
+10095,Class A,1985,Winter,Oregon,yes
+10354,Class A,1985,Summer,Washington,yes
+11407,Class B,1985,Fall,California,yes
+11630,Class B,1985,Spring,New York,yes
+14082,Class A,1985,Summer,Alabama,yes
+14118,Class A,1985,Winter,Florida,yes
+15003,Class B,1985,Spring,Tennessee,yes
+17011,Class B,1985,Summer,Florida,yes
+20802,Class A,1985,Summer,Idaho,yes
+23211,Class B,1985,Summer,West Virginia,yes
+23247,Class A,1985,Spring,Florida,yes
+27482,Class A,1985,Fall,Arkansas,yes
+31968,Class A,1985,Winter,Illinois,yes
+34980,Class B,1985,Summer,Illinois,yes
+35114,Class B,1985,Summer,Tennessee,yes
+39569,Class A,1985,Summer,Illinois,yes
+40034,Class A,1985,Spring,Florida,yes
+40371,Class A,1985,Summer,Washington,yes
+44354,Class A,1985,Summer,North Carolina,yes
+49813,Class A,1985,Summer,Ohio,yes
+62934,Class B,1985,Summer,Virginia,yes
+606,Class A,1986,Unknown,Florida,no
+670,Class A,1986,Summer,Oregon,yes
+859,Class A,1986,Fall,Maine,yes
+977,Class A,1986,Fall,South Carolina,no
+1069,Class A,1986,Fall,Wyoming,no
+1099,Class A,1986,Summer,Missouri,no
+1375,Class B,1986,Fall,Colorado,no
+1445,Class B,1986,Spring,South Dakota,yes
+1617,Class A,1986,Summer,Washington,no
+1720,Class A,1986,Fall,Oregon,yes
+2121,Class A,1986,Summer,California,no
+2278,Class B,1986,Unknown,Georgia,no
+2429,Class B,1986,Summer,Kentucky,no
+2451,Class B,1986,Spring,Missouri,yes
+2630,Class A,1986,Fall,New York,no
+2845,Class A,1986,Summer,California,no
+2855,Class B,1986,Fall,California,yes
+5694,Class B,1986,Summer,Michigan,no
+6062,Class A,1986,Fall,Ohio,yes
+7483,Class A,1986,Winter,Washington,yes
+7836,Class A,1986,Fall,Texas,no
+8039,Class A,1986,Fall,Texas,yes
+8598,Class B,1986,Summer,California,yes
+8679,Class A,1986,Fall,Alabama,yes
+9218,Class B,1986,Fall,North Carolina,yes
+9392,Class B,1986,Summer,Washington,yes
+9753,Class A,1986,Summer,Arkansas,yes
+10505,Class B,1986,Spring,Colorado,yes
+10771,Class A,1986,Fall,Tennessee,yes
+10874,Class A,1986,Fall,Georgia,yes
+11252,Class B,1986,Fall,Arkansas,yes
+12292,Class A,1986,Summer,California,yes
+12712,Class A,1986,Summer,Oklahoma,yes
+728,,,,,no
+697,,,,,no
+692,,,,,no
+12919,Class B,1986,Winter,Illinois,yes
+13718,Class A,1986,Summer,Arkansas,yes
+16550,Class B,1986,Summer,California,yes
+17767,Class A,1986,Summer,Colorado,yes
+18442,Class A,1986,Summer,Missouri,yes
+19983,Class B,1986,Summer,Utah,yes
+21271,Class A,1986,Summer,Michigan,yes
+22815,Class B,1986,Summer,California,yes
+23498,Class B,1986,Winter,Florida,yes
+25592,Class A,1986,Summer,Tennessee,yes
+25961,Class A,1986,Summer,Ohio,yes
+26245,Class A,1986,Summer,Michigan,yes
+27374,Class A,1986,Fall,Illinois,yes
+27410,Class A,1986,Winter,Missouri,yes
+28935,Class B,1986,Spring,Minnesota,yes
+32824,Class A,1986,Fall,Washington,yes
+33115,Class A,1986,Summer,Georgia,yes
+39025,Class A,1986,Fall,Washington,yes
+40040,Class B,1986,Summer,Ohio,yes
+41907,Class B,1986,Winter,Illinois,yes
+42736,Class A,1986,Fall,Washington,yes
+49544,Class B,1986,Fall,Georgia,yes
+56752,Class A,1986,Summer,Georgia,yes
+62358,Class A,1986,Summer,Tennessee,yes
+545,,,,,no
+705,,,,,no
+695,,,,,no
+532,,,,,no
+66089,Class A,1986,Winter,New Mexico,yes
+653,Class B,1987,Summer,Oregon,no
+666,Class B,1987,Summer,Oregon,no
+815,Class A,1987,Summer,Michigan,no
+1313,Class A,1987,Fall,Louisiana,no
+1774,Class A,1987,Summer,West Virginia,yes
+2060,Class B,1987,Winter,Idaho,yes
+2076,Class A,1987,Fall,Indiana,yes
+2149,Class B,1987,Winter,North Carolina,yes
+2844,Class A,1987,Fall,California,yes
+2858,Class B,1987,Spring,California,no
+3094,Class B,1987,Fall,Georgia,yes
+3185,Class A,1987,Fall,Colorado,yes
+3334,Class B,1987,Summer,North Carolina,no
+710,,,,,no
+107,,,,,no
+713,,,,,no
+3351,Class A,1987,Winter,Ohio,no
+4142,Class A,1987,Fall,Texas,no
+4957,Class B,1987,Fall,Ohio,no
+5778,Class B,1987,Fall,Ohio,yes
+5875,Class A,1987,Summer,Wyoming,yes
+5929,Class B,1987,Fall,Utah,yes
+6421,Class A,1987,Unknown,Tennessee,yes
+6449,Class A,1987,Summer,Tennessee,no
+6521,Class A,1987,Summer,California,yes
+7188,Class A,1987,Summer,West Virginia,yes
+8067,Class A,1987,Fall,Texas,yes
+8597,Class A,1987,Winter,Washington,no
+9038,Class A,1987,Winter,Texas,yes
+9918,Class B,1987,Fall,New Mexico,yes
+10258,Class B,1987,Fall,Washington,yes
+11765,Class A,1987,Summer,Tennessee,yes
+12649,Class A,1987,Fall,California,yes
+13170,Class A,1987,Summer,South Carolina,yes
+13276,Class B,1987,Summer,New Jersey,yes
+13918,Class A,1987,Fall,Mississippi,yes
+14144,Class A,1987,Fall,Mississippi,yes
+16970,Class A,1987,Spring,Tennessee,yes
+18333,Class B,1987,Fall,Connecticut,yes
+18439,Class B,1987,Fall,Georgia,yes
+20028,Class B,1987,Fall,Colorado,yes
+20420,Class B,1987,Summer,Florida,yes
+20435,Class B,1987,Summer,Washington,yes
+21359,Class A,1987,Summer,Georgia,yes
+21714,Class B,1987,Summer,Alabama,yes
+23614,Class A,1987,Summer,Washington,yes
+23823,Class A,1987,Fall,Tennessee,yes
+24419,Class A,1987,Summer,Tennessee,yes
+32249,Class A,1987,Spring,Florida,yes
+33859,Class A,1987,Summer,Illinois,yes
+36011,Class A,1987,Spring,Oklahoma,yes
+57944,Class B,1987,Fall,Oklahoma,yes
+83,Class A,1988,Fall,California,yes
+655,,,,,no
+177,Class B,1988,Fall,Utah,yes
+651,Class B,1988,Spring,Oregon,no
+674,Class A,1988,Fall,Oregon,no
+696,Class B,1988,Fall,Oregon,yes
+697,Class A,1988,Summer,Oregon,yes
+822,Class A,1988,Fall,Michigan,no
+1393,Class A,1988,Summer,Washington,yes
+1673,Class A,1988,Unknown,Washington,no
+711,,,,,no
+1757,Class B,1988,Winter,Montana,no
+1768,Class B,1988,Fall,Virginia,no
+2036,Class A,1988,Summer,Missouri,yes
+2183,Class A,1988,Fall,California,yes
+2333,Class B,1988,Fall,California,yes
+2473,Class B,1988,Fall,Indiana,yes
+2774,Class A,1988,Winter,Arkansas,no
+2888,Class C,1988,Fall,California,no
+3339,Class B,1988,Spring,North Carolina,no
+4158,Class A,1988,Fall,Texas,no
+712,,,,,no
+4310,Class B,1988,Spring,Ohio,no
+4310,Class B,1988,Spring,Ohio,no
+4952,Class A,1988,Winter,Ohio,no
+4962,Class B,1988,Summer,Ohio,no
+4980,Class B,1988,Summer,Ohio,no
+5685,Class A,1988,Summer,New York,no
+5953,Class B,1988,Fall,Washington,yes
+7239,Class B,1988,Winter,Indiana,yes
+8527,Class A,1988,Summer,Arkansas,yes
+8861,Class B,1988,Summer,Texas,no
+363,,,,,no
+10012,Class A,1988,Winter,Idaho,yes
+10157,Class A,1988,Spring,Texas,yes
+11576,Class A,1988,Fall,California,yes
+12587,Class A,1988,Summer,Florida,yes
+12789,Class B,1988,Fall,Ohio,yes
+13692,Class A,1988,Summer,Idaho,no
+24530,Class B,1988,Fall,Utah,yes
+24815,Class A,1988,Winter,Indiana,yes
+26997,Class A,1988,Summer,Ohio,yes
+27564,Class A,1988,Spring,Texas,yes
+28012,Class B,1988,Winter,Pennsylvania,yes
+28326,Class B,1988,Spring,Alabama,yes
+29403,Class B,1988,Fall,Tennessee,yes
+31100,Class B,1988,Spring,Ohio,yes
+43217,Class B,1988,Summer,Alabama,yes
+43758,Class A,1988,Fall,Pennsylvania,yes
+51530,Class B,1988,Summer,California,yes
+65277,Class A,1988,Winter,Missouri,yes
+145,Class B,1989,Winter,New York,no
+174,Class A,1989,Spring,California,yes
+510,,,,,no
+216,Class B,1989,Summer,Pennsylvania,no
+591,Class A,1989,Fall,Florida,no
+683,Class A,1989,Unknown,Oregon,no
+746,Class A,1989,Spring,Florida,no
+878,Class A,1989,Summer,Ohio,yes
+902,Class A,1989,Fall,Wyoming,no
+933,Class A,1989,Summer,Washington,yes
+1138,Class A,1989,Winter,Missouri,no
+1180,Class B,1989,Winter,Vermont,no
+1199,Class A,1989,Summer,Massachusetts,no
+1601,Class A,1989,Winter,New York,no
+1649,Class C,1989,Summer,Montana,no
+1693,Class A,1989,Spring,Montana,no
+2150,Class B,1989,Summer,California,no
+2168,Class B,1989,Summer,Indiana,yes
+2210,Class A,1989,Summer,California,no
+2351,Class B,1989,Fall,Utah,no
+2897,Class A,1989,Spring,Michigan,yes
+3387,Class B,1989,Summer,Oregon,yes
+3474,Class A,1989,Fall,Illinois,yes
+6443,Class A,1989,Summer,Tennessee,no
+7326,Class B,1989,Fall,Tennessee,yes
+8107,Class A,1989,Winter,Texas,yes
+9426,Class B,1989,Fall,California,yes
+10034,Class B,1989,Fall,Oregon,yes
+10220,Class B,1989,Fall,Tennessee,yes
+10910,Class A,1989,Fall,Illinois,yes
+12959,Class A,1989,Winter,West Virginia,yes
+13548,Class B,1989,Summer,Arizona,yes
+13663,Class A,1989,Fall,North Carolina,yes
+626,,,,,no
+15630,Class A,1989,Spring,Colorado,yes
+17195,Class B,1989,Fall,Utah,yes
+18680,Class B,1989,Summer,North Carolina,yes
+24738,Class B,1989,Summer,New Jersey,yes
+24794,Class B,1989,Spring,Minnesota,yes
+27141,Class B,1989,Summer,Iowa,yes
+27783,Class A,1989,Summer,Michigan,yes
+29330,Class B,1989,Spring,Maryland,yes
+30063,Class B,1989,Fall,Arkansas,yes
+30159,Class B,1989,Winter,Missouri,yes
+38375,Class B,1989,Fall,Arizona,yes
+41734,Class B,1989,Fall,Wisconsin,yes
+44368,Class A,1989,Spring,Washington,yes
+65278,Class A,1989,Fall,Missouri,yes
+317,Class A,1990,Spring,Kentucky,yes
+568,Class B,1990,Fall,Washington,yes
+638,Class B,1990,Summer,Texas,yes
+724,Class A,1990,Unknown,Florida,no
+1022,Class A,1990,Fall,Alabama,no
+1367,Class A,1990,Summer,Colorado,no
+1388,Class A,1990,Spring,Washington,no
+1587,Class A,1990,Spring,Washington,no
+2041,Class A,1990,Summer,Oklahoma,yes
+2191,Class A,1990,Unknown,California,no
+2394,Class A,1990,Summer,Texas,no
+615,,,,,no
+2394,Class A,1990,Summer,Texas,no
+2405,Class A,1990,Spring,New York,yes
+2843,Class B,1990,Summer,California,no
+174,,,,,no
+3379,Class B,1990,Fall,Washington,yes
+4325,Class A,1990,Fall,Michigan,yes
+4508,Class B,1990,Winter,New York,no
+4976,Class A,1990,Fall,Ohio,no
+4987,Class A,1990,Fall,Idaho,yes
+5022,Class B,1990,Winter,New York,no
+5064,Class B,1990,Fall,Missouri,yes
+5253,Class B,1990,Summer,California,yes
+5742,Class B,1990,Summer,Illinois,yes
+6160,Class B,1990,Fall,California,yes
+6782,Class A,1990,Fall,Colorado,no
+7085,Class A,1990,Summer,Ohio,yes
+7967,Class B,1990,Summer,Oregon,yes
+8060,Class A,1990,Fall,Tennessee,yes
+9036,Class A,1990,Unknown,Texas,yes
+9665,Class B,1990,Spring,Washington,yes
+11514,Class A,1990,Summer,Arizona,yes
+12628,Class B,1990,Summer,Florida,yes
+15492,Class A,1990,Summer,North Carolina,yes
+16228,Class B,1990,Summer,West Virginia,yes
+20100,Class A,1990,Fall,Michigan,yes
+21142,Class A,1990,Fall,Kentucky,yes
+22865,Class A,1990,Summer,Virginia,yes
+24755,Class A,1990,Winter,Washington,yes
+477,,,,,no
+27237,Class A,1990,Summer,Texas,yes
+27480,Class A,1990,Spring,Alabama,yes
+28305,Class B,1990,Summer,Texas,yes
+29025,Class A,1990,Summer,Washington,yes
+33789,Class A,1990,Fall,Florida,yes
+34572,Class B,1990,Summer,New Jersey,yes
+43588,Class A,1990,Fall,Michigan,yes
+51739,Class A,1990,Fall,Kentucky,yes
+62497,Class A,1990,Spring,California,no
+63984,Class A,1990,Summer,Arkansas,yes
+573,Class A,1991,Fall,Arizona,no
+386,,,,,no
+384,,,,,no
+44,,,,,no
+385,,,,,no
+624,Class B,1991,Summer,Oregon,yes
+668,Class B,1991,Summer,Oregon,no
+694,Class A,1991,Summer,Oregon,no
+55,,,,,no
+381,,,,,no
+767,Class A,1991,Fall,Michigan,yes
+889,Class A,1991,Summer,Washington,yes
+938,Class A,1991,Fall,Washington,no
+938,Class A,1991,Fall,Washington,no
+1064,Class A,1991,Fall,Minnesota,no
+653,,,,,no
+622,,,,,no
+1135,Class A,1991,Spring,Missouri,no
+1314,Class A,1991,Fall,Kansas,no
+1368,Class A,1991,Summer,Colorado,no
+1390,Class A,1991,Summer,Washington,yes
+1395,Class A,1991,Spring,Washington,yes
+1407,Class A,1991,Summer,Florida,yes
+1427,Class B,1991,Summer,New Jersey,no
+56,,,,,no
+1571,Class A,1991,Spring,Washington,no
+1600,Class A,1991,Spring,Washington,no
+1794,Class B,1991,Spring,California,yes
+2147,Class A,1991,Summer,California,yes
+2391,Class A,1991,Summer,Kentucky,no
+379,,,,,no
+376,,,,,no
+58,,,,,no
+57,,,,,no
+375,,,,,no
+2467,Class A,1991,Summer,Indiana,no
+2558,Class B,1991,Summer,California,yes
+2758,Class A,1991,Winter,Pennsylvania,yes
+584,,,,,no
+382,,,,,no
+60,,,,,no
+2787,Class A,1991,Summer,Michigan,yes
+3169,Class A,1991,Fall,California,yes
+3380,Class A,1991,Fall,Ohio,no
+4200,Class A,1991,Summer,Ohio,no
+4709,Class B,1991,Spring,Pennsylvania,yes
+5552,Class A,1991,Summer,Missouri,yes
+8948,Class B,1991,Fall,Oregon,yes
+746,,,,,no
+9175,Class B,1991,Summer,Washington,no
+9393,Class A,1991,Fall,Oregon,yes
+10609,Class B,1991,Summer,Wisconsin,yes
+10925,Class A,1991,Winter,Ohio,yes
+11897,Class A,1991,Summer,California,yes
+13383,Class A,1991,Fall,Montana,yes
+13964,Class B,1991,Fall,Arizona,yes
+14801,Class A,1991,Spring,North Carolina,yes
+722,,,,,no
+15108,Class A,1991,Fall,North Carolina,yes
+17189,Class B,1991,Summer,Ohio,yes
+18297,Class A,1991,Spring,Kentucky,yes
+18298,Class A,1991,Summer,California,yes
+22147,Class A,1991,Fall,Iowa,yes
+23768,Class A,1991,Spring,California,yes
+24235,Class A,1991,Winter,South Carolina,yes
+24767,Class B,1991,Fall,Missouri,yes
+61,,,,,no
+26224,Class B,1991,Fall,Oregon,yes
+27473,Class A,1991,Fall,Washington,yes
+28418,Class A,1991,Summer,Florida,yes
+30573,Class A,1991,Fall,Missouri,yes
+570,,,,,no
+33638,Class A,1991,Fall,Illinois,yes
+37823,Class A,1991,Summer,Michigan,yes
+39639,Class B,1991,Summer,New Jersey,yes
+48599,Class B,1991,Winter,Florida,yes
+63748,Class A,1991,Fall,Washington,yes
+67480,Class A,1991,Summer,California,yes
+97,Class B,1992,Winter,California,yes
+15,,,,,no
+264,Class A,1992,Fall,California,yes
+283,Class B,1992,Summer,Washington,no
+687,Class B,1992,Fall,Oregon,no
+742,Class A,1992,Summer,Oklahoma,yes
+1065,Class A,1992,Spring,Oregon,yes
+1260,Class A,1992,Fall,Alaska,no
+1283,Class B,1992,Winter,Florida,yes
+1305,Class A,1992,Spring,Oklahoma,no
+1769,Class A,1992,Summer,Virginia,no
+2457,Class B,1992,Winter,Indiana,no
+2804,Class A,1992,Fall,Wisconsin,no
+3298,Class A,1992,Fall,New York,no
+3683,Class B,1992,Unknown,California,yes
+3731,Class A,1992,Fall,Oklahoma,yes
+4139,Class B,1992,Fall,Texas,no
+4478,Class A,1992,Summer,Pennsylvania,yes
+4542,Class B,1992,Fall,Tennessee,no
+4859,Class A,1992,Spring,Washington,yes
+4947,Class B,1992,Summer,California,yes
+5030,Class A,1992,Unknown,Ohio,no
+5136,Class B,1992,Spring,Washington,yes
+6419,Class A,1992,Spring,Tennessee,no
+6824,Class A,1992,Spring,California,yes
+7059,Class B,1992,Winter,Arkansas,yes
+7146,Class A,1992,Summer,Washington,yes
+7519,Class A,1992,Winter,Texas,yes
+8784,Class B,1992,Fall,California,yes
+9283,Class A,1992,Summer,California,yes
+10729,Class A,1992,Fall,Ohio,yes
+11089,Class B,1992,Spring,New York,yes
+11304,Class B,1992,Fall,Oregon,yes
+17730,Class A,1992,Winter,Virginia,yes
+18043,Class A,1992,Summer,Alabama,yes
+18707,Class A,1992,Summer,Georgia,yes
+22899,Class B,1992,Spring,Alabama,yes
+23300,Class B,1992,Winter,Washington,yes
+23615,Class A,1992,Summer,North Carolina,yes
+24254,Class A,1992,Summer,Arkansas,yes
+24673,Class A,1992,Fall,Illinois,yes
+24862,Class B,1992,Fall,Indiana,yes
+24868,Class A,1992,Fall,Michigan,yes
+25323,Class A,1992,Summer,Minnesota,yes
+38946,Class B,1992,Fall,Michigan,yes
+42364,Class A,1992,Summer,Arizona,yes
+65862,Class A,1992,Unknown,California,yes
+417,Class A,1993,Summer,South Carolina,yes
+451,Class A,1993,Summer,Alabama,yes
+475,Class B,1993,Summer,Michigan,yes
+657,Class B,1993,Summer,Oregon,yes
+659,Class A,1993,Spring,Oregon,yes
+698,Class A,1993,Winter,Oregon,yes
+701,Class B,1993,Summer,Oregon,no
+720,,,,,no
+720,Class A,1993,Winter,Florida,no
+789,Class A,1993,Summer,South Carolina,no
+812,Class A,1993,Summer,Michigan,no
+1005,Class A,1993,Winter,Pennsylvania,yes
+1045,Class A,1993,Fall,Kentucky,yes
+1055,Class A,1993,Spring,California,yes
+1129,Class A,1993,Spring,Michigan,yes
+1431,Class B,1993,Summer,Texas,yes
+197,,,,,no
+1454,Class A,1993,Summer,Montana,no
+1568,Class A,1993,Fall,Washington,yes
+1750,Class A,1993,Summer,Ohio,yes
+1864,Class A,1993,Winter,Georgia,no
+2247,Class A,1993,Fall,California,no
+2283,Class A,1993,Summer,Virginia,no
+2311,Class B,1993,Winter,California,yes
+2319,Class B,1993,Fall,Idaho,no
+2363,Class A,1993,Winter,Kentucky,no
+2368,Class A,1993,Summer,Kentucky,no
+2784,Class B,1993,Fall,Pennsylvania,yes
+2842,Class A,1993,Summer,California,no
+2886,Class A,1993,Summer,California,yes
+2954,Class A,1993,Summer,California,no
+2956,Class A,1993,Winter,California,no
+3558,Class A,1993,Spring,Pennsylvania,no
+4117,Class A,1993,Spring,Pennsylvania,no
+4446,Class A,1993,Summer,California,yes
+4458,Class B,1993,Summer,Ohio,yes
+4945,Class B,1993,Fall,Minnesota,yes
+5495,Class A,1993,Summer,Washington,no
+6875,Class A,1993,Fall,Maryland,yes
+7148,Class B,1993,Fall,Oregon,yes
+7566,Class A,1993,Summer,Arizona,yes
+7597,Class A,1993,Winter,Washington,yes
+8375,Class A,1993,Winter,Washington,yes
+10097,Class A,1993,Summer,Oregon,yes
+432,,,,,no
+431,,,,,no
+10272,Class A,1993,Winter,Texas,yes
+10470,Class B,1993,Summer,Washington,yes
+424,,,,,no
+11389,Class A,1993,Fall,Texas,yes
+12216,Class A,1993,Summer,Oregon,yes
+12929,Class B,1993,Summer,Washington,yes
+13424,Class A,1993,Winter,California,yes
+594,,,,,no
+14407,Class A,1993,Fall,California,yes
+19354,Class B,1993,Summer,Florida,yes
+22973,Class A,1993,Summer,Michigan,yes
+23696,Class A,1993,Spring,Florida,yes
+24574,Class A,1993,Summer,California,yes
+25768,Class B,1993,Winter,Michigan,yes
+26487,Class A,1993,Fall,Idaho,yes
+26850,Class A,1993,Fall,California,yes
+27177,Class A,1993,Unknown,California,yes
+27785,Class A,1993,Fall,Missouri,yes
+28637,Class A,1993,Spring,Georgia,yes
+29244,Class B,1993,Fall,Tennessee,yes
+29975,Class B,1993,Spring,Washington,yes
+30596,Class B,1993,Fall,Kentucky,yes
+31814,Class A,1993,Fall,Maryland,yes
+37697,Class A,1993,Fall,Illinois,yes
+41427,Class A,1993,Summer,Missouri,yes
+45649,Class A,1993,Spring,Texas,yes
+55451,Class A,1993,Fall,Washington,yes
+63362,Class B,1993,Spring,Montana,yes
+608,,,,,no
+618,,,,,no
+246,Class A,1994,Winter,Florida,yes
+273,Class B,1994,Fall,Alabama,yes
+531,Class A,1994,Fall,Oregon,yes
+676,Class B,1994,Summer,Oregon,no
+588,,,,,no
+686,Class B,1994,Summer,Oregon,no
+958,Class A,1994,Fall,Washington,no
+589,,,,,no
+590,,,,,no
+591,,,,,no
+980,Class A,1994,Fall,Oregon,yes
+1036,Class B,1994,Summer,California,yes
+425,,,,,no
+1060,Class A,1994,Summer,Minnesota,no
+1114,Class A,1994,Summer,California,yes
+422,,,,,no
+421,,,,,no
+471,,,,,no
+1351,Class A,1994,Summer,Colorado,yes
+1363,Class A,1994,Fall,Colorado,no
+1411,Class A,1994,Summer,Wyoming,yes
+1518,Class B,1994,Fall,Montana,no
+472,,,,,no
+1831,Class B,1994,Fall,Florida,yes
+1841,Class B,1994,Summer,Washington,yes
+1951,Class A,1994,Summer,Utah,no
+2115,Class A,1994,Spring,Utah,yes
+2435,Class A,1994,Fall,Kentucky,no
+3337,Class A,1994,Fall,North Carolina,no
+3866,Class B,1994,Spring,Pennsylvania,yes
+4094,Class A,1994,Fall,Arkansas,no
+4202,Class A,1994,Fall,Ohio,no
+4614,Class A,1994,Spring,Colorado,yes
+4761,Class B,1994,Fall,Wisconsin,yes
+434,,,,,no
+4961,Class B,1994,Winter,Ohio,no
+5509,Class B,1994,Summer,California,yes
+5627,Class A,1994,Summer,Montana,yes
+5801,Class A,1994,Spring,Florida,yes
+6429,Class A,1994,Fall,California,yes
+6461,Class A,1994,Winter,Tennessee,no
+6712,Class B,1994,Summer,Washington,yes
+7045,Class A,1994,Spring,Arkansas,yes
+7229,Class A,1994,Spring,Washington,yes
+7263,Class A,1994,Spring,Oregon,yes
+7275,Class B,1994,Summer,Michigan,yes
+7827,Class A,1994,Fall,Colorado,yes
+8069,Class B,1994,Summer,California,yes
+8316,Class A,1994,Spring,Florida,no
+8514,Class A,1994,Spring,Florida,yes
+9507,Class A,1994,Summer,Arkansas,yes
+9607,Class A,1994,Fall,Pennsylvania,yes
+10239,Class B,1994,Summer,Texas,yes
+10778,Class B,1994,Summer,Maryland,yes
+11387,Class B,1994,Spring,Florida,yes
+11449,Class B,1994,Winter,Oregon,yes
+11519,Class B,1994,Spring,California,yes
+14427,Class A,1994,Summer,Florida,yes
+15473,Class B,1994,Spring,Alabama,yes
+15746,Class A,1994,Summer,Oregon,yes
+18278,Class A,1994,Winter,Missouri,yes
+718,,,,,no
+657,,,,,no
+601,,,,,no
+677,,,,,no
+595,,,,,no
+604,,,,,no
+602,,,,,no
+603,,,,,no
+600,,,,,no
+670,,,,,no
+19206,Class A,1994,Fall,West Virginia,yes
+19666,Class B,1994,Winter,Texas,yes
+19910,Class A,1994,Fall,Illinois,yes
+426,,,,,no
+20981,Class B,1994,Summer,Florida,yes
+23033,Class A,1994,Fall,Washington,yes
+593,,,,,no
+24800,Class A,1994,Summer,Kentucky,yes
+25062,Class B,1994,Fall,West Virginia,yes
+27486,Class B,1994,Spring,Tennessee,yes
+635,,,,,no
+597,,,,,no
+27941,Class A,1994,Spring,Kentucky,yes
+28777,Class B,1994,Winter,Pennsylvania,yes
+28820,Class A,1994,Winter,Ohio,yes
+29326,Class A,1994,Spring,Georgia,yes
+650,,,,,no
+48372,Class A,1994,Fall,Ohio,yes
+63795,Class A,1994,Winter,Kansas,yes
+63832,Class A,1994,Fall,New York,yes
+109,Class A,1995,Summer,Oregon,yes
+116,Class B,1995,Spring,Oregon,yes
+650,Class B,1995,Fall,Oregon,no
+654,Class A,1995,Fall,Oregon,no
+693,Class B,1995,Fall,Oregon,no
+707,Class A,1995,Summer,Oregon,no
+946,Class A,1995,Summer,Washington,no
+949,Class B,1995,Fall,Arizona,yes
+971,Class A,1995,Summer,South Carolina,no
+1068,Class A,1995,Fall,California,yes
+452,,,,,no
+1077,Class A,1995,Spring,Washington,no
+1389,Class B,1995,Fall,Washington,no
+1557,Class A,1995,Summer,California,yes
+1602,Class A,1995,Summer,Washington,no
+592,,,,,no
+1637,Class A,1995,Spring,Arkansas,no
+598,,,,,no
+2062,Class A,1995,Fall,Idaho,no
+2148,Class B,1995,Fall,California,yes
+451,,,,,no
+2226,Class A,1995,Fall,California,no
+2280,Class B,1995,Summer,Virginia,no
+2317,Class A,1995,Summer,Idaho,no
+429,,,,,no
+2353,Class B,1995,Fall,Oklahoma,yes
+2365,Class C,1995,Unknown,Kentucky,no
+2384,Class A,1995,Winter,Kentucky,no
+2389,Class B,1995,Summer,Kentucky,no
+2460,Class B,1995,Spring,Indiana,yes
+2819,Class A,1995,Spring,California,no
+2850,Class A,1995,Winter,Ohio,yes
+2917,Class A,1995,Spring,Alaska,yes
+2960,Class C,1995,Winter,California,no
+2961,Class B,1995,Fall,California,no
+3297,Class A,1995,Fall,Oregon,yes
+3438,Class A,1995,Spring,Washington,yes
+4109,Class B,1995,Winter,Georgia,yes
+4159,Class C,1995,Fall,Texas,no
+636,,,,,no
+5121,Class B,1995,Summer,Connecticut,yes
+5259,Class B,1995,Fall,Ohio,yes
+6406,Class B,1995,Summer,Vermont,yes
+6541,Class A,1995,Fall,Oklahoma,yes
+7568,Class A,1995,Fall,Texas,yes
+7823,Class B,1995,Summer,New Mexico,yes
+8460,Class B,1995,Summer,Idaho,yes
+8502,Class A,1995,Spring,Wisconsin,yes
+10249,Class B,1995,Fall,New Jersey,yes
+11260,Class A,1995,Fall,Texas,yes
+13411,Class A,1995,Fall,Colorado,yes
+13653,Class A,1995,Summer,Oregon,yes
+13882,Class B,1995,Winter,Ohio,yes
+14828,Class B,1995,Spring,Michigan,yes
+15067,Class A,1995,Fall,Oregon,yes
+15251,Class A,1995,Winter,Illinois,yes
+668,,,,,no
+648,,,,,no
+648,,,,,no
+651,,,,,no
+581,,,,,no
+579,,,,,no
+580,,,,,no
+606,,,,,no
+15885,Class A,1995,Summer,Ohio,yes
+16295,Class A,1995,Winter,Washington,yes
+17326,Class B,1995,Fall,Virginia,yes
+21254,Class B,1995,Winter,Florida,yes
+22192,Class B,1995,Winter,New Jersey,yes
+23319,Class B,1995,Summer,California,yes
+25907,Class B,1995,Fall,Oregon,yes
+26101,Class A,1995,Winter,Washington,yes
+26222,Class B,1995,Summer,Washington,yes
+28123,Class A,1995,Summer,Washington,yes
+29704,Class B,1995,Summer,Tennessee,yes
+30735,Class A,1995,Fall,North Carolina,yes
+33908,Class A,1995,Summer,Washington,yes
+36218,Class A,1995,Spring,Florida,yes
+38013,Class B,1995,Winter,Washington,yes
+596,,,,,no
+430,,,,,no
+44066,Class B,1995,Spring,Ohio,yes
+62405,Class B,1995,Summer,Kansas,yes
+65566,Class B,1995,Summer,California,yes
+649,,,,,no
+656,,,,,no
+140,Class B,1996,Summer,Colorado,no
+292,Class A,1996,Fall,Indiana,yes
+329,Class A,1996,Fall,Maryland,yes
+398,Class A,1996,Summer,Georgia,yes
+450,,,,,no
+491,Class B,1996,Summer,New Mexico,no
+564,Class A,1996,Summer,Kansas,yes
+660,Class A,1996,Summer,Oregon,no
+663,Class B,1996,Summer,Oregon,no
+664,Class A,1996,Fall,Oregon,no
+665,Class B,1996,Fall,Oregon,no
+721,,,,,no
+634,,,,,no
+680,Class A,1996,Fall,Oregon,yes
+682,Class B,1996,Fall,Oregon,no
+730,Class A,1996,Fall,Florida,no
+919,Class A,1996,Spring,California,yes
+942,Class B,1996,Spring,Washington,no
+1082,Class A,1996,Spring,South Dakota,no
+1102,Class A,1996,Fall,Washington,no
+1170,Class A,1996,Summer,Maryland,no
+1227,Class B,1996,Spring,Washington,no
+1373,Class A,1996,Fall,Colorado,no
+1478,Class B,1996,Summer,Washington,yes
+1480,Class B,1996,Fall,Florida,no
+1537,Class A,1996,Winter,Louisiana,no
+1567,Class B,1996,Spring,Washington,no
+1572,Class B,1996,Summer,Washington,no
+1573,Class A,1996,Fall,Washington,no
+1591,Class B,1996,Winter,Washington,no
+1638,Class A,1996,Summer,Arkansas,no
+1640,Class A,1996,Fall,Arkansas,no
+1665,Class B,1996,Spring,California,no
+1685,Class A,1996,Unknown,Washington,no
+1686,Class A,1996,Summer,Washington,no
+1690,Class B,1996,Fall,Washington,no
+1760,Class A,1996,Fall,Colorado,yes
+1781,Class A,1996,Summer,Washington,yes
+638,,,,,no
+637,,,,,no
+1907,Class A,1996,Winter,Alabama,no
+2032,Class A,1996,Fall,Oklahoma,yes
+2048,Class A,1996,Winter,Texas,no
+2049,Class A,1996,Winter,Texas,no
+2137,Class A,1996,Summer,California,no
+2227,Class A,1996,Summer,California,no
+2315,Class B,1996,Summer,Idaho,yes
+2352,Class A,1996,Spring,Utah,no
+2600,Class A,1996,Spring,Washington,yes
+420,,,,,no
+2820,Class A,1996,Spring,California,no
+3044,Class C,1996,Unknown,Wisconsin,no
+3390,Class B,1996,Fall,Texas,yes
+3557,Class B,1996,Fall,Pennsylvania,no
+633,,,,,no
+704,,,,,no
+632,,,,,no
+631,,,,,no
+630,,,,,no
+3564,Class B,1996,Spring,Pennsylvania,no
+3664,Class A,1996,Summer,Colorado,yes
+4187,Class B,1996,Spring,Idaho,yes
+610,,,,,no
+4337,Class A,1996,Winter,Texas,yes
+4974,Class B,1996,Summer,Ohio,no
+5186,Class B,1996,Summer,Washington,yes
+5242,Class B,1996,Fall,Oregon,yes
+5326,Class A,1996,Fall,New York,no
+7096,Class A,1996,Summer,Michigan,yes
+7649,Class A,1996,Winter,Texas,yes
+7651,Class B,1996,Summer,Maryland,no
+7870,Class A,1996,Fall,Idaho,yes
+8042,Class A,1996,Fall,Ohio,yes
+8116,Class B,1996,Winter,Texas,yes
+9305,Class A,1996,Summer,Texas,yes
+9385,Class A,1996,Summer,Texas,yes
+9797,Class A,1996,Summer,Oregon,yes
+10289,Class A,1996,Summer,New York,yes
+10805,Class B,1996,Fall,Pennsylvania,yes
+10934,Class B,1996,Spring,Oregon,no
+11998,Class A,1996,Fall,Kentucky,yes
+12641,Class A,1996,Fall,Kentucky,yes
+13122,Class B,1996,Fall,West Virginia,yes
+14677,Class A,1996,Fall,Pennsylvania,yes
+599,,,,,no
+16896,Class B,1996,Winter,Kentucky,yes
+16994,Class A,1996,Spring,Washington,yes
+18395,Class B,1996,Spring,Florida,yes
+20579,Class B,1996,Fall,Michigan,yes
+23521,Class A,1996,Summer,Idaho,yes
+24602,Class B,1996,Summer,Utah,yes
+25241,Class A,1996,Summer,Nebraska,yes
+25703,Class A,1996,Fall,Oklahoma,yes
+26100,Class A,1996,Fall,Arkansas,yes
+34728,Class A,1996,Summer,Illinois,yes
+41492,Class B,1996,Summer,Massachusetts,yes
+55224,Class A,1996,Summer,Illinois,yes
+62813,Class A,1996,Summer,Missouri,yes
+76,Class B,1997,Summer,Arkansas,no
+105,Class A,1997,Fall,Pennsylvania,no
+493,Class B,1997,Fall,Tennessee,no
+615,Class A,1997,Winter,California,yes
+702,Class A,1997,Fall,Oregon,no
+721,Class A,1997,Summer,Florida,yes
+729,Class A,1997,Summer,Florida,no
+810,Class A,1997,Fall,Michigan,no
+823,Class B,1997,Spring,Michigan,no
+865,Class A,1997,Winter,California,yes
+903,Class A,1997,Summer,Wyoming,no
+928,Class B,1997,Spring,Washington,no
+959,Class A,1997,Fall,Washington,no
+961,Class A,1997,Winter,Alabama,no
+993,Class A,1997,Summer,South Carolina,yes
+1105,Class A,1997,Fall,Wisconsin,no
+1118,Class A,1997,Spring,Missouri,no
+1204,Class B,1997,Winter,West Virginia,no
+1206,Class A,1997,Fall,West Virginia,no
+1225,Class A,1997,Summer,Washington,no
+1240,Class A,1997,Fall,Wyoming,no
+1274,Class A,1997,Summer,Iowa,no
+202,,,,,no
+1296,Class A,1997,Fall,Oklahoma,no
+1297,Class A,1997,Summer,Oklahoma,no
+1298,Class A,1997,Summer,Oklahoma,no
+1345,Class A,1997,Fall,Mississippi,no
+1349,Class B,1997,Unknown,Colorado,no
+1352,Class A,1997,Summer,Colorado,no
+1354,Class A,1997,Fall,Colorado,no
+1359,Class A,1997,Fall,Colorado,no
+1394,Class B,1997,Summer,Washington,no
+1428,Class B,1997,Spring,New Jersey,yes
+1434,Class C,1997,Winter,Utah,no
+1453,Class B,1997,Fall,New York,no
+1525,Class A,1997,Fall,New York,no
+275,,,,,no
+1569,Class B,1997,Winter,Washington,no
+1594,Class A,1997,Fall,Washington,no
+1633,Class B,1997,Summer,Texas,yes
+1650,Class A,1997,Fall,Washington,yes
+203,,,,,no
+1687,Class A,1997,Unknown,Washington,no
+1995,Class B,1997,Fall,Alaska,yes
+2026,Class B,1997,Spring,Oregon,yes
+2059,Class A,1997,Spring,Idaho,no
+2102,Class A,1997,Summer,Oregon,yes
+2157,Class B,1997,Summer,Texas,no
+2281,Class A,1997,Spring,Virginia,no
+2367,Class A,1997,Fall,Kentucky,no
+2464,Class B,1997,Winter,Indiana,no
+2788,Class A,1997,Winter,Oklahoma,yes
+2863,Class A,1997,Fall,Wisconsin,no
+2873,Class B,1997,Summer,California,no
+2955,Class B,1997,Summer,California,no
+3381,Class A,1997,Summer,Ohio,yes
+3386,Class C,1997,Spring,Ohio,no
+3541,Class B,1997,Summer,Pennsylvania,no
+3542,Class A,1997,Fall,Pennsylvania,no
+3563,Class A,1997,Summer,Pennsylvania,no
+3569,Class A,1997,Summer,Pennsylvania,no
+3895,Class A,1997,Summer,New Mexico,yes
+4557,Class A,1997,Summer,Ohio,no
+4767,Class A,1997,Fall,Mississippi,yes
+4901,Class B,1997,Summer,New York,no
+4951,Class A,1997,Fall,Ohio,no
+4967,Class B,1997,Spring,Ohio,no
+5160,Class A,1997,Summer,California,yes
+5228,Class A,1997,Spring,Arkansas,yes
+5262,Class B,1997,Winter,Ohio,yes
+5493,Class A,1997,Summer,Colorado,yes
+5703,Class B,1997,Fall,New York,no
+5813,Class A,1997,Fall,Utah,yes
+6755,Class B,1997,Fall,Colorado,no
+7441,Class A,1997,Summer,Washington,no
+7493,Class B,1997,Fall,Ohio,yes
+78,,,,,no
+77,,,,,no
+7514,Class B,1997,Spring,New York,yes
+8135,Class A,1997,Fall,Maryland,yes
+8429,Class B,1997,Fall,Mississippi,yes
+8804,Class A,1997,Fall,North Carolina,yes
+8880,Class B,1997,Spring,Georgia,no
+9863,Class B,1997,Spring,Washington,yes
+10324,Class B,1997,Summer,Oregon,no
+10927,Class A,1997,Fall,Missouri,yes
+11070,Class A,1997,Summer,Idaho,yes
+11549,Class B,1997,Summer,Arizona,yes
+12470,Class A,1997,Summer,Missouri,yes
+13768,Class B,1997,Fall,Idaho,yes
+15318,Class B,1997,Summer,Florida,yes
+16701,Class A,1997,Fall,New Jersey,yes
+16870,Class A,1997,Fall,Wisconsin,yes
+17168,Class B,1997,Summer,Alabama,yes
+17287,Class A,1997,Fall,Utah,yes
+18122,Class A,1997,Spring,New York,yes
+19588,Class A,1997,Fall,Indiana,yes
+22431,Class B,1997,Summer,California,yes
+25552,Class B,1997,Fall,Colorado,yes
+25793,Class A,1997,Summer,Indiana,yes
+28090,Class B,1997,Fall,Nebraska,yes
+28803,Class A,1997,Fall,Indiana,yes
+28873,Class A,1997,Fall,Texas,yes
+29675,Class A,1997,Fall,Michigan,yes
+30645,Class B,1997,Fall,Illinois,yes
+45665,Class A,1997,Winter,Tennessee,yes
+48655,Class B,1997,Summer,Missouri,yes
+79,,,,,no
+50678,Class B,1997,Summer,Washington,yes
+55225,Class B,1997,Fall,Missouri,yes
+59099,Class B,1997,Summer,Washington,yes
+62496,Class B,1997,Fall,California,yes
+62558,Class A,1997,Fall,Minnesota,yes
+62678,Class A,1997,Spring,Arkansas,yes
+64019,Class A,1997,Summer,Oregon,yes
+186,Class A,1998,Fall,Arkansas,yes
+80,,,,,no
+202,Class A,1998,Spring,Illinois,yes
+378,Class A,1998,Summer,Ohio,no
+455,Class B,1998,Summer,Oregon,yes
+580,Class B,1998,Summer,Pennsylvania,yes
+596,Class B,1998,Fall,California,no
+690,Class A,1998,Summer,Oregon,yes
+722,Class A,1998,Winter,Florida,no
+733,Class A,1998,Winter,Florida,yes
+794,Class B,1998,Fall,Michigan,no
+795,Class B,1998,Summer,Michigan,no
+796,Class B,1998,Fall,Michigan,no
+880,Class A,1998,Fall,Colorado,yes
+976,Class A,1998,Spring,South Carolina,no
+195,,,,,no
+1116,Class B,1998,Fall,Missouri,no
+1203,Class B,1998,Summer,West Virginia,no
+1205,Class A,1998,Winter,West Virginia,no
+1214,Class A,1998,Spring,Pennsylvania,yes
+1255,Class B,1998,Fall,Alaska,no
+1257,Class A,1998,Spring,Alaska,no
+1350,Class A,1998,Summer,Colorado,no
+1361,Class A,1998,Spring,Colorado,no
+1369,Class B,1998,Summer,Colorado,no
+1374,Class A,1998,Summer,Colorado,yes
+1386,Class B,1998,Spring,Washington,yes
+1520,Class B,1998,Summer,New York,no
+1523,Class B,1998,Fall,New York,no
+1553,Class B,1998,Fall,New Mexico,no
+1558,Class B,1998,Spring,New Jersey,no
+1570,Class A,1998,Fall,Washington,no
+1578,Class B,1998,Spring,California,no
+1579,Class B,1998,Summer,California,no
+1597,Class B,1998,Summer,New York,no
+1599,Class B,1998,Summer,New York,no
+1641,Class A,1998,Fall,Arkansas,no
+1647,Class B,1998,Unknown,Washington,yes
+1655,Class A,1998,Winter,California,no
+1669,Class B,1998,Summer,Washington,no
+1733,Class A,1998,Winter,Arizona,yes
+1751,Class A,1998,Fall,Ohio,yes
+1766,Class B,1998,Summer,Washington,no
+1996,Class B,1998,Summer,Washington,yes
+2211,Class B,1998,Spring,California,no
+2212,Class B,1998,Fall,California,no
+2284,Class A,1998,Summer,Virginia,no
+2286,Class B,1998,Summer,Virginia,no
+2326,Class B,1998,Fall,California,yes
+2349,Class B,1998,Fall,Utah,no
+2375,Class B,1998,Fall,Arizona,yes
+2461,Class A,1998,Winter,Indiana,no
+2468,Class B,1998,Fall,Indiana,no
+2475,Class B,1998,Summer,Indiana,no
+2589,Class B,1998,Summer,Georgia,no
+2817,Class B,1998,Summer,California,no
+2861,Class A,1998,Summer,California,no
+2862,Class A,1998,Summer,California,no
+2877,Class A,1998,Summer,California,no
+2878,Class C,1998,Summer,California,no
+2902,Class A,1998,Spring,Ohio,yes
+3226,Class A,1998,Fall,Arkansas,yes
+3253,Class A,1998,Summer,Kentucky,yes
+3331,Class B,1998,Fall,North Carolina,no
+3336,Class B,1998,Spring,North Carolina,no
+3393,Class B,1998,Fall,Texas,yes
+3533,Class B,1998,Fall,Ohio,yes
+3561,Class A,1998,Summer,Pennsylvania,no
+3589,Class B,1998,Spring,Ohio,yes
+3604,Class B,1998,Summer,Colorado,no
+3613,Class B,1998,Summer,Washington,no
+3652,Class A,1998,Fall,Colorado,yes
+3672,Class A,1998,Summer,California,yes
+3686,Class A,1998,Summer,Ohio,yes
+3767,Class A,1998,Summer,Ohio,yes
+4144,Class A,1998,Winter,Texas,no
+4286,Class A,1998,Summer,New York,yes
+4558,Class A,1998,Fall,Ohio,no
+4635,Class B,1998,Spring,Indiana,yes
+4950,Class B,1998,Spring,Ohio,no
+4973,Class A,1998,Fall,Ohio,no
+5173,Class A,1998,Fall,South Dakota,yes
+5241,Class A,1998,Summer,New York,no
+5267,Class A,1998,Fall,Ohio,yes
+5395,Class A,1998,Fall,Georgia,yes
+5535,Class B,1998,Summer,New Mexico,yes
+5607,Class A,1998,Summer,Arkansas,yes
+7294,Class A,1998,Winter,Virginia,yes
+7421,Class A,1998,Summer,Maine,yes
+7679,Class A,1998,Summer,Texas,yes
+7792,Class B,1998,Winter,Florida,no
+8456,Class B,1998,Summer,Washington,yes
+8532,Class B,1998,Spring,Washington,yes
+8732,Class A,1998,Winter,Mississippi,yes
+8868,Class B,1998,Summer,California,yes
+9818,Class A,1998,Spring,Georgia,yes
+9872,Class A,1998,Summer,Michigan,yes
+9924,Class A,1998,Spring,Texas,yes
+10855,Class A,1998,Fall,Florida,yes
+11726,Class A,1998,Winter,New York,yes
+12528,Class A,1998,Spring,Missouri,yes
+13033,Class B,1998,Fall,Wyoming,yes
+14143,Class A,1998,Summer,New Jersey,yes
+14814,Class A,1998,Summer,Colorado,yes
+15923,Class A,1998,Fall,Rhode Island,yes
+17089,Class A,1998,Fall,Georgia,yes
+18059,Class B,1998,Fall,Illinois,yes
+22434,Class A,1998,Summer,California,yes
+22577,Class B,1998,Fall,Nebraska,yes
+22600,Class B,1998,Summer,Missouri,yes
+23125,Class A,1998,Summer,Ohio,yes
+23291,Class B,1998,Winter,Utah,yes
+23314,Class A,1998,Summer,South Carolina,yes
+24714,Class B,1998,Fall,Washington,yes
+26072,Class B,1998,Fall,South Carolina,yes
+26271,Class B,1998,Fall,Florida,yes
+27702,Class A,1998,Summer,Maryland,yes
+29360,Class B,1998,Fall,Illinois,yes
+29624,Class A,1998,Summer,Florida,yes
+30570,Class B,1998,Fall,Texas,yes
+31488,Class B,1998,Fall,Oregon,yes
+39329,Class B,1998,Fall,New Jersey,yes
+42794,Class A,1998,Fall,Illinois,yes
+43823,Class B,1998,Fall,Washington,yes
+43963,Class B,1998,Fall,Alabama,yes
+65734,Class B,1998,Spring,Massachusetts,yes
+206,Class B,1999,Summer,Oregon,yes
+245,Class A,1999,Summer,Alabama,yes
+391,Class B,1999,Spring,Washington,yes
+675,Class A,1999,Fall,Oregon,no
+684,Class B,1999,Fall,Oregon,no
+689,Class B,1999,Summer,Oregon,yes
+731,Class A,1999,Spring,Florida,no
+734,Class A,1999,Spring,Florida,no
+736,Class A,1999,Winter,Florida,yes
+945,Class C,1999,Spring,Washington,no
+982,Class B,1999,Summer,Ohio,no
+1098,Class A,1999,Summer,South Dakota,no
+1202,Class A,1999,Spring,West Virginia,no
+1300,Class B,1999,Fall,Oklahoma,yes
+1391,Class A,1999,Spring,California,yes
+1450,Class A,1999,Fall,New York,yes
+1488,Class A,1999,Fall,Kentucky,yes
+1496,Class B,1999,Fall,California,yes
+1586,Class B,1999,Summer,Washington,no
+1696,Class A,1999,Fall,Indiana,yes
+1748,Class A,1999,Summer,Maryland,yes
+438,,,,,no
+85,,,,,no
+84,,,,,no
+1865,Class B,1999,Spring,Georgia,no
+1963,Class B,1999,Summer,California,yes
+2093,Class B,1999,Spring,Georgia,no
+2094,Class B,1999,Spring,Georgia,no
+2141,Class A,1999,Summer,California,no
+2151,Class B,1999,Summer,California,no
+2332,Class B,1999,Summer,Ohio,yes
+2509,Class B,1999,Winter,Iowa,yes
+2678,Class B,1999,Summer,Maine,yes
+2797,Class B,1999,Winter,Wisconsin,no
+2898,Class A,1999,Fall,Pennsylvania,yes
+2995,Class A,1999,Summer,Montana,yes
+3042,Class A,1999,Fall,Oklahoma,yes
+3350,Class B,1999,Fall,Ohio,no
+3506,Class A,1999,Winter,Colorado,yes
+3629,Class A,1999,Summer,Idaho,yes
+3800,Class B,1999,Fall,Washington,yes
+3826,Class B,1999,Summer,West Virginia,yes
+4176,Class A,1999,Spring,Ohio,no
+4201,Class B,1999,Spring,Ohio,no
+4335,Class A,1999,Summer,Washington,yes
+4779,Class A,1999,Winter,Washington,yes
+413,,,,,no
+414,,,,,no
+726,,,,,no
+70,,,,,no
+4964,Class A,1999,Winter,Ohio,yes
+5321,Class A,1999,Winter,Michigan,yes
+6932,Class A,1999,Fall,Arkansas,no
+7113,Class A,1999,Summer,Georgia,yes
+7237,Class A,1999,Fall,Georgia,yes
+7455,Class A,1999,Fall,Washington,yes
+7546,Class A,1999,Fall,Texas,yes
+49,,,,,no
+48,,,,,no
+7872,Class B,1999,Spring,New York,yes
+7988,Class A,1999,Winter,California,yes
+8345,Class A,1999,Winter,California,yes
+8351,Class B,1999,Summer,Michigan,yes
+8381,Class A,1999,Summer,Oklahoma,yes
+8561,Class B,1999,Summer,Florida,yes
+8696,Class A,1999,Fall,Illinois,yes
+669,,,,,no
+9387,Class A,1999,Spring,Texas,yes
+9750,Class A,1999,Summer,North Carolina,yes
+10093,Class B,1999,Fall,Arkansas,yes
+10678,Class A,1999,Summer,Indiana,yes
+10776,Class B,1999,Winter,North Carolina,yes
+11687,Class A,1999,Fall,Texas,yes
+14503,Class A,1999,Summer,Colorado,yes
+15178,Class B,1999,Winter,Arizona,yes
+15398,Class B,1999,Fall,New York,yes
+15479,Class A,1999,Spring,Michigan,yes
+16294,Class A,1999,Spring,Missouri,yes
+16644,Class B,1999,Spring,Washington,yes
+18001,Class B,1999,Summer,Georgia,yes
+23822,Class A,1999,Fall,Utah,yes
+24544,Class A,1999,Fall,Illinois,yes
+45,,,,,no
+25137,Class B,1999,Spring,Maryland,yes
+25238,Class A,1999,Fall,Alabama,yes
+26544,Class A,1999,Spring,Michigan,yes
+28244,Class B,1999,Winter,New York,yes
+28373,Class A,1999,Summer,Michigan,yes
+28689,Class A,1999,Summer,Missouri,yes
+29241,Class B,1999,Fall,Illinois,yes
+38361,Class B,1999,Fall,Wisconsin,yes
+38765,Class B,1999,Summer,Illinois,yes
+58186,Class A,1999,Summer,Iowa,yes
+70,Class B,2000,Summer,New York,no
+85,Class B,2000,Spring,Oregon,yes
+89,Class B,2000,Summer,Washington,yes
+102,Class B,2000,Summer,Oregon,yes
+147,Class A,2000,Summer,California,yes
+166,Class B,2000,Spring,California,no
+175,Class C,2000,Summer,Washington,yes
+187,Class B,2000,Summer,Oregon,yes
+203,Class B,2000,Summer,West Virginia,no
+208,Class A,2000,Spring,Pennsylvania,yes
+257,Class B,2000,Summer,Ohio,no
+337,Class B,2000,Summer,Washington,no
+348,Class A,2000,Summer,Colorado,yes
+353,Class A,2000,Fall,California,yes
+369,Class B,2000,Summer,California,yes
+382,Class B,2000,Summer,Washington,no
+405,Class A,2000,Fall,California,yes
+407,Class B,2000,Spring,Colorado,no
+408,Class A,2000,Summer,Colorado,no
+410,Class B,2000,Fall,New York,no
+422,Class B,2000,Fall,Washington,yes
+423,Class A,2000,Fall,Washington,yes
+435,Class A,2000,Fall,Alabama,no
+436,Class B,2000,Spring,Minnesota,no
+438,Class B,2000,Fall,New Jersey,no
+446,Class A,2000,Summer,Florida,yes
+448,Class A,2000,Summer,Texas,no
+450,Class B,2000,Fall,North Carolina,no
+470,Class A,2000,Summer,Colorado,no
+495,Class A,2000,Fall,Washington,no
+502,Class B,2000,Summer,California,yes
+511,Class A,2000,Fall,Iowa,yes
+514,Class A,2000,Fall,Louisiana,yes
+523,Class B,2000,Fall,Utah,no
+529,Class B,2000,Summer,Colorado,yes
+533,Class B,2000,Summer,California,no
+537,Class B,2000,Summer,New Mexico,yes
+548,Class A,2000,Fall,Oregon,yes
+565,Class A,2000,Winter,Tennessee,yes
+597,Class B,2000,Fall,Alaska,no
+598,Class B,2000,Winter,Florida,yes
+637,Class A,2000,Summer,Alaska,yes
+658,Class B,2000,Winter,Oregon,yes
+673,Class A,2000,Summer,Oregon,yes
+678,Class A,2000,Summer,Oregon,yes
+739,Class B,2000,Fall,Kansas,yes
+741,Class B,2000,Winter,Washington,yes
+583,,,,,no
+798,Class B,2000,Summer,Wyoming,yes
+802,Class B,2000,Spring,California,yes
+827,Class A,2000,Summer,California,yes
+835,Class B,2000,Fall,California,yes
+913,Class A,2000,Summer,California,yes
+914,Class A,2000,Fall,Tennessee,no
+939,Class A,2000,Winter,Washington,no
+1027,Class B,2000,Fall,Arizona,yes
+1046,Class A,2000,Fall,Iowa,yes
+1106,Class A,2000,Fall,Washington,yes
+1109,Class B,2000,Summer,Washington,yes
+1117,Class A,2000,Winter,Ohio,yes
+719,,,,,no
+1150,Class A,2000,Spring,Missouri,yes
+1224,Class B,2000,Summer,Oregon,yes
+1232,Class B,2000,Winter,Colorado,yes
+1237,Class B,2000,Fall,Colorado,no
+1242,Class A,2000,Summer,Wyoming,no
+1251,Class B,2000,Summer,Colorado,yes
+1263,Class B,2000,Winter,Washington,yes
+1271,Class A,2000,Winter,Iowa,yes
+1299,Class A,2000,Winter,Oklahoma,no
+1302,Class A,2000,Summer,Oklahoma,yes
+1355,Class A,2000,Spring,Colorado,no
+1419,Class B,2000,Summer,Alabama,no
+1433,Class B,2000,Summer,Kentucky,yes
+1438,Class B,2000,Winter,Washington,yes
+1452,Class B,2000,Summer,New Jersey,yes
+1462,Class B,2000,Summer,Washington,yes
+1506,Class A,2000,Winter,Oklahoma,no
+1529,Class A,2000,Fall,Washington,yes
+1536,Class A,2000,Fall,Louisiana,yes
+1554,Class A,2000,Summer,Iowa,no
+1584,Class B,2000,Winter,Washington,no
+1603,Class B,2000,Summer,New York,yes
+1674,Class A,2000,Winter,Washington,yes
+587,,,,,no
+1705,Class A,2000,Fall,Washington,no
+1727,Class A,2000,Summer,California,no
+1755,Class A,2000,Fall,Ohio,yes
+1756,Class A,2000,Fall,Ohio,yes
+1772,Class A,2000,Fall,Washington,no
+1777,Class A,2000,Spring,Washington,yes
+1778,Class B,2000,Fall,Oregon,yes
+1786,Class A,2000,Fall,Indiana,yes
+1815,Class B,2000,Spring,Washington,yes
+1829,Class A,2000,Fall,Oregon,no
+1888,Class B,2000,Winter,Oklahoma,yes
+1917,Class B,2000,Winter,Washington,yes
+1918,Class A,2000,Summer,New Mexico,yes
+1947,Class A,2000,Fall,Tennessee,yes
+2018,Class A,2000,Spring,Oklahoma,no
+2033,Class A,2000,Fall,Kansas,yes
+2054,Class B,2000,Winter,North Carolina,yes
+2110,Class A,2000,Summer,Colorado,yes
+2178,Class A,2000,Summer,California,no
+2215,Class A,2000,Spring,Wisconsin,no
+2216,Class B,2000,Summer,Wyoming,yes
+2220,Class A,2000,Summer,Georgia,no
+2268,Class B,2000,Summer,Washington,yes
+2386,Class B,2000,Spring,Oklahoma,yes
+2537,Class B,2000,Spring,Michigan,yes
+2635,Class B,2000,Fall,Arkansas,yes
+2859,Class A,2000,Spring,California,no
+2928,Class A,2000,Summer,California,yes
+3008,Class A,2000,Summer,Tennessee,yes
+3028,Class A,2000,Summer,Alabama,yes
+3112,Class B,2000,Fall,Colorado,no
+3482,Class A,2000,Winter,Arizona,yes
+3521,Class A,2000,Fall,Illinois,no
+3633,Class B,2000,Fall,Oregon,no
+3777,Class A,2000,Summer,Louisiana,yes
+3822,Class B,2000,Summer,California,yes
+3926,Class B,2000,Spring,Pennsylvania,no
+4090,Class A,2000,Winter,Arkansas,no
+4116,Class B,2000,Spring,Missouri,yes
+4140,Class A,2000,Winter,Texas,no
+4299,Class B,2000,Fall,Ohio,yes
+4555,Class B,2000,Spring,Ohio,yes
+4589,Class B,2000,Summer,New York,no
+4743,Class A,2000,Winter,Alabama,yes
+4788,Class B,2000,Summer,Virginia,yes
+4904,Class B,2000,Spring,New Mexico,yes
+4978,Class A,2000,Winter,Ohio,no
+5013,Class B,2000,Fall,Ohio,yes
+5649,Class A,2000,Summer,California,yes
+5977,Class A,2000,Spring,Ohio,yes
+6058,Class B,2000,Fall,Washington,yes
+6130,Class B,2000,Summer,California,yes
+6441,Class A,2000,Summer,Wyoming,yes
+6462,Class B,2000,Summer,Tennessee,no
+6655,Class B,2000,Summer,Oregon,yes
+6700,Class A,2000,Summer,New York,yes
+7137,Class A,2000,Summer,Pennsylvania,yes
+7427,Class A,2000,Winter,Alabama,yes
+7800,Class B,2000,Summer,Michigan,yes
+7936,Class A,2000,Summer,Ohio,yes
+7971,Class A,2000,Winter,Arkansas,yes
+7995,Class A,2000,Spring,Ohio,yes
+8591,Class A,2000,Spring,Oklahoma,yes
+8778,Class A,2000,Fall,Ohio,yes
+9005,Class B,2000,Winter,Washington,no
+9113,Class A,2000,Summer,Florida,yes
+9357,Class A,2000,Spring,California,yes
+9367,Class A,2000,Fall,Texas,yes
+10877,Class B,2000,Summer,Arizona,yes
+11918,Class A,2000,Fall,Washington,yes
+12921,Class A,2000,Winter,Florida,yes
+13288,Class A,2000,Fall,New York,yes
+13313,Class B,2000,Fall,Florida,yes
+16248,Class B,2000,Summer,New Jersey,yes
+16566,Class A,2000,Spring,Minnesota,yes
+17220,Class B,2000,Summer,Washington,yes
+555,,,,,no
+17551,Class A,2000,Winter,Minnesota,yes
+18050,Class B,2000,Summer,Idaho,yes
+20221,Class B,2000,Winter,Idaho,yes
+20670,Class B,2000,Fall,Massachusetts,yes
+20677,Class B,2000,Fall,Missouri,yes
+24137,Class B,2000,Fall,California,yes
+24568,Class A,2000,Summer,Washington,yes
+25240,Class B,2000,Fall,Indiana,yes
+26886,Class A,2000,Spring,Alabama,yes
+27076,Class A,2000,Summer,Florida,yes
+27399,Class B,2000,Summer,Kentucky,yes
+28301,Class B,2000,Fall,Washington,yes
+29287,Class A,2000,Spring,Illinois,yes
+29441,Class B,2000,Summer,Arizona,yes
+33784,Class B,2000,Summer,Florida,yes
+34919,Class B,2000,Spring,Illinois,yes
+37652,Class B,2000,Summer,Michigan,yes
+38386,Class B,2000,Fall,Massachusetts,yes
+38411,Class B,2000,Summer,Virginia,yes
+39812,Class B,2000,Summer,West Virginia,yes
+40457,Class A,2000,Winter,Illinois,yes
+43211,Class B,2000,Summer,Wisconsin,yes
+45572,Class A,2000,Fall,Michigan,yes
+45976,Class B,2000,Fall,Michigan,yes
+57303,Class A,2000,Spring,Illinois,yes
+57935,Class B,2000,Summer,Texas,yes
+58092,Class A,2000,Spring,Missouri,yes
+59113,Class A,2000,Summer,Georgia,yes
+63286,Class A,2000,Summer,Oklahoma,yes
+67313,Class A,2000,Fall,Texas,yes
+69143,Class B,2000,Fall,New Hampshire,yes
+1123,Class B,2001,Winter,Texas,no
+1265,Class A,2001,Winter,Kentucky,yes
+1834,Class B,2001,Winter,Indiana,yes
+1851,Class A,2001,Winter,Ohio,yes
+1866,Class B,2001,Winter,Wyoming,yes
+1904,Class B,2001,Winter,Washington,yes
+1975,Class B,2001,Winter,New Hampshire,yes
+586,,,,,no
+582,,,,,no
+1986,Class B,2001,Winter,Oregon,yes
+2104,Class B,2001,Winter,Arkansas,yes
+2170,Class A,2001,Spring,Iowa,yes
+2195,Class A,2001,Spring,Washington,no
+2196,Class A,2001,Spring,Washington,no
+2237,Class A,2001,Spring,Texas,yes
+2255,Class B,2001,Spring,California,yes
+2303,Class A,2001,Spring,Washington,yes
+2431,Class A,2001,Spring,California,yes
+2493,Class B,2001,Spring,Colorado,yes
+2557,Class B,2001,Spring,New York,no
+2590,Class B,2001,Spring,Minnesota,yes
+12,,,,,no
+2618,Class A,2001,Spring,Pennsylvania,no
+2666,Class A,2001,Spring,Maryland,yes
+2755,Class A,2001,Spring,California,no
+2760,Class B,2001,Summer,Washington,yes
+2786,Class B,2001,Summer,West Virginia,yes
+2803,Class B,2001,Winter,Pennsylvania,no
+2841,Class A,2001,Winter,Oregon,yes
+2848,Class B,2001,Summer,Florida,yes
+2900,Class A,2001,Spring,Oregon,no
+2914,Class A,2001,Summer,Michigan,yes
+2915,Class B,2001,Spring,Florida,yes
+2919,Class A,2001,Summer,California,yes
+2931,Class A,2001,Summer,Arkansas,yes
+2942,Class B,2001,Spring,California,yes
+2953,Class A,2001,Summer,Michigan,yes
+2963,Class A,2001,Summer,Wyoming,yes
+2983,Class B,2001,Summer,Minnesota,yes
+2987,Class B,2001,Summer,New York,no
+2992,Class B,2001,Spring,Illinois,yes
+3007,Class B,2001,Winter,Michigan,yes
+3018,Class B,2001,Summer,Illinois,no
+3021,Class B,2001,Summer,California,yes
+3024,Class B,2001,Summer,Washington,yes
+3027,Class A,2001,Summer,California,yes
+11,,,,,no
+10,,,,,no
+3029,Class B,2001,Summer,California,yes
+3032,Class B,2001,Summer,Arkansas,yes
+3038,Class A,2001,Summer,Washington,yes
+3056,Class A,2001,Summer,California,yes
+3064,Class B,2001,Summer,Oregon,yes
+3071,Class B,2001,Spring,California,yes
+3072,Class B,2001,Spring,California,yes
+3075,Class A,2001,Summer,California,yes
+3086,Class A,2001,Summer,Colorado,yes
+3093,Class A,2001,Fall,Iowa,no
+3105,Class B,2001,Spring,California,yes
+3107,Class A,2001,Fall,Washington,yes
+3121,Class B,2001,Summer,California,yes
+3148,Class B,2001,Summer,Oregon,yes
+3188,Class B,2001,Summer,Washington,yes
+3195,Class A,2001,Summer,Indiana,yes
+3199,Class B,2001,Fall,Oklahoma,yes
+3202,Class A,2001,Fall,Washington,yes
+3209,Class B,2001,Fall,Oregon,yes
+3214,Class A,2001,Fall,Maryland,yes
+3229,Class B,2001,Summer,Maine,yes
+3231,Class A,2001,Fall,Pennsylvania,yes
+3240,Class B,2001,Fall,Oklahoma,yes
+3248,Class A,2001,Spring,Ohio,yes
+3270,Class B,2001,Fall,North Carolina,yes
+3296,Class A,2001,Fall,Alabama,yes
+3388,Class B,2001,Fall,Michigan,yes
+3399,Class A,2001,Fall,New York,no
+3401,Class A,2001,Fall,Pennsylvania,no
+3441,Class A,2001,Winter,Oregon,yes
+3461,Class A,2001,Fall,New Mexico,yes
+522,,,,,no
+3535,Class B,2001,Spring,Ohio,yes
+3585,Class B,2001,Summer,Washington,yes
+3587,Class B,2001,Winter,Texas,yes
+3588,Class B,2001,Winter,Colorado,yes
+3623,Class B,2001,Fall,Washington,yes
+3636,Class A,2001,Fall,Colorado,yes
+3653,Class A,2001,Spring,Colorado,yes
+3655,Class A,2001,Fall,West Virginia,yes
+3667,Class B,2001,Summer,Missouri,no
+3673,Class B,2001,Fall,Washington,yes
+3710,Class A,2001,Summer,Colorado,yes
+3759,Class B,2001,Fall,Washington,yes
+3766,Class B,2001,Summer,Oregon,no
+3794,Class B,2001,Summer,California,yes
+3964,Class A,2001,Summer,Oklahoma,yes
+4043,Class B,2001,Fall,California,yes
+4206,Class A,2001,Summer,Texas,yes
+4393,Class A,2001,Winter,Georgia,yes
+543,,,,,no
+4466,Class A,2001,Spring,Indiana,yes
+4532,Class A,2001,Fall,Oklahoma,yes
+4552,Class B,2001,Winter,Louisiana,yes
+4630,Class A,2001,Summer,California,yes
+4649,Class B,2001,Fall,California,yes
+4672,Class A,2001,Summer,Ohio,yes
+4737,Class A,2001,Spring,Washington,yes
+4845,Class B,2001,Winter,California,yes
+5297,Class B,2001,Summer,Maryland,yes
+5418,Class B,2001,Fall,California,yes
+5516,Class B,2001,Summer,Wisconsin,yes
+5525,Class A,2001,Summer,Minnesota,yes
+5532,Class B,2001,Summer,Kansas,yes
+5586,Class A,2001,Winter,Colorado,yes
+5702,Class A,2001,Winter,Florida,yes
+6552,Class A,2001,Summer,Arizona,yes
+6620,Class A,2001,Summer,Ohio,yes
+6900,Class A,2001,Fall,Ohio,yes
+6922,Class B,2001,Summer,California,yes
+7209,Class B,2001,Summer,Oregon,yes
+7241,Class B,2001,Winter,West Virginia,yes
+7299,Class B,2001,Spring,California,yes
+7382,Class A,2001,Summer,Washington,yes
+7548,Class A,2001,Fall,Texas,yes
+7567,Class B,2001,Fall,Texas,yes
+7632,Class A,2001,Winter,Texas,yes
+7702,Class B,2001,Summer,California,no
+7890,Class B,2001,Winter,New York,yes
+7973,Class A,2001,Fall,Ohio,yes
+8006,Class B,2001,Spring,Ohio,yes
+8117,Class A,2001,Winter,Texas,yes
+8463,Class B,2001,Fall,California,yes
+693,,,,,no
+8729,Class B,2001,Summer,California,yes
+8797,Class B,2001,Spring,Alaska,yes
+8913,Class A,2001,Spring,Arkansas,yes
+8978,Class B,2001,Fall,Washington,yes
+9009,Class B,2001,Winter,New Hampshire,yes
+9109,Class A,2001,Summer,Oregon,yes
+9296,Class A,2001,Fall,California,yes
+9436,Class A,2001,Summer,Texas,yes
+9717,Class B,2001,Fall,Wisconsin,no
+11702,Class B,2001,Summer,Washington,yes
+11986,Class A,2001,Winter,California,yes
+12812,Class A,2001,Fall,West Virginia,yes
+12844,Class B,2001,Summer,Washington,yes
+13516,Class B,2001,Summer,Arkansas,yes
+13717,Class B,2001,Fall,Idaho,yes
+14567,Class A,2001,Summer,Texas,yes
+15050,Class A,2001,Summer,Wisconsin,yes
+15336,Class A,2001,Summer,Utah,yes
+16303,Class A,2001,Winter,Florida,yes
+16364,Class A,2001,Spring,Washington,yes
+16448,Class B,2001,Fall,California,yes
+18056,Class B,2001,Summer,Utah,yes
+22651,Class A,2001,Fall,Idaho,yes
+22742,Class B,2001,Winter,Oregon,yes
+23065,Class B,2001,Fall,Colorado,yes
+24194,Class B,2001,Summer,Colorado,yes
+24451,Class B,2001,Fall,Alabama,yes
+24646,Class A,2001,Spring,Alabama,yes
+25043,Class A,2001,Fall,Georgia,yes
+26377,Class A,2001,Winter,Florida,yes
+26709,Class A,2001,Fall,Ohio,yes
+29700,Class B,2001,Spring,Washington,yes
+33484,Class B,2001,Summer,Arizona,yes
+34990,Class B,2001,Summer,Michigan,yes
+44387,Class B,2001,Summer,Michigan,yes
+46063,Class B,2001,Summer,Indiana,yes
+56957,Class B,2001,Fall,Ohio,yes
+57435,Class A,2001,Winter,Oklahoma,yes
+3624,Class A,2002,Winter,Oregon,yes
+4077,Class A,2002,Spring,Virginia,yes
+4273,Class A,2002,Spring,New Jersey,yes
+4301,Class A,2002,Spring,Washington,yes
+4359,Class A,2002,Spring,Washington,yes
+4379,Class A,2002,Spring,Minnesota,yes
+4409,Class A,2002,Spring,Ohio,yes
+4414,Class A,2002,Spring,Michigan,yes
+4481,Class A,2002,Summer,Oregon,yes
+4498,Class A,2002,Summer,Ohio,yes
+4502,Class A,2002,Summer,Michigan,yes
+4538,Class A,2002,Spring,New Mexico,yes
+4637,Class B,2002,Summer,California,yes
+4644,Class B,2002,Summer,Oregon,no
+4650,Class B,2002,Summer,California,yes
+4659,Class A,2002,Summer,Ohio,yes
+4676,Class A,2002,Summer,North Carolina,no
+4683,Class B,2002,Summer,New York,yes
+4692,Class A,2002,Summer,Wyoming,yes
+4735,Class A,2002,Summer,Wyoming,yes
+4736,Class A,2002,Summer,Tennessee,yes
+4738,Class A,2002,Summer,Washington,yes
+4760,Class A,2002,Summer,Ohio,yes
+416,,,,,no
+4789,Class B,2002,Summer,Wisconsin,yes
+4808,Class A,2002,Summer,Washington,no
+4839,Class A,2002,Summer,South Carolina,yes
+4846,Class A,2002,Summer,Oregon,yes
+4885,Class B,2002,Summer,California,yes
+4887,Class B,2002,Summer,California,yes
+4897,Class B,2002,Summer,Colorado,yes
+4917,Class B,2002,Summer,California,yes
+4940,Class A,2002,Fall,Washington,yes
+4985,Class B,2002,Fall,Washington,yes
+4986,Class B,2002,Summer,New York,no
+5047,Class B,2002,Fall,New York,no
+5053,Class B,2002,Fall,Oregon,yes
+5076,Class B,2002,Fall,Ohio,yes
+5100,Class A,2002,Fall,Oregon,yes
+5123,Class B,2002,Fall,Missouri,yes
+5137,Class B,2002,Summer,Michigan,yes
+5162,Class B,2002,Fall,Washington,yes
+5176,Class B,2002,Fall,Washington,no
+5249,Class B,2002,Summer,Washington,no
+5251,Class B,2002,Fall,California,yes
+5280,Class A,2002,Fall,Michigan,yes
+5286,Class A,2002,Summer,Missouri,yes
+5294,Class B,2002,Fall,California,yes
+5316,Class A,2002,Fall,Arkansas,yes
+5331,Class A,2002,Fall,Washington,yes
+5342,Class B,2002,Fall,Arkansas,yes
+5383,Class B,2002,Fall,California,no
+5406,Class B,2002,Fall,Ohio,yes
+5463,Class A,2002,Winter,California,yes
+5505,Class A,2002,Fall,Oregon,yes
+5507,Class A,2002,Fall,Wisconsin,yes
+5515,Class B,2002,Fall,New York,no
+5610,Class A,2002,Fall,Oregon,yes
+5620,Class A,2002,Winter,Oklahoma,yes
+5650,Class B,2002,Winter,Oregon,no
+5681,Class A,2002,Fall,Oklahoma,yes
+571,,,,,no
+5725,Class B,2002,Fall,Washington,yes
+5791,Class B,2002,Summer,California,yes
+6020,Class B,2002,Spring,South Carolina,no
+6037,Class B,2002,Fall,Wyoming,yes
+6164,Class B,2002,Fall,Colorado,yes
+6233,Class B,2002,Summer,New York,no
+6303,Class A,2002,Summer,Washington,no
+6583,Class B,2002,Summer,Texas,yes
+43,,,,,no
+42,,,,,no
+6785,Class A,2002,Spring,Colorado,yes
+6941,Class A,2002,Fall,Texas,yes
+7036,Class A,2002,Fall,Colorado,yes
+7038,Class B,2002,Fall,Washington,yes
+7062,Class A,2002,Fall,Oklahoma,yes
+7109,Class B,2002,Winter,Florida,yes
+7363,Class B,2002,Summer,California,yes
+7637,Class A,2002,Fall,California,yes
+7669,Class B,2002,Summer,Texas,yes
+7671,Class B,2002,Fall,Texas,yes
+7909,Class B,2002,Fall,New York,yes
+7932,Class A,2002,Winter,Ohio,yes
+7939,Class B,2002,Summer,New York,yes
+8227,Class A,2002,Winter,Oregon,yes
+8392,Class A,2002,Summer,Oregon,yes
+8549,Class B,2002,Winter,Texas,yes
+9047,Class B,2002,Fall,Washington,yes
+9231,Class B,2002,Fall,Washington,yes
+9537,Class A,2002,Summer,Ohio,yes
+9648,Class B,2002,Summer,California,yes
+9850,Class B,2002,Fall,Washington,yes
+10192,Class B,2002,Fall,Florida,yes
+10266,Class A,2002,Fall,New Mexico,yes
+10733,Class A,2002,Spring,Texas,yes
+10913,Class A,2002,Fall,Arkansas,yes
+11186,Class B,2002,Spring,Washington,yes
+11948,Class B,2002,Fall,California,yes
+12138,Class B,2002,Spring,Washington,yes
+12542,Class A,2002,Spring,New Mexico,yes
+12709,Class A,2002,Fall,New York,yes
+13242,Class A,2002,Spring,Indiana,yes
+14075,Class B,2002,Winter,North Carolina,yes
+14953,Class B,2002,Spring,California,yes
+15565,Class B,2002,Spring,New York,yes
+16013,Class B,2002,Summer,Tennessee,yes
+16489,Class B,2002,Fall,Ohio,yes
+17388,Class B,2002,Fall,Ohio,yes
+18033,Class B,2002,Spring,Alabama,yes
+21807,Class B,2002,Summer,Washington,yes
+22801,Class A,2002,Winter,Colorado,yes
+22941,Class B,2002,Spring,Kentucky,yes
+22996,Class A,2002,Summer,Oregon,yes
+24127,Class A,2002,Fall,Michigan,yes
+25339,Class B,2002,Summer,Washington,yes
+26179,Class A,2002,Winter,Utah,yes
+26255,Class A,2002,Summer,Washington,yes
+26279,Class B,2002,Summer,West Virginia,yes
+26353,Class B,2002,Spring,Washington,yes
+28409,Class B,2002,Summer,Washington,yes
+28781,Class A,2002,Summer,Washington,yes
+28797,Class B,2002,Summer,Indiana,yes
+30006,Class A,2002,Winter,Virginia,yes
+30902,Class A,2002,Fall,Michigan,yes
+37101,Class A,2002,Summer,Washington,yes
+43402,Class B,2002,Fall,Alabama,yes
+44644,Class B,2002,Summer,Illinois,yes
+45423,Class A,2002,Spring,Washington,yes
+82,,,,,no
+50589,Class A,2002,Summer,West Virginia,yes
+59520,Class B,2002,Summer,Arkansas,yes
+5674,Class A,2003,Spring,Wyoming,yes
+5881,Class A,2003,Winter,Kentucky,yes
+5884,Class A,2003,Winter,Florida,yes
+6186,Class B,2003,Spring,New Jersey,yes
+6194,Class A,2003,Spring,Missouri,yes
+6232,Class A,2003,Spring,Washington,no
+6304,Class B,2003,Spring,California,yes
+6309,Class A,2003,Spring,Washington,yes
+6313,Class A,2003,Spring,Ohio,yes
+6330,Class A,2003,Spring,Ohio,yes
+6470,Class A,2003,Summer,Delaware,no
+6513,Class A,2003,Summer,Oklahoma,yes
+6520,Class B,2003,Summer,California,yes
+6527,Class B,2003,Summer,Washington,yes
+6538,Class B,2003,Spring,Colorado,yes
+6559,Class B,2003,Summer,Washington,yes
+6584,Class B,2003,Summer,Oregon,yes
+727,,,,,no
+6623,Class B,2003,Summer,New Hampshire,yes
+6632,Class B,2003,Summer,Kentucky,yes
+6638,Class A,2003,Summer,Tennessee,yes
+6639,Class A,2003,Summer,California,yes
+6668,Class B,2003,Summer,New Hampshire,yes
+6722,Class A,2003,Summer,Ohio,yes
+6734,Class B,2003,Summer,Oregon,yes
+6806,Class A,2003,Summer,Washington,yes
+6814,Class B,2003,Summer,Washington,yes
+6854,Class B,2003,Summer,California,yes
+6864,Class B,2003,Summer,Washington,yes
+6868,Class B,2003,Summer,California,yes
+6938,Class A,2003,Summer,Alabama,yes
+6946,Class A,2003,Fall,California,yes
+6950,Class A,2003,Fall,California,yes
+6951,Class B,2003,Spring,Wyoming,yes
+6990,Class B,2003,Fall,Washington,yes
+7004,Class B,2003,Fall,Georgia,yes
+7031,Class A,2003,Summer,Alabama,yes
+7088,Class B,2003,Fall,Georgia,yes
+7115,Class B,2003,Fall,California,yes
+7117,Class A,2003,Fall,Washington,no
+7159,Class B,2003,Fall,Tennessee,yes
+7180,Class A,2003,Fall,Idaho,no
+7181,Class B,2003,Spring,Michigan,yes
+7215,Class A,2003,Summer,Tennessee,yes
+7224,Class A,2003,Fall,Ohio,yes
+7303,Class B,2003,Fall,Texas,yes
+7331,Class B,2003,Fall,California,yes
+7366,Class A,2003,Fall,Oregon,yes
+7406,Class A,2003,Fall,Washington,yes
+7408,Class A,2003,Fall,Michigan,yes
+563,,,,,no
+7416,Class B,2003,Summer,California,yes
+7452,Class B,2003,Fall,California,yes
+7473,Class A,2003,Winter,Oklahoma,yes
+7504,Class A,2003,Spring,California,yes
+7505,Class A,2003,Fall,Texas,yes
+7537,Class A,2003,Winter,Oregon,no
+7552,Class B,2003,Summer,Texas,yes
+7604,Class B,2003,Winter,Texas,yes
+7687,Class B,2003,Summer,Oregon,yes
+7709,Class A,2003,Spring,Kansas,yes
+7718,Class A,2003,Fall,Ohio,yes
+7815,Class A,2003,Summer,Arkansas,yes
+7884,Class A,2003,Fall,South Dakota,yes
+7957,Class B,2003,Fall,Oregon,yes
+7993,Class A,2003,Spring,Idaho,no
+8026,Class B,2003,Winter,California,yes
+288,,,,,no
+8108,Class A,2003,Winter,Texas,yes
+8121,Class A,2003,Fall,Wisconsin,yes
+8197,Class B,2003,Summer,Washington,yes
+8226,Class B,2003,Summer,California,yes
+8234,Class B,2003,Summer,California,yes
+8438,Class A,2003,Fall,Indiana,yes
+8451,Class B,2003,Summer,Maryland,yes
+8595,Class A,2003,Fall,California,yes
+8650,Class B,2003,Summer,California,yes
+8792,Class B,2003,Winter,Alaska,yes
+8857,Class A,2003,Spring,Texas,yes
+8921,Class B,2003,Fall,Alabama,yes
+9447,Class B,2003,Spring,Washington,yes
+9475,Class A,2003,Fall,South Carolina,yes
+9567,Class A,2003,Winter,Louisiana,yes
+9842,Class A,2003,Fall,Virginia,yes
+10251,Class B,2003,Summer,Pennsylvania,yes
+616,,,,,no
+10265,Class A,2003,Spring,California,yes
+10277,Class B,2003,Fall,Texas,yes
+289,,,,,no
+10330,Class A,2003,Winter,Ohio,yes
+10904,Class A,2003,Fall,Michigan,yes
+614,,,,,no
+292,,,,,no
+291,,,,,no
+290,,,,,no
+10948,Class B,2003,Summer,Washington,yes
+10980,Class A,2003,Winter,California,yes
+11121,Class B,2003,Summer,Illinois,yes
+11168,Class A,2003,Fall,New Jersey,yes
+11543,Class A,2003,Summer,Texas,yes
+11589,Class A,2003,Fall,New Mexico,yes
+11688,Class A,2003,Winter,New York,yes
+11818,Class A,2003,Summer,Oregon,yes
+11946,Class B,2003,Spring,Ohio,yes
+12214,Class B,2003,Fall,Arizona,yes
+12636,Class B,2003,Summer,Montana,yes
+12640,Class B,2003,Fall,North Carolina,yes
+13028,Class A,2003,Winter,Texas,yes
+13212,Class B,2003,Fall,Virginia,yes
+13419,Class A,2003,Fall,California,yes
+13691,Class A,2003,Fall,South Dakota,yes
+13961,Class B,2003,Summer,Florida,yes
+14323,Class B,2003,Spring,California,yes
+14354,Class A,2003,Spring,Florida,yes
+14404,Class A,2003,Fall,Illinois,yes
+14841,Class B,2003,Winter,Oregon,yes
+15060,Class A,2003,Summer,Tennessee,yes
+15107,Class B,2003,Fall,Virginia,yes
+15347,Class A,2003,Fall,Illinois,yes
+15457,Class A,2003,Fall,Georgia,yes
+293,,,,,no
+15969,Class B,2003,Summer,Ohio,yes
+17265,Class B,2003,Spring,Utah,yes
+17477,Class B,2003,Summer,Georgia,yes
+18065,Class A,2003,Summer,Florida,yes
+18793,Class B,2003,Summer,West Virginia,yes
+18972,Class A,2003,Summer,Arkansas,yes
+19350,Class B,2003,Summer,South Dakota,yes
+19836,Class B,2003,Fall,New York,yes
+19906,Class B,2003,Spring,Virginia,yes
+21894,Class A,2003,Fall,West Virginia,yes
+22475,Class A,2003,Summer,Washington,yes
+23046,Class B,2003,Fall,Nebraska,yes
+23414,Class A,2003,Summer,Ohio,yes
+640,,,,,no
+639,,,,,no
+628,,,,,no
+627,,,,,no
+620,,,,,no
+617,,,,,no
+23496,Class B,2003,Spring,Wisconsin,yes
+23581,Class B,2003,Fall,Missouri,yes
+24141,Class A,2003,Spring,Ohio,yes
+24508,Class B,2003,Summer,Wisconsin,yes
+24512,Class A,2003,Winter,Oklahoma,yes
+25577,Class B,2003,Spring,Florida,yes
+25648,Class B,2003,Fall,California,yes
+26036,Class B,2003,Summer,Kentucky,yes
+26566,Class A,2003,Fall,New York,yes
+28386,Class B,2003,Summer,Idaho,yes
+30258,Class A,2003,Fall,Virginia,yes
+33611,Class A,2003,Summer,Michigan,yes
+34725,Class A,2003,Summer,Kentucky,yes
+39825,Class A,2003,Summer,Washington,yes
+40035,Class A,2003,Fall,Kansas,yes
+41739,Class A,2003,Spring,South Carolina,yes
+42885,Class B,2003,Fall,Florida,yes
+44404,Class B,2003,Summer,Florida,yes
+55376,Class A,2003,Winter,Arkansas,yes
+59414,Class B,2003,Summer,Oklahoma,yes
+62930,Class A,2003,Summer,Missouri,yes
+65789,Class B,2003,Fall,Oregon,yes
+7727,Class B,2004,Winter,West Virginia,yes
+7771,Class A,2004,Winter,Delaware,yes
+7778,Class A,2004,Winter,California,yes
+7802,Class B,2004,Winter,Texas,yes
+7804,Class A,2004,Winter,California,yes
+7864,Class B,2004,Winter,Idaho,yes
+7865,Class B,2004,Winter,South Carolina,yes
+7904,Class A,2004,Winter,Florida,yes
+7963,Class A,2004,Winter,Alaska,yes
+619,,,,,no
+8130,Class B,2004,Winter,North Dakota,yes
+8165,Class A,2004,Winter,North Dakota,yes
+8171,Class A,2004,Winter,Alabama,yes
+8187,Class B,2004,Winter,New York,yes
+8305,Class B,2004,Winter,Pennsylvania,yes
+8389,Class A,2004,Spring,Michigan,yes
+8420,Class A,2004,Spring,Arkansas,yes
+8441,Class A,2004,Winter,Texas,yes
+8446,Class A,2004,Spring,Ohio,yes
+8450,Class B,2004,Spring,Ohio,yes
+8454,Class A,2004,Spring,Georgia,yes
+8517,Class A,2004,Spring,Kentucky,yes
+8543,Class A,2004,Spring,Oklahoma,yes
+8547,Class A,2004,Spring,Texas,yes
+8633,Class A,2004,Spring,Pennsylvania,yes
+8635,Class B,2004,Spring,Alabama,yes
+8735,Class B,2004,Spring,California,yes
+8790,Class A,2004,Spring,Texas,yes
+8811,Class B,2004,Spring,Oklahoma,yes
+8819,Class B,2004,Spring,Arkansas,yes
+8832,Class B,2004,Spring,Texas,yes
+8843,Class B,2004,Spring,Ohio,yes
+8888,Class B,2004,Summer,Oregon,no
+8890,Class A,2004,Spring,Missouri,yes
+8896,Class B,2004,Summer,California,yes
+8905,Class B,2004,Summer,New York,yes
+8983,Class A,2004,Summer,North Carolina,yes
+8986,Class A,2004,Summer,Oregon,yes
+8999,Class A,2004,Spring,Montana,yes
+9001,Class B,2004,Summer,Georgia,yes
+9012,Class A,2004,Summer,Minnesota,yes
+47,,,,,no
+9018,Class B,2004,Spring,Colorado,yes
+9020,Class B,2004,Summer,Oregon,yes
+46,,,,,no
+9022,Class B,2004,Summer,Ohio,yes
+9042,Class B,2004,Summer,Ohio,yes
+9051,Class B,2004,Summer,California,yes
+9089,Class A,2004,Summer,Iowa,no
+9096,Class B,2004,Summer,Washington,no
+9121,Class B,2004,Summer,Washington,yes
+9129,Class A,2004,Summer,Ohio,yes
+9137,Class A,2004,Summer,Texas,yes
+9174,Class A,2004,Summer,Florida,yes
+9188,Class A,2004,Summer,Ohio,yes
+9204,Class B,2004,Summer,Oregon,no
+9212,Class B,2004,Spring,North Carolina,yes
+9228,Class A,2004,Summer,New Mexico,yes
+9248,Class A,2004,Summer,Oregon,yes
+9254,Class A,2004,Summer,Tennessee,yes
+9274,Class B,2004,Fall,Texas,yes
+9276,Class B,2004,Summer,Oregon,yes
+9277,Class A,2004,Summer,Washington,no
+9281,Class A,2004,Summer,Ohio,yes
+9282,Class A,2004,Fall,Florida,yes
+9286,Class A,2004,Summer,Washington,yes
+536,,,,,no
+9289,Class B,2004,Summer,Oregon,yes
+9312,Class A,2004,Summer,Texas,yes
+9313,Class B,2004,Summer,New Hampshire,yes
+9317,Class A,2004,Summer,Alaska,yes
+9352,Class A,2004,Summer,Oregon,yes
+9368,Class B,2004,Summer,California,yes
+9373,Class A,2004,Summer,Washington,yes
+9376,Class A,2004,Summer,Oklahoma,yes
+9391,Class B,2004,Fall,Oregon,yes
+9439,Class B,2004,Summer,California,yes
+9465,Class A,2004,Fall,Georgia,yes
+9506,Class B,2004,Fall,Arizona,yes
+9510,Class B,2004,Fall,Washington,yes
+9534,Class B,2004,Fall,Oregon,yes
+9544,Class B,2004,Summer,Michigan,yes
+9547,Class B,2004,Spring,Oregon,yes
+9555,Class A,2004,Summer,California,yes
+9604,Class A,2004,Fall,Oregon,yes
+9627,Class B,2004,Fall,Texas,yes
+9642,Class A,2004,Spring,Indiana,yes
+9694,Class A,2004,Fall,Pennsylvania,yes
+9723,Class B,2004,Fall,New York,yes
+9766,Class B,2004,Summer,Ohio,yes
+9811,Class B,2004,Fall,Washington,yes
+747,,,,,no
+744,,,,,no
+9840,Class A,2004,Fall,Missouri,yes
+9853,Class B,2004,Fall,Oklahoma,yes
+9862,Class A,2004,Spring,Texas,yes
+9867,Class A,2004,Fall,Texas,yes
+9869,Class B,2004,Fall,Texas,yes
+9873,Class A,2004,Summer,Montana,yes
+9885,Class B,2004,Spring,Florida,yes
+9898,Class B,2004,Fall,California,yes
+9929,Class B,2004,Fall,Washington,yes
+9944,Class B,2004,Summer,Washington,yes
+9946,Class A,2004,Winter,Washington,yes
+9980,Class B,2004,Winter,Wisconsin,yes
+9992,Class B,2004,Fall,New Mexico,yes
+10006,Class A,2004,Winter,West Virginia,yes
+10062,Class B,2004,Winter,Washington,yes
+10074,Class A,2004,Summer,Oklahoma,yes
+10082,Class A,2004,Winter,Virginia,yes
+10091,Class B,2004,Fall,Washington,yes
+10114,Class A,2004,Summer,New Mexico,yes
+10123,Class A,2004,Winter,Utah,yes
+92,,,,,no
+71,,,,,no
+108,,,,,no
+88,,,,,no
+10126,Class B,2004,Spring,New Mexico,yes
+10284,Class B,2004,Summer,Indiana,yes
+10509,Class A,2004,Summer,Washington,yes
+10535,Class A,2004,Summer,Illinois,yes
+10591,Class A,2004,Winter,Texas,yes
+10646,Class B,2004,Fall,Washington,yes
+10800,Class B,2004,Fall,Texas,yes
+10814,Class A,2004,Winter,Tennessee,yes
+10918,Class A,2004,Fall,New Jersey,yes
+10960,Class B,2004,Summer,Idaho,yes
+11026,Class B,2004,Fall,Wisconsin,yes
+11040,Class B,2004,Fall,Washington,yes
+11324,Class B,2004,Summer,Utah,yes
+11526,Class A,2004,Winter,New Mexico,yes
+11554,Class B,2004,Summer,Washington,yes
+11616,Class B,2004,Summer,Alaska,yes
+11656,Class A,2004,Winter,California,yes
+11828,Class B,2004,Summer,West Virginia,yes
+12290,Class A,2004,Summer,Mississippi,yes
+12388,Class A,2004,Spring,New York,yes
+12396,Class B,2004,Summer,Utah,yes
+12727,Class B,2004,Fall,Virginia,yes
+13038,Class A,2004,Winter,Alaska,yes
+13348,Class A,2004,Fall,Oklahoma,yes
+13496,Class A,2004,Fall,Texas,yes
+13585,Class B,2004,Winter,Connecticut,yes
+14112,Class A,2004,Summer,Washington,yes
+14243,Class A,2004,Fall,Colorado,yes
+14280,Class A,2004,Fall,West Virginia,yes
+14739,Class B,2004,Fall,West Virginia,yes
+14987,Class B,2004,Spring,Wisconsin,yes
+15007,Class A,2004,Fall,Illinois,yes
+15144,Class B,2004,Summer,New York,yes
+15416,Class B,2004,Summer,Idaho,no
+15696,Class B,2004,Winter,Texas,yes
+16038,Class B,2004,Summer,Colorado,yes
+16661,Class B,2004,Winter,Colorado,yes
+16696,Class A,2004,Fall,Arkansas,yes
+16734,Class B,2004,Fall,South Carolina,yes
+17317,Class B,2004,Summer,Ohio,yes
+19073,Class A,2004,Fall,Texas,yes
+19589,Class A,2004,Fall,Pennsylvania,yes
+19936,Class B,2004,Winter,Michigan,yes
+20231,Class B,2004,Spring,Tennessee,yes
+22386,Class A,2004,Summer,Nevada,yes
+23076,Class A,2004,Spring,Florida,yes
+568,,,,,no
+23136,Class A,2004,Spring,Arizona,yes
+23437,Class A,2004,Fall,West Virginia,yes
+24695,Class B,2004,Fall,Michigan,yes
+9,,,,,no
+734,,,,,no
+25154,Class A,2004,Fall,Utah,yes
+25913,Class B,2004,Summer,New York,yes
+26152,Class B,2004,Spring,California,yes
+27028,Class B,2004,Summer,Minnesota,yes
+27167,Class A,2004,Winter,Mississippi,yes
+27948,Class A,2004,Winter,Arkansas,yes
+28526,Class A,2004,Summer,Georgia,yes
+29690,Class A,2004,Winter,Utah,yes
+30051,Class A,2004,Summer,Washington,yes
+30203,Class A,2004,Fall,Illinois,yes
+36326,Class A,2004,Summer,Washington,yes
+38143,Class B,2004,Spring,Kansas,yes
+38870,Class A,2004,Spring,Georgia,yes
+42329,Class A,2004,Summer,Alabama,yes
+42352,Class A,2004,Fall,Oregon,yes
+50212,Class B,2004,Fall,Washington,yes
+51317,Class A,2004,Summer,Wisconsin,yes
+10234,Class A,2005,Winter,Oklahoma,yes
+10279,Class B,2005,Winter,California,yes
+10349,Class A,2005,Winter,New Mexico,yes
+10357,Class B,2005,Winter,Montana,yes
+10407,Class A,2005,Winter,Texas,yes
+10422,Class B,2005,Winter,Oklahoma,yes
+10446,Class A,2005,Winter,Wisconsin,yes
+10501,Class B,2005,Winter,Alabama,yes
+10620,Class B,2005,Winter,Minnesota,yes
+10623,Class B,2005,Winter,South Carolina,yes
+10740,Class B,2005,Winter,Tennessee,yes
+10766,Class A,2005,Winter,Ohio,yes
+10797,Class B,2005,Spring,Kansas,yes
+10863,Class A,2005,Winter,Ohio,yes
+10928,Class B,2005,Winter,Oregon,yes
+10945,Class A,2005,Spring,West Virginia,yes
+11109,Class A,2005,Winter,New Mexico,no
+11137,Class B,2005,Spring,Washington,yes
+11313,Class B,2005,Spring,Washington,yes
+11325,Class A,2005,Spring,Texas,yes
+11432,Class B,2005,Spring,West Virginia,yes
+11439,Class B,2005,Spring,Texas,yes
+11451,Class B,2005,Spring,Texas,yes
+11453,Class B,2005,Spring,Missouri,yes
+11493,Class B,2005,Spring,Kansas,yes
+11632,Class A,2005,Spring,Arkansas,yes
+11635,Class B,2005,Spring,Texas,yes
+11771,Class A,2005,Spring,Ohio,yes
+11786,Class B,2005,Spring,Arkansas,yes
+11807,Class B,2005,Spring,Arizona,yes
+11831,Class A,2005,Summer,Illinois,yes
+81,,,,,no
+11837,Class B,2005,Spring,California,yes
+11886,Class A,2005,Spring,Oregon,yes
+11927,Class B,2005,Winter,Texas,yes
+11976,Class B,2005,Summer,New Mexico,yes
+11987,Class B,2005,Summer,Texas,yes
+12019,Class A,2005,Spring,Oregon,yes
+12034,Class A,2005,Summer,Pennsylvania,yes
+12065,Class A,2005,Spring,New Jersey,yes
+12068,Class B,2005,Spring,Florida,yes
+12098,Class B,2005,Spring,Washington,yes
+12156,Class B,2005,Summer,Oregon,yes
+12157,Class B,2005,Summer,Ohio,yes
+12165,Class B,2005,Summer,California,yes
+12204,Class A,2005,Summer,Oklahoma,yes
+12205,Class A,2005,Summer,South Carolina,yes
+12266,Class B,2005,Summer,Arizona,yes
+12271,Class B,2005,Summer,New Mexico,yes
+12289,Class B,2005,Summer,Utah,yes
+12314,Class B,2005,Summer,Texas,yes
+12333,Class B,2005,Summer,North Carolina,yes
+12351,Class B,2005,Summer,Florida,yes
+12383,Class A,2005,Summer,California,yes
+12418,Class B,2005,Summer,New Mexico,no
+12439,Class A,2005,Spring,Illinois,yes
+12482,Class A,2005,Summer,Nebraska,yes
+12510,Class B,2005,Summer,Washington,yes
+12518,Class B,2005,Summer,California,yes
+12523,Class B,2005,Summer,Washington,yes
+12562,Class A,2005,Summer,North Dakota,yes
+12594,Class B,2005,Summer,Washington,yes
+12601,Class B,2005,Fall,Maryland,yes
+12655,Class B,2005,Spring,Washington,yes
+12689,Class A,2005,Fall,Washington,yes
+406,,,,,no
+12795,Class B,2005,Fall,Arizona,yes
+12802,Class B,2005,Fall,Colorado,yes
+12815,Class B,2005,Spring,Tennessee,yes
+12818,Class B,2005,Fall,California,yes
+12824,Class B,2005,Fall,Arkansas,yes
+12836,Class B,2005,Fall,Illinois,yes
+232,,,,,no
+12858,Class B,2005,Fall,Texas,yes
+12862,Class B,2005,Fall,West Virginia,yes
+12876,Class B,2005,Fall,Washington,yes
+12903,Class B,2005,Winter,Florida,no
+12904,Class B,2005,Summer,Colorado,yes
+12913,Class A,2005,Summer,Idaho,yes
+12915,Class B,2005,Fall,New Mexico,yes
+12994,Class A,2005,Fall,New Mexico,yes
+12997,Class B,2005,Summer,Washington,yes
+13049,Class A,2005,Fall,Minnesota,yes
+13063,Class B,2005,Winter,Washington,yes
+13070,Class B,2005,Fall,Illinois,yes
+13070,Class B,2005,Fall,Illinois,yes
+13083,Class B,2005,Spring,West Virginia,yes
+13115,Class A,2005,Fall,Washington,yes
+13141,Class B,2005,Summer,West Virginia,yes
+13178,Class B,2005,Winter,Georgia,yes
+13183,Class B,2005,Summer,Washington,yes
+13211,Class A,2005,Winter,Arkansas,yes
+13237,Class A,2005,Winter,West Virginia,yes
+13285,Class A,2005,Fall,Vermont,yes
+13286,Class B,2005,Winter,Arkansas,yes
+13289,Class A,2005,Summer,Kentucky,yes
+13298,Class A,2005,Fall,Florida,yes
+13312,Class B,2005,Fall,West Virginia,yes
+13345,Class B,2005,Summer,Vermont,yes
+749,,,,,no
+569,,,,,no
+360,,,,,no
+13350,Class A,2005,Winter,Louisiana,yes
+13362,Class B,2005,Summer,California,yes
+13487,Class B,2005,Fall,Washington,no
+13503,Class B,2005,Summer,Washington,yes
+13514,Class A,2005,Summer,Florida,yes
+13515,Class A,2005,Winter,New Jersey,yes
+13699,Class B,2005,Fall,Colorado,yes
+13721,Class B,2005,Fall,Washington,yes
+14035,Class B,2005,Winter,New York,yes
+14305,Class A,2005,Spring,Washington,yes
+14350,Class A,2005,Fall,Washington,yes
+14373,Class B,2005,Fall,New York,yes
+14714,Class A,2005,Winter,Wyoming,yes
+14732,Class B,2005,Summer,Utah,yes
+14891,Class B,2005,Spring,Oregon,yes
+15039,Class B,2005,Spring,California,yes
+15088,Class B,2005,Summer,Ohio,yes
+15206,Class B,2005,Fall,Idaho,no
+15747,Class B,2005,Summer,Oregon,yes
+15821,Class A,2005,Summer,California,yes
+15844,Class B,2005,Fall,Illinois,yes
+15876,Class B,2005,Summer,Ohio,yes
+16397,Class B,2005,Summer,Arizona,yes
+17480,Class A,2005,Summer,Alabama,yes
+17644,Class A,2005,Fall,Florida,yes
+17847,Class B,2005,Fall,Washington,yes
+18174,Class A,2005,Summer,Kentucky,yes
+18737,Class B,2005,Spring,Florida,yes
+19129,Class B,2005,Spring,Georgia,yes
+19804,Class B,2005,Fall,Colorado,yes
+20306,Class B,2005,Summer,California,yes
+20780,Class B,2005,Winter,Nevada,yes
+21354,Class A,2005,Summer,California,yes
+390,,,,,no
+21659,Class B,2005,Summer,Washington,yes
+21839,Class A,2005,Fall,Montana,yes
+21879,Class A,2005,Summer,Florida,yes
+22074,Class B,2005,Fall,Florida,yes
+22813,Class B,2005,Summer,Georgia,yes
+23062,Class B,2005,Summer,Washington,yes
+23170,Class B,2005,Spring,Washington,yes
+23264,Class A,2005,Fall,Utah,yes
+23305,Class B,2005,Fall,Colorado,yes
+23330,Class B,2005,Summer,Connecticut,yes
+23399,Class B,2005,Spring,Florida,yes
+23509,Class B,2005,Fall,Minnesota,yes
+23686,Class A,2005,Fall,Missouri,yes
+23701,Class B,2005,Summer,Georgia,yes
+24334,Class A,2005,Winter,North Carolina,yes
+24356,Class B,2005,Spring,Ohio,yes
+24529,Class A,2005,Spring,Texas,yes
+24586,Class B,2005,Summer,Florida,yes
+24772,Class A,2005,Fall,Washington,yes
+24879,Class A,2005,Summer,Missouri,yes
+25702,Class B,2005,Summer,Kentucky,yes
+25715,Class A,2005,Summer,Ohio,yes
+26306,Class B,2005,Fall,Missouri,yes
+26369,Class A,2005,Winter,Ohio,yes
+27206,Class A,2005,Fall,Oklahoma,yes
+27568,Class A,2005,Winter,Alabama,yes
+27587,Class B,2005,Fall,Florida,yes
+28533,Class A,2005,Fall,Illinois,yes
+28575,Class A,2005,Spring,Kentucky,yes
+29013,Class A,2005,Winter,Utah,yes
+30004,Class A,2005,Fall,Georgia,yes
+30058,Class A,2005,Winter,Colorado,yes
+31005,Class A,2005,Summer,Tennessee,yes
+32536,Class B,2005,Fall,Washington,yes
+35616,Class B,2005,Summer,Michigan,yes
+40534,Class B,2005,Spring,Virginia,yes
+43145,Class B,2005,Fall,Michigan,yes
+47460,Class A,2005,Winter,West Virginia,yes
+47649,Class A,2005,Summer,Illinois,yes
+48811,Class A,2005,Fall,Kentucky,yes
+13494,Class A,2006,Winter,Mississippi,yes
+573,,,,,no
+13549,Class B,2006,Winter,California,yes
+13597,Class B,2006,Winter,Oregon,no
+13714,Class A,2006,Winter,Pennsylvania,yes
+13773,Class B,2006,Winter,Arizona,yes
+13828,Class B,2006,Winter,Idaho,yes
+14021,Class A,2006,Winter,Florida,yes
+14100,Class B,2006,Spring,Florida,yes
+14150,Class B,2006,Spring,Missouri,yes
+14154,Class A,2006,Winter,South Carolina,yes
+14181,Class B,2006,Spring,Florida,yes
+14383,Class B,2006,Spring,Tennessee,yes
+14508,Class B,2006,Spring,Arizona,yes
+14611,Class B,2006,Spring,South Carolina,yes
+14638,Class A,2006,Spring,Texas,yes
+14719,Class B,2006,Spring,Florida,yes
+14795,Class B,2006,Summer,Texas,yes
+14802,Class B,2006,Summer,Illinois,yes
+14845,Class B,2006,Summer,Indiana,yes
+14872,Class A,2006,Summer,Illinois,yes
+308,,,,,no
+14887,Class B,2006,Summer,Georgia,yes
+14942,Class B,2006,Summer,Minnesota,yes
+14952,Class A,2006,Spring,Virginia,yes
+14982,Class A,2006,Summer,Washington,yes
+14997,Class B,2006,Spring,Colorado,yes
+309,,,,,no
+15019,Class B,2006,Summer,Illinois,yes
+15062,Class B,2006,Summer,New Jersey,yes
+15119,Class B,2006,Summer,Indiana,yes
+15125,Class B,2006,Summer,Arizona,yes
+15135,Class A,2006,Summer,Washington,yes
+15150,Class B,2006,Summer,Michigan,yes
+15170,Class A,2006,Spring,Florida,yes
+15174,Class B,2006,Summer,California,yes
+15187,Class A,2006,Spring,Michigan,yes
+15191,Class B,2006,Summer,New York,yes
+15197,Class B,2006,Summer,California,no
+15211,Class B,2006,Summer,Utah,yes
+15236,Class B,2006,Summer,Missouri,yes
+15250,Class B,2006,Summer,West Virginia,yes
+15278,Class A,2006,Spring,Colorado,yes
+15292,Class B,2006,Spring,New Jersey,yes
+15306,Class A,2006,Summer,Pennsylvania,yes
+15329,Class B,2006,Summer,Georgia,yes
+15334,Class B,2006,Summer,Texas,yes
+15344,Class B,2006,Summer,California,yes
+15355,Class A,2006,Summer,West Virginia,yes
+15361,Class A,2006,Summer,Florida,yes
+15371,Class B,2006,Summer,Ohio,yes
+15374,Class B,2006,Summer,Indiana,yes
+15393,Class B,2006,Summer,Illinois,yes
+15430,Class B,2006,Summer,Ohio,yes
+15441,Class B,2006,Summer,Arizona,yes
+679,,,,,no
+15481,Class A,2006,Summer,West Virginia,yes
+15554,Class B,2006,Summer,North Carolina,yes
+15566,Class B,2006,Spring,New York,yes
+15597,Class B,2006,Summer,Alabama,yes
+15621,Class B,2006,Summer,Idaho,yes
+15627,Class B,2006,Summer,Texas,yes
+15652,Class B,2006,Summer,California,yes
+15694,Class B,2006,Fall,Florida,yes
+15721,Class A,2006,Summer,Washington,yes
+15767,Class B,2006,Summer,Kentucky,yes
+15782,Class B,2006,Fall,California,yes
+15855,Class A,2006,Spring,California,yes
+15939,Class B,2006,Fall,Washington,yes
+16053,Class B,2006,Fall,Washington,yes
+16142,Class B,2006,Fall,Washington,yes
+16204,Class A,2006,Fall,West Virginia,yes
+16207,Class B,2006,Fall,New Mexico,yes
+16276,Class B,2006,Fall,Washington,yes
+16342,Class A,2006,Fall,California,yes
+16347,Class B,2006,Fall,Florida,yes
+16350,Class B,2006,Fall,Washington,yes
+16416,Class B,2006,Fall,Washington,yes
+16432,Class B,2006,Fall,Nebraska,yes
+16473,Class A,2006,Fall,Florida,yes
+16499,Class B,2006,Summer,Texas,yes
+16518,Class B,2006,Fall,Washington,yes
+16520,Class B,2006,Fall,Arizona,yes
+16527,Class A,2006,Fall,Idaho,yes
+16529,Class A,2006,Spring,West Virginia,yes
+16557,Class A,2006,Fall,South Dakota,yes
+16564,Class B,2006,Fall,Wisconsin,yes
+16580,Class A,2006,Fall,Arizona,yes
+16604,Class B,2006,Spring,New Jersey,yes
+16624,Class B,2006,Fall,Oregon,yes
+16631,Class B,2006,Fall,Washington,no
+16648,Class B,2006,Fall,Colorado,yes
+16722,Class B,2006,Fall,California,yes
+16727,Class A,2006,Fall,Florida,yes
+16744,Class B,2006,Fall,Utah,yes
+16746,Class B,2006,Fall,Rhode Island,no
+16823,Class B,2006,Winter,Florida,yes
+16890,Class A,2006,Summer,West Virginia,yes
+16995,Class B,2006,Summer,Tennessee,yes
+17043,Class B,2006,Fall,Florida,yes
+17240,Class B,2006,Summer,Washington,yes
+321,,,,,no
+320,,,,,no
+17249,Class B,2006,Winter,Georgia,yes
+17259,Class B,2006,Summer,Utah,yes
+17292,Class A,2006,Winter,Montana,yes
+17458,Class B,2006,Summer,California,yes
+17545,Class B,2006,Summer,Minnesota,yes
+17570,Class B,2006,Summer,Washington,yes
+17903,Class A,2006,Fall,Washington,yes
+17939,Class B,2006,Summer,Michigan,yes
+18016,Class A,2006,Summer,Georgia,yes
+18219,Class A,2006,Summer,Missouri,yes
+18325,Class B,2006,Fall,California,yes
+18377,Class B,2006,Winter,Georgia,yes
+18427,Class A,2006,Summer,Florida,yes
+18620,Class A,2006,Fall,Washington,yes
+18958,Class B,2006,Fall,Idaho,yes
+19015,Class B,2006,Winter,North Carolina,yes
+19223,Class B,2006,Fall,Michigan,yes
+19339,Class A,2006,Fall,Arizona,yes
+19421,Class A,2006,Fall,Georgia,yes
+19695,Class A,2006,Spring,Missouri,yes
+20235,Class B,2006,Summer,Arizona,yes
+21850,Class A,2006,Fall,Texas,yes
+21969,Class B,2006,Fall,Michigan,yes
+21977,Class B,2006,Winter,New Jersey,yes
+22981,Class A,2006,Summer,Kentucky,yes
+23104,Class A,2006,Fall,Illinois,yes
+23120,Class A,2006,Summer,Florida,yes
+23315,Class B,2006,Spring,Washington,yes
+23358,Class A,2006,Winter,Arizona,yes
+23395,Class A,2006,Fall,Illinois,yes
+23448,Class B,2006,Fall,Iowa,yes
+23908,Class B,2006,Fall,Utah,yes
+23974,Class B,2006,Fall,California,yes
+24131,Class A,2006,Winter,Kentucky,yes
+24229,Class B,2006,Fall,Tennessee,yes
+24266,Class A,2006,Fall,Florida,yes
+24799,Class B,2006,Fall,Tennessee,yes
+24892,Class B,2006,Summer,Oregon,yes
+24898,Class B,2006,Fall,Washington,yes
+25084,Class A,2006,Fall,Iowa,yes
+25336,Class A,2006,Spring,Minnesota,yes
+25533,Class B,2006,Fall,Oregon,yes
+25722,Class B,2006,Fall,Washington,yes
+25724,Class B,2006,Spring,Ohio,yes
+25836,Class A,2006,Fall,Iowa,yes
+25869,Class B,2006,Summer,Indiana,yes
+26019,Class B,2006,Summer,Georgia,yes
+26276,Class B,2006,Spring,Florida,yes
+26393,Class B,2006,Fall,Florida,yes
+26567,Class A,2006,Fall,Washington,yes
+26617,Class B,2006,Fall,Michigan,yes
+26646,Class A,2006,Winter,Oregon,yes
+26750,Class B,2006,Spring,Arkansas,yes
+26829,Class B,2006,Summer,Tennessee,yes
+27037,Class B,2006,Spring,Michigan,yes
+27307,Class B,2006,Summer,Texas,yes
+28484,Class A,2006,Summer,Illinois,yes
+28534,Class A,2006,Summer,Illinois,yes
+29294,Class A,2006,Summer,Wisconsin,yes
+29455,Class A,2006,Fall,South Dakota,yes
+29674,Class B,2006,Fall,Indiana,yes
+34312,Class B,2006,Summer,Michigan,yes
+35270,Class A,2006,Spring,Florida,yes
+35387,Class A,2006,Summer,Michigan,yes
+36727,Class B,2006,Fall,Montana,yes
+40278,Class A,2006,Fall,Kentucky,yes
+43553,Class B,2006,Fall,Georgia,yes
+44649,Class A,2006,Fall,Illinois,yes
+46780,Class B,2006,Summer,Massachusetts,yes
+50159,Class B,2006,Summer,Maryland,yes
+50297,Class B,2006,Summer,Montana,yes
+59331,Class B,2006,Summer,Washington,yes
+59472,Class A,2006,Summer,Idaho,yes
+59736,Class A,2006,Summer,Arkansas,yes
+62996,Class A,2006,Summer,Washington,yes
+63033,Class A,2006,Winter,California,yes
+17306,Class A,2007,Winter,South Carolina,yes
+17348,Class B,2007,Winter,Michigan,yes
+323,,,,,no
+17432,Class B,2007,Winter,Washington,yes
+17448,Class A,2007,Winter,Arizona,yes
+17449,Class B,2007,Winter,West Virginia,yes
+17455,Class A,2007,Winter,Alabama,yes
+17539,Class B,2007,Winter,Washington,yes
+17550,Class A,2007,Winter,New Jersey,yes
+17804,Class A,2007,Winter,Arizona,yes
+17900,Class B,2007,Winter,Minnesota,yes
+17981,Class B,2007,Winter,Pennsylvania,no
+18044,Class A,2007,Winter,Georgia,yes
+18221,Class B,2007,Winter,Minnesota,yes
+18349,Class B,2007,Spring,Florida,yes
+18361,Class B,2007,Spring,Georgia,yes
+18376,Class B,2007,Winter,Alabama,yes
+18403,Class B,2007,Spring,California,yes
+18902,Class B,2007,Spring,South Carolina,yes
+18943,Class B,2007,Spring,North Carolina,yes
+19232,Class B,2007,Spring,Florida,yes
+19448,Class B,2007,Spring,California,yes
+19472,Class A,2007,Spring,Wyoming,yes
+19655,Class B,2007,Spring,Minnesota,yes
+19838,Class B,2007,Summer,Michigan,yes
+19841,Class A,2007,Winter,West Virginia,yes
+19926,Class B,2007,Spring,South Carolina,yes
+19958,Class A,2007,Summer,Florida,yes
+19961,Class B,2007,Summer,Michigan,yes
+20068,Class A,2007,Summer,West Virginia,yes
+20101,Class A,2007,Summer,West Virginia,yes
+20159,Class A,2007,Summer,West Virginia,yes
+20257,Class B,2007,Summer,Virginia,yes
+20523,Class B,2007,Summer,South Carolina,yes
+20591,Class B,2007,Summer,Washington,yes
+20594,Class B,2007,Summer,California,yes
+20608,Class B,2007,Summer,New Jersey,yes
+20833,Class B,2007,Summer,Arizona,yes
+20846,Class A,2007,Summer,West Virginia,yes
+20863,Class A,2007,Summer,West Virginia,yes
+20884,Class A,2007,Summer,Idaho,yes
+20923,Class B,2007,Summer,Washington,yes
+21162,Class B,2007,Summer,Utah,yes
+21165,Class B,2007,Summer,California,yes
+21189,Class A,2007,Summer,Washington,yes
+21193,Class A,2007,Summer,Georgia,yes
+21240,Class B,2007,Summer,Tennessee,yes
+21348,Class B,2007,Summer,Arizona,yes
+21438,Class A,2007,Summer,Texas,yes
+21473,Class B,2007,Summer,Washington,yes
+21488,Class B,2007,Summer,New York,yes
+21535,Class B,2007,Summer,Arizona,yes
+21613,Class B,2007,Fall,Utah,yes
+322,,,,,no
+21658,Class A,2007,Summer,Florida,yes
+21792,Class A,2007,Fall,Michigan,yes
+21808,Class B,2007,Fall,California,yes
+21849,Class B,2007,Fall,Florida,yes
+21907,Class B,2007,Fall,Montana,yes
+21962,Class A,2007,Fall,Pennsylvania,yes
+21979,Class B,2007,Winter,Florida,yes
+22101,Class B,2007,Fall,Arkansas,yes
+75,,,,,no
+74,,,,,no
+22122,Class B,2007,Fall,Florida,yes
+22156,Class B,2007,Fall,Florida,yes
+22358,Class B,2007,Spring,Florida,yes
+22500,Class A,2007,Winter,California,yes
+22539,Class A,2007,Summer,Alabama,yes
+22569,Class B,2007,Winter,Ohio,yes
+22598,Class B,2007,Fall,California,yes
+22816,Class B,2007,Fall,Washington,yes
+22852,Class B,2007,Fall,Georgia,yes
+23030,Class B,2007,Summer,California,yes
+23160,Class A,2007,Fall,Washington,yes
+481,,,,,no
+481,,,,,no
+23246,Class B,2007,Fall,Texas,yes
+23411,Class A,2007,Fall,West Virginia,yes
+23424,Class B,2007,Summer,California,yes
+23440,Class B,2007,Summer,Arizona,yes
+23489,Class A,2007,Fall,Iowa,yes
+23695,Class B,2007,Summer,Pennsylvania,yes
+23784,Class B,2007,Fall,New Jersey,yes
+23811,Class B,2007,Summer,California,yes
+23911,Class A,2007,Winter,Georgia,yes
+23961,Class A,2007,Summer,Wisconsin,yes
+24325,Class A,2007,Fall,Virginia,yes
+745,,,,,no
+76,,,,,no
+24354,Class A,2007,Fall,Illinois,yes
+24621,Class B,2007,Spring,Virginia,yes
+24743,Class B,2007,Fall,California,yes
+24916,Class B,2007,Spring,South Carolina,yes
+24938,Class A,2007,Summer,California,yes
+24967,Class B,2007,Winter,Oklahoma,yes
+24997,Class A,2007,Fall,Illinois,yes
+25035,Class B,2007,Spring,Tennessee,yes
+25071,Class A,2007,Fall,Iowa,yes
+25085,Class B,2007,Winter,Pennsylvania,yes
+25260,Class A,2007,Summer,California,yes
+25619,Class B,2007,Winter,Alabama,yes
+25662,Class A,2007,Summer,Montana,yes
+25704,Class B,2007,Fall,Illinois,yes
+25979,Class B,2007,Summer,Florida,yes
+26065,Class A,2007,Summer,Washington,yes
+26173,Class A,2007,Summer,Kentucky,yes
+26352,Class A,2007,Fall,Georgia,yes
+26396,Class B,2007,Fall,Georgia,yes
+26948,Class A,2007,Winter,Utah,yes
+27024,Class A,2007,Spring,Kentucky,yes
+27261,Class B,2007,Winter,Missouri,yes
+28429,Class A,2007,Fall,Illinois,yes
+29018,Class B,2007,Fall,Ohio,yes
+29125,Class A,2007,Spring,Iowa,yes
+29371,Class B,2007,Winter,Florida,yes
+30673,Class A,2007,Summer,Kentucky,yes
+31505,Class B,2007,Summer,Virginia,yes
+31680,Class B,2007,Fall,Florida,yes
+449,,,,,no
+349,,,,,no
+33426,Class B,2007,Winter,Illinois,yes
+34043,Class A,2007,Winter,West Virginia,yes
+34479,Class B,2007,Spring,Washington,yes
+39615,Class B,2007,Fall,Missouri,yes
+46742,Class B,2007,Fall,Wisconsin,yes
+49286,Class B,2007,Summer,Georgia,yes
+57103,Class A,2007,Fall,Texas,yes
+57970,Class A,2007,Summer,Idaho,yes
+63140,Class B,2007,Summer,Ohio,yes
+63250,Class A,2007,Summer,Idaho,yes
+63689,Class A,2007,Summer,Tennessee,yes
+497,,,,,no
+22890,Class A,2008,Winter,Utah,yes
+22910,Class B,2008,Winter,Virginia,yes
+22969,Class B,2008,Winter,Alabama,yes
+23017,Class B,2008,Winter,Washington,yes
+23214,Class B,2008,Winter,South Dakota,yes
+374,,,,,no
+370,,,,,no
+23460,Class B,2008,Spring,Washington,yes
+23477,Class A,2008,Spring,West Virginia,yes
+23493,Class B,2008,Spring,Washington,yes
+23558,Class A,2008,Spring,Washington,yes
+23570,Class A,2008,Winter,Florida,yes
+23578,Class B,2008,Spring,Texas,yes
+23582,Class B,2008,Spring,Florida,yes
+23585,Class B,2008,Winter,New Mexico,yes
+23628,Class B,2008,Spring,Oklahoma,yes
+23637,Class A,2008,Spring,Oklahoma,yes
+23648,Class B,2008,Winter,West Virginia,yes
+23666,Class A,2008,Spring,Alaska,yes
+23732,Class A,2008,Spring,Massachusetts,yes
+23733,Class A,2008,Spring,Oklahoma,yes
+23734,Class B,2008,Spring,Indiana,yes
+23762,Class A,2008,Winter,West Virginia,yes
+23796,Class B,2008,Spring,Washington,yes
+23916,Class B,2008,Spring,Tennessee,yes
+23949,Class A,2008,Spring,Illinois,yes
+357,,,,,no
+23980,Class B,2008,Summer,Ohio,yes
+24033,Class B,2008,Summer,Michigan,yes
+24056,Class B,2008,Spring,Iowa,yes
+24068,Class B,2008,Summer,Colorado,yes
+24078,Class A,2008,Winter,Florida,yes
+24089,Class B,2008,Summer,Minnesota,yes
+24125,Class A,2008,Summer,Georgia,yes
+24129,Class A,2008,Summer,Washington,yes
+24134,Class B,2008,Summer,Florida,yes
+24146,Class A,2008,Summer,California,yes
+24216,Class B,2008,Summer,Washington,yes
+24218,Class B,2008,Summer,Arizona,yes
+24264,Class B,2008,Summer,North Carolina,yes
+24265,Class A,2008,Summer,Wisconsin,yes
+24277,Class B,2008,Summer,California,yes
+24318,Class A,2008,Summer,Oregon,yes
+24328,Class B,2008,Summer,Oregon,yes
+24371,Class B,2008,Summer,Oregon,yes
+24373,Class B,2008,Summer,Washington,yes
+24379,Class A,2008,Summer,Washington,yes
+24394,Class B,2008,Summer,Washington,yes
+24426,Class B,2008,Summer,Minnesota,yes
+24456,Class B,2008,Summer,California,yes
+24494,Class B,2008,Summer,West Virginia,yes
+24612,Class B,2008,Summer,Washington,yes
+24619,Class B,2008,Fall,Florida,yes
+24631,Class A,2008,Summer,Oregon,yes
+24644,Class B,2008,Summer,California,yes
+24656,Class A,2008,Summer,Florida,yes
+24659,Class B,2008,Summer,Arizona,yes
+24667,Class A,2008,Fall,Tennessee,yes
+24674,Class A,2008,Spring,Kentucky,yes
+24682,Class B,2008,Summer,Oklahoma,yes
+24693,Class B,2008,Fall,Idaho,yes
+24696,Class B,2008,Fall,Colorado,yes
+24731,Class A,2008,Summer,Pennsylvania,yes
+24732,Class B,2008,Fall,Arizona,yes
+24751,Class A,2008,Spring,Washington,yes
+24766,Class A,2008,Summer,Illinois,yes
+24795,Class B,2008,Summer,California,yes
+24818,Class B,2008,Fall,Arizona,yes
+24822,Class B,2008,Fall,Wyoming,yes
+24835,Class B,2008,Fall,Washington,yes
+24854,Class A,2008,Fall,Michigan,yes
+24876,Class B,2008,Summer,Washington,yes
+24877,Class B,2008,Summer,California,yes
+24882,Class A,2008,Summer,Oregon,yes
+24886,Class B,2008,Fall,Arizona,yes
+24893,Class B,2008,Fall,Florida,yes
+24928,Class B,2008,Fall,New Jersey,yes
+24929,Class B,2008,Fall,California,yes
+24948,Class B,2008,Fall,Kentucky,yes
+24952,Class B,2008,Spring,Maryland,yes
+24975,Class B,2008,Fall,Illinois,yes
+24976,Class A,2008,Spring,Kentucky,yes
+24988,Class B,2008,Fall,North Carolina,yes
+25026,Class B,2008,Fall,Missouri,yes
+25031,Class A,2008,Fall,Michigan,yes
+25111,Class B,2008,Fall,Alabama,yes
+25129,Class A,2008,Fall,Florida,yes
+25194,Class B,2008,Fall,Washington,yes
+25237,Class B,2008,Winter,Indiana,yes
+25257,Class B,2008,Fall,Kentucky,yes
+25265,Class A,2008,Winter,Utah,yes
+25273,Class A,2008,Fall,Illinois,yes
+25280,Class A,2008,Summer,Washington,yes
+25301,Class A,2008,Winter,West Virginia,yes
+25415,Class B,2008,Summer,South Dakota,yes
+25442,Class B,2008,Fall,Alaska,yes
+25445,Class B,2008,Summer,Oregon,yes
+25451,Class B,2008,Spring,Michigan,yes
+25511,Class B,2008,Fall,Colorado,yes
+25860,Class A,2008,Summer,Kansas,yes
+25874,Class B,2008,Summer,Missouri,yes
+25882,Class B,2008,Summer,Washington,yes
+25924,Class B,2008,Fall,Illinois,yes
+25999,Class B,2008,Fall,Washington,yes
+26013,Class B,2008,Fall,North Carolina,yes
+26039,Class B,2008,Spring,Illinois,yes
+26113,Class A,2008,Summer,New Hampshire,yes
+26386,Class B,2008,Summer,California,yes
+26759,Class B,2008,Fall,Washington,yes
+26939,Class B,2008,Fall,Indiana,yes
+27072,Class A,2008,Winter,Georgia,yes
+27125,Class A,2008,Winter,Missouri,yes
+27779,Class B,2008,Summer,Kansas,yes
+28023,Class B,2008,Fall,Michigan,yes
+28065,Class B,2008,Fall,Wisconsin,yes
+28382,Class B,2008,Fall,West Virginia,yes
+28487,Class B,2008,Summer,Washington,yes
+28569,Class B,2008,Winter,Illinois,yes
+28580,Class B,2008,Fall,Pennsylvania,yes
+28703,Class A,2008,Fall,Illinois,yes
+28898,Class A,2008,Spring,Washington,yes
+28899,Class A,2008,Spring,Illinois,yes
+29158,Class A,2008,Summer,Ohio,yes
+29265,Class A,2008,Spring,Illinois,yes
+29414,Class A,2008,Spring,Florida,yes
+29794,Class B,2008,Fall,Tennessee,yes
+30547,Class A,2008,Spring,Florida,yes
+32400,Class A,2008,Fall,Illinois,yes
+32400,Class A,2008,Fall,Illinois,yes
+32905,Class A,2008,Summer,Colorado,yes
+34006,Class A,2008,Winter,Michigan,yes
+34337,Class B,2008,Fall,Virginia,yes
+36205,Class A,2008,Fall,Tennessee,yes
+667,,,,,no
+238,,,,,no
+36571,Class A,2008,Summer,Illinois,yes
+37038,Class A,2008,Winter,Alabama,yes
+37730,Class A,2008,Winter,Washington,yes
+38046,Class B,2008,Fall,Washington,yes
+39649,Class B,2008,Fall,California,yes
+40020,Class A,2008,Winter,Arkansas,yes
+42150,Class B,2008,Summer,Illinois,yes
+46834,Class B,2008,Summer,Ohio,yes
+47872,Class A,2008,Summer,Washington,yes
+48359,Class B,2008,Spring,Wisconsin,yes
+49467,Class A,2008,Fall,Indiana,yes
+63569,Class A,2008,Summer,New Jersey,yes
+63726,Class B,2008,Spring,Idaho,yes
+70692,Class A,2008,Spring,West Virginia,yes
+25346,Class B,2009,Winter,Georgia,yes
+25362,Class A,2009,Winter,Illinois,yes
+25364,Class B,2009,Winter,Massachusetts,yes
+25382,Class B,2009,Winter,Iowa,yes
+25484,Class B,2009,Winter,Connecticut,yes
+25485,Class B,2009,Winter,Georgia,yes
+25492,Class B,2009,Spring,California,yes
+25497,Class A,2009,Winter,West Virginia,yes
+25553,Class B,2009,Winter,Oklahoma,yes
+25559,Class A,2009,Winter,Alabama,yes
+25574,Class B,2009,Winter,Georgia,yes
+25582,Class A,2009,Winter,Florida,yes
+25621,Class B,2009,Winter,Washington,yes
+4,,,,,no
+25625,Class B,2009,Winter,Arizona,yes
+25658,Class B,2009,Spring,Indiana,yes
+25661,Class B,2009,Spring,New York,yes
+25693,Class B,2009,Winter,Georgia,yes
+25719,Class B,2009,Spring,Massachusetts,yes
+25809,Class A,2009,Spring,Illinois,yes
+25915,Class B,2009,Spring,South Carolina,yes
+25948,Class B,2009,Spring,Ohio,yes
+25976,Class B,2009,Spring,Washington,yes
+25989,Class A,2009,Spring,West Virginia,yes
+26005,Class B,2009,Spring,Oklahoma,yes
+26095,Class A,2009,Spring,Minnesota,yes
+26116,Class A,2009,Spring,California,yes
+26137,Class B,2009,Summer,Oregon,yes
+26149,Class B,2009,Summer,Ohio,yes
+26205,Class A,2009,Summer,New York,yes
+26226,Class A,2009,Summer,Oklahoma,yes
+26258,Class A,2009,Summer,California,yes
+26262,Class A,2009,Summer,Georgia,yes
+8,,,,,no
+6,,,,,no
+7,,,,,no
+5,,,,,no
+26277,Class A,2009,Summer,Massachusetts,yes
+26297,Class B,2009,Summer,Arizona,yes
+26299,Class A,2009,Summer,North Carolina,yes
+26307,Class B,2009,Summer,Tennessee,yes
+26313,Class A,2009,Summer,Georgia,yes
+26338,Class B,2009,Summer,New York,yes
+26354,Class B,2009,Summer,West Virginia,yes
+26380,Class A,2009,Spring,West Virginia,yes
+26403,Class A,2009,Summer,Washington,yes
+26414,Class A,2009,Spring,New Mexico,yes
+26450,Class B,2009,Summer,Washington,yes
+26460,Class A,2009,Summer,New Mexico,yes
+26473,Class B,2009,Summer,Texas,yes
+26494,Class B,2009,Summer,Oregon,yes
+26497,Class B,2009,Summer,Oregon,yes
+26504,Class A,2009,Summer,Texas,yes
+26522,Class A,2009,Fall,Colorado,yes
+26543,Class A,2009,Summer,Oklahoma,yes
+26554,Class A,2009,Summer,Oklahoma,yes
+26572,Class B,2009,Summer,Washington,yes
+26577,Class B,2009,Summer,Florida,yes
+26580,Class B,2009,Fall,Washington,yes
+26604,Class A,2009,Summer,Alaska,yes
+26671,Class A,2009,Fall,Colorado,yes
+26694,Class B,2009,Fall,Missouri,yes
+26695,Class B,2009,Fall,Washington,yes
+26711,Class B,2009,Fall,Oklahoma,yes
+26718,Class A,2009,Fall,Oregon,yes
+26767,Class A,2009,Fall,Oklahoma,yes
+26782,Class A,2009,Fall,Michigan,yes
+26822,Class A,2009,Fall,Georgia,yes
+26823,Class A,2009,Spring,Florida,yes
+26830,Class B,2009,Fall,Ohio,yes
+26868,Class A,2009,Fall,Colorado,yes
+26874,Class B,2009,Fall,Illinois,yes
+26919,Class B,2009,Fall,Missouri,yes
+26922,Class B,2009,Fall,Iowa,yes
+26927,Class B,2009,Summer,Iowa,yes
+26943,Class B,2009,Fall,Oklahoma,yes
+26947,Class B,2009,Fall,Florida,yes
+26957,Class B,2009,Winter,Pennsylvania,yes
+27042,Class B,2009,Winter,Illinois,yes
+27057,Class A,2009,Spring,Colorado,yes
+27075,Class A,2009,Summer,Colorado,yes
+27087,Class B,2009,Winter,Oregon,yes
+27089,Class A,2009,Fall,Missouri,yes
+27145,Class B,2009,Winter,Florida,yes
+27242,Class B,2009,Summer,Tennessee,yes
+27274,Class B,2009,Summer,Indiana,yes
+27300,Class A,2009,Summer,Georgia,yes
+27323,Class B,2009,Fall,Kentucky,yes
+27327,Class B,2009,Summer,California,yes
+27347,Class A,2009,Winter,Florida,yes
+27363,Class A,2009,Fall,West Virginia,yes
+27522,Class A,2009,Winter,Tennessee,yes
+27551,Class A,2009,Fall,Kentucky,yes
+27613,Class A,2009,Summer,Ohio,yes
+27676,Class B,2009,Fall,Minnesota,yes
+28110,Class A,2009,Summer,Illinois,yes
+28200,Class A,2009,Fall,Florida,yes
+28308,Class A,2009,Summer,Washington,yes
+28355,Class A,2009,Winter,Florida,yes
+28713,Class B,2009,Summer,Illinois,yes
+28861,Class B,2009,Fall,Indiana,yes
+28936,Class A,2009,Summer,Illinois,yes
+29091,Class A,2009,Summer,Michigan,yes
+29148,Class B,2009,Summer,Utah,yes
+29357,Class A,2009,Summer,Idaho,yes
+29435,Class B,2009,Summer,Minnesota,yes
+30090,Class A,2009,Winter,Michigan,yes
+30670,Class B,2009,Summer,Washington,yes
+30757,Class A,2009,Fall,North Carolina,yes
+31000,Class B,2009,Summer,Ohio,yes
+31166,Class A,2009,Summer,Minnesota,yes
+31404,Class A,2009,Fall,West Virginia,yes
+31994,Class A,2009,Summer,North Carolina,yes
+32589,Class A,2009,Fall,Kentucky,yes
+33979,Class A,2009,Winter,Ohio,yes
+34283,Class B,2009,Winter,Arizona,yes
+34932,Class B,2009,Summer,Ohio,yes
+35206,Class B,2009,Fall,Illinois,yes
+35224,Class B,2009,Summer,Michigan,yes
+35282,Class A,2009,Spring,Michigan,yes
+35868,Class B,2009,Summer,Michigan,yes
+36567,Class B,2009,Summer,Illinois,yes
+38362,Class B,2009,Spring,Kansas,yes
+38924,Class A,2009,Fall,Florida,yes
+40584,Class B,2009,Summer,Florida,yes
+40995,Class B,2009,Summer,Illinois,yes
+41111,Class B,2009,Summer,Washington,yes
+41827,Class A,2009,Winter,Arkansas,yes
+42140,Class A,2009,Fall,Illinois,yes
+46328,Class A,2009,Spring,Georgia,yes
+56754,Class B,2009,Summer,California,yes
+63398,Class B,2009,Summer,Texas,yes
+63863,Class A,2009,Fall,West Virginia,yes
+65779,Class B,2009,Fall,Idaho,yes
+27146,Class B,2010,Winter,Illinois,yes
+27184,Class B,2010,Winter,Kentucky,yes
+27197,Class A,2010,Winter,Georgia,yes
+27303,Class B,2010,Winter,Arizona,yes
+27387,Class B,2010,Winter,Illinois,yes
+27429,Class B,2010,Spring,Wisconsin,yes
+27459,Class A,2010,Spring,Alabama,yes
+27479,Class B,2010,Winter,Oregon,yes
+27495,Class A,2010,Spring,Arizona,yes
+27545,Class B,2010,Spring,Kentucky,yes
+27589,Class B,2010,Spring,Kentucky,yes
+27609,Class A,2010,Spring,California,yes
+27682,Class B,2010,Spring,Virginia,yes
+27692,Class B,2010,Spring,Illinois,yes
+27800,Class B,2010,Summer,Missouri,yes
+27803,Class A,2010,Spring,Washington,yes
+455,,,,,no
+27819,Class A,2010,Spring,California,yes
+27844,Class B,2010,Winter,California,yes
+27865,Class B,2010,Summer,Washington,yes
+27895,Class B,2010,Summer,Iowa,yes
+27923,Class B,2010,Summer,Washington,yes
+27966,Class B,2010,Summer,California,yes
+27972,Class B,2010,Summer,Ohio,yes
+27976,Class B,2010,Summer,Indiana,yes
+27991,Class A,2010,Spring,Minnesota,yes
+28005,Class A,2010,Summer,Tennessee,yes
+28008,Class B,2010,Summer,Wisconsin,yes
+28013,Class A,2010,Spring,Minnesota,yes
+28017,Class B,2010,Summer,Massachusetts,yes
+28087,Class B,2010,Summer,Washington,yes
+28105,Class B,2010,Summer,New York,yes
+28144,Class B,2010,Summer,Illinois,yes
+28207,Class B,2010,Summer,Washington,yes
+28210,Class A,2010,Summer,Missouri,yes
+28218,Class B,2010,Summer,New Mexico,yes
+28230,Class A,2010,Fall,Montana,yes
+28237,Class A,2010,Summer,Florida,yes
+28307,Class B,2010,Fall,Washington,yes
+28381,Class B,2010,Spring,North Carolina,yes
+28427,Class B,2010,Fall,Iowa,yes
+28432,Class A,2010,Fall,California,yes
+28438,Class A,2010,Fall,Washington,yes
+28445,Class A,2010,Fall,Oregon,yes
+28449,Class B,2010,Summer,Virginia,yes
+28450,Class B,2010,Fall,Florida,yes
+28485,Class B,2010,Fall,Washington,yes
+28499,Class B,2010,Fall,Ohio,yes
+28525,Class B,2010,Fall,Illinois,yes
+28531,Class B,2010,Fall,Ohio,yes
+28532,Class B,2010,Fall,Washington,yes
+28568,Class A,2010,Fall,Illinois,yes
+28570,Class B,2010,Fall,New York,yes
+28577,Class B,2010,Summer,Washington,yes
+28634,Class A,2010,Winter,Florida,yes
+28642,Class A,2010,Summer,Arizona,yes
+28667,Class B,2010,Winter,Massachusetts,yes
+28716,Class B,2010,Winter,Washington,yes
+28720,Class B,2010,Summer,Delaware,yes
+28728,Class A,2010,Fall,Illinois,yes
+28730,Class B,2010,Winter,Ohio,yes
+28945,Class B,2010,Summer,Michigan,yes
+544,,,,,no
+28954,Class B,2010,Winter,Louisiana,yes
+28998,Class B,2010,Fall,Ohio,yes
+29024,Class A,2010,Fall,North Carolina,yes
+29313,Class B,2010,Spring,Arkansas,yes
+29315,Class A,2010,Winter,Texas,yes
+29386,Class B,2010,Fall,Indiana,yes
+29417,Class A,2010,Fall,Arkansas,yes
+29565,Class A,2010,Fall,Florida,yes
+29633,Class B,2010,Summer,Michigan,yes
+30028,Class A,2010,Fall,West Virginia,yes
+30150,Class B,2010,Summer,Oklahoma,yes
+30154,Class B,2010,Winter,West Virginia,yes
+30680,Class B,2010,Summer,Alabama,yes
+30868,Class B,2010,Summer,Idaho,yes
+30906,Class B,2010,Spring,Rhode Island,yes
+31025,Class A,2010,Summer,Michigan,yes
+31439,Class B,2010,Summer,Ohio,yes
+31443,Class B,2010,Winter,Kentucky,yes
+31939,Class A,2010,Fall,Colorado,yes
+31940,Class A,2010,Fall,New York,yes
+32251,Class B,2010,Summer,Arizona,yes
+32377,Class B,2010,Fall,Kentucky,yes
+32444,Class B,2010,Fall,North Carolina,yes
+33040,Class B,2010,Fall,Illinois,yes
+33322,Class A,2010,Summer,Kentucky,yes
+34024,Class B,2010,Summer,Montana,yes
+34502,Class A,2010,Winter,Kentucky,yes
+35479,Class A,2010,Fall,Washington,yes
+35529,Class A,2010,Spring,Florida,yes
+35789,Class B,2010,Fall,Mississippi,yes
+35883,Class B,2010,Spring,Iowa,yes
+37692,Class B,2010,Summer,Ohio,yes
+37797,Class B,2010,Summer,Michigan,yes
+37856,Class A,2010,Fall,Illinois,yes
+37885,Class A,2010,Spring,Washington,yes
+546,,,,,no
+37972,Class A,2010,Summer,Illinois,yes
+38295,Class B,2010,Fall,Illinois,yes
+38893,Class B,2010,Fall,Florida,yes
+39137,Class B,2010,Fall,Texas,yes
+39382,Class B,2010,Spring,Florida,yes
+39851,Class B,2010,Summer,Illinois,yes
+39922,Class B,2010,Fall,Arkansas,yes
+40106,Class B,2010,Spring,Michigan,yes
+40420,Class B,2010,Spring,Texas,yes
+41290,Class A,2010,Spring,Tennessee,yes
+41668,Class A,2010,Fall,Texas,yes
+42293,Class B,2010,Winter,Florida,yes
+47470,Class B,2010,Fall,Washington,yes
+50025,Class A,2010,Winter,New Jersey,yes
+50717,Class B,2010,Summer,Missouri,yes
+50856,Class A,2010,Fall,Ohio,yes
+51283,Class A,2010,Summer,Pennsylvania,yes
+57182,Class B,2010,Fall,Washington,yes
+64192,Class A,2010,Summer,New York,yes
+264,,,,,no
+65296,Class A,2010,Summer,Oklahoma,yes
+70737,Class B,2010,Fall,Washington,yes
+28679,Class B,2011,Winter,Illinois,yes
+28702,Class A,2011,Winter,West Virginia,yes
+28739,Class B,2011,Winter,Washington,yes
+28823,Class B,2011,Winter,Washington,yes
+28839,Class B,2011,Winter,Arkansas,yes
+28856,Class B,2011,Winter,Washington,yes
+358,,,,,no
+265,,,,,no
+28886,Class A,2011,Winter,New Mexico,yes
+28912,Class A,2011,Winter,Ohio,yes
+28940,Class A,2011,Winter,Illinois,yes
+28964,Class A,2011,Winter,New Mexico,yes
+28982,Class B,2011,Spring,Georgia,yes
+29067,Class B,2011,Spring,Texas,yes
+29092,Class A,2011,Spring,Texas,yes
+29139,Class A,2011,Spring,New Jersey,yes
+29165,Class A,2011,Spring,Illinois,yes
+29170,Class B,2011,Spring,Washington,yes
+29227,Class B,2011,Spring,Illinois,yes
+29303,Class B,2011,Spring,Washington,yes
+29305,Class A,2011,Spring,Virginia,yes
+29355,Class B,2011,Spring,Washington,yes
+29358,Class A,2011,Spring,Arizona,yes
+29448,Class B,2011,Winter,Illinois,yes
+29495,Class B,2011,Spring,Illinois,yes
+29503,Class B,2011,Summer,Arkansas,yes
+29529,Class A,2011,Summer,Florida,yes
+29530,Class B,2011,Summer,Georgia,yes
+29609,Class A,2011,Spring,Washington,yes
+29612,Class B,2011,Summer,Illinois,yes
+29836,Class B,2011,Summer,Illinois,yes
+29891,Class B,2011,Summer,Indiana,yes
+30003,Class A,2011,Summer,Illinois,yes
+30035,Class A,2011,Summer,Ohio,yes
+30238,Class A,2011,Summer,Texas,yes
+30369,Class B,2011,Summer,Ohio,yes
+30430,Class B,2011,Spring,Texas,yes
+30438,Class A,2011,Summer,North Carolina,yes
+30442,Class B,2011,Summer,Missouri,yes
+30459,Class B,2011,Summer,Washington,yes
+30483,Class B,2011,Summer,Georgia,yes
+30504,Class A,2011,Summer,Texas,yes
+558,,,,,no
+557,,,,,no
+552,,,,,no
+551,,,,,no
+26,,,,,no
+23,,,,,no
+24,,,,,no
+25,,,,,no
+30510,Class B,2011,Summer,Illinois,yes
+30526,Class B,2011,Summer,Washington,yes
+30530,Class A,2011,Summer,Iowa,yes
+30531,Class B,2011,Summer,Pennsylvania,yes
+550,,,,,no
+30601,Class B,2011,Summer,Illinois,yes
+22,,,,,no
+21,,,,,no
+20,,,,,no
+30622,Class A,2011,Summer,Ohio,yes
+30634,Class B,2011,Spring,Maryland,yes
+30679,Class A,2011,Summer,Florida,yes
+30730,Class B,2011,Fall,Georgia,yes
+30748,Class B,2011,Summer,Tennessee,yes
+30783,Class B,2011,Summer,Washington,yes
+30789,Class B,2011,Summer,Michigan,yes
+30841,Class B,2011,Fall,Texas,yes
+30860,Class A,2011,Summer,North Carolina,yes
+28,,,,,no
+32,,,,,no
+31,,,,,no
+30,,,,,no
+29,,,,,no
+30863,Class A,2011,Fall,Tennessee,yes
+30896,Class A,2011,Fall,Illinois,yes
+31052,Class B,2011,Fall,Washington,yes
+33,,,,,no
+31062,Class B,2011,Spring,Illinois,yes
+31121,Class B,2011,Fall,Michigan,yes
+31122,Class B,2011,Fall,Florida,yes
+31153,Class B,2011,Summer,Florida,yes
+31201,Class A,2011,Fall,Missouri,yes
+31246,Class B,2011,Summer,Ohio,yes
+31368,Class A,2011,Fall,Kentucky,yes
+31419,Class B,2011,Winter,Illinois,yes
+31603,Class A,2011,Summer,Michigan,yes
+31631,Class B,2011,Winter,Virginia,yes
+31648,Class B,2011,Spring,Virginia,yes
+31745,Class A,2011,Summer,Florida,yes
+31749,Class B,2011,Summer,Washington,yes
+31801,Class A,2011,Summer,Florida,yes
+31852,Class A,2011,Summer,Ohio,yes
+31858,Class A,2011,Winter,Illinois,yes
+32024,Class B,2011,Summer,Michigan,yes
+345,,,,,no
+32203,Class A,2011,Fall,Florida,yes
+32254,Class B,2011,Summer,Georgia,yes
+32256,Class A,2011,Spring,Kansas,yes
+32308,Class B,2011,Winter,Florida,yes
+32332,Class B,2011,Fall,Florida,yes
+32402,Class B,2011,Fall,Wisconsin,yes
+32489,Class A,2011,Fall,Georgia,yes
+32537,Class A,2011,Fall,Tennessee,yes
+32634,Class B,2011,Summer,Illinois,yes
+32654,Class A,2011,Winter,California,yes
+32689,Class B,2011,Fall,Oklahoma,yes
+32924,Class B,2011,Winter,Michigan,yes
+33187,Class A,2011,Fall,Kentucky,yes
+33256,Class B,2011,Spring,Virginia,yes
+33257,Class A,2011,Winter,Montana,yes
+33336,Class A,2011,Fall,Texas,yes
+33490,Class B,2011,Winter,Iowa,yes
+33985,Class A,2011,Fall,Georgia,yes
+34078,Class B,2011,Fall,Colorado,yes
+34224,Class B,2011,Spring,Alabama,yes
+34426,Class B,2011,Winter,Florida,yes
+34460,Class A,2011,Summer,New Mexico,yes
+35031,Class B,2011,Summer,Washington,yes
+35281,Class B,2011,Fall,Minnesota,yes
+35409,Class A,2011,Fall,Washington,yes
+35474,Class B,2011,Fall,Florida,yes
+35706,Class A,2011,Summer,Washington,yes
+35769,Class B,2011,Summer,Florida,yes
+35981,Class B,2011,Summer,Virginia,yes
+36004,Class A,2011,Fall,Florida,yes
+36072,Class A,2011,Fall,Virginia,yes
+36076,Class A,2011,Fall,Oregon,yes
+36230,Class B,2011,Fall,Kentucky,yes
+36246,Class A,2011,Fall,Illinois,yes
+36306,Class A,2011,Spring,Illinois,yes
+36746,Class B,2011,Summer,Kansas,yes
+36915,Class B,2011,Fall,Florida,yes
+37862,Class B,2011,Winter,Arkansas,yes
+39086,Class B,2011,Spring,Idaho,yes
+39268,Class A,2011,Fall,Illinois,yes
+39785,Class B,2011,Fall,Michigan,yes
+40474,Class B,2011,Summer,Illinois,yes
+40718,Class B,2011,Fall,Wisconsin,yes
+40841,Class B,2011,Summer,Illinois,yes
+335,,,,,no
+41040,Class B,2011,Fall,North Carolina,yes
+41186,Class B,2011,Summer,Arizona,yes
+41487,Class B,2011,Winter,Illinois,yes
+42643,Class B,2011,Fall,Virginia,yes
+42745,Class A,2011,Summer,Ohio,yes
+42999,Class A,2011,Fall,North Carolina,yes
+43843,Class A,2011,Spring,Kansas,yes
+44571,Class B,2011,Fall,Georgia,yes
+44793,Class B,2011,Summer,Minnesota,yes
+46380,Class A,2011,Fall,Arkansas,yes
+47471,Class B,2011,Fall,Washington,yes
+48086,Class A,2011,Fall,Georgia,yes
+49326,Class A,2011,Winter,Florida,yes
+55552,Class B,2011,Spring,New Jersey,yes
+57248,Class A,2011,Winter,Idaho,yes
+58022,Class A,2011,Fall,North Carolina,yes
+58819,Class A,2011,Fall,Wisconsin,yes
+63607,Class B,2011,Summer,Colorado,yes
+64111,Class A,2011,Fall,Oregon,yes
+67582,Class B,2011,Fall,North Carolina,yes
+69141,Class A,2011,Summer,Idaho,yes
+31824,Class B,2012,Winter,Kentucky,yes
+31860,Class B,2012,Winter,Michigan,yes
+31933,Class B,2012,Winter,Florida,yes
+31956,Class B,2012,Winter,Virginia,yes
+31986,Class B,2012,Winter,Oklahoma,yes
+32426,Class A,2012,Winter,Florida,yes
+32447,Class B,2012,Winter,North Carolina,yes
+32594,Class B,2012,Winter,Michigan,yes
+32616,Class A,2012,Winter,Illinois,yes
+32670,Class B,2012,Winter,Massachusetts,yes
+346,,,,,no
+32696,Class B,2012,Winter,Washington,yes
+664,,,,,no
+33088,Class B,2012,Spring,Florida,yes
+33264,Class B,2012,Winter,Illinois,yes
+336,,,,,no
+33612,Class B,2012,Unknown,Florida,yes
+33764,Class A,2012,Winter,Florida,yes
+33872,Class B,2012,Spring,Missouri,yes
+33911,Class B,2012,Winter,Illinois,yes
+34240,Class B,2012,Winter,Wisconsin,yes
+34344,Class B,2012,Winter,Wisconsin,yes
+34485,Class A,2012,Winter,Pennsylvania,yes
+34583,Class B,2012,Spring,Virginia,yes
+34657,Class A,2012,Winter,Oklahoma,yes
+34664,Class B,2012,Spring,Ohio,yes
+641,,,,,no
+621,,,,,no
+34710,Class A,2012,Spring,Washington,yes
+34899,Class B,2012,Spring,Montana,yes
+34954,Class A,2012,Winter,Florida,yes
+35053,Class B,2012,Spring,Florida,yes
+35188,Class B,2012,Spring,Oklahoma,yes
+35218,Class B,2012,Spring,Florida,yes
+35236,Class A,2012,Spring,Indiana,yes
+35244,Class B,2012,Spring,West Virginia,yes
+35287,Class B,2012,Spring,Kansas,yes
+35339,Class B,2012,Spring,Alabama,yes
+35352,Class B,2012,Spring,Georgia,yes
+35427,Class A,2012,Spring,Illinois,yes
+35456,Class B,2012,Spring,Kentucky,yes
+35459,Class A,2012,Spring,Oklahoma,yes
+35467,Class B,2012,Spring,Virginia,yes
+35475,Class A,2012,Summer,Alabama,yes
+35512,Class B,2012,Spring,Georgia,yes
+35574,Class B,2012,Spring,Florida,yes
+35593,Class B,2012,Spring,Illinois,yes
+35596,Class A,2012,Spring,Colorado,yes
+35631,Class B,2012,Summer,Georgia,yes
+35669,Class B,2012,Spring,Washington,yes
+35753,Class B,2012,Summer,Michigan,yes
+35778,Class B,2012,Spring,Texas,yes
+35812,Class A,2012,Spring,Washington,yes
+35828,Class A,2012,Summer,Kansas,yes
+35914,Class A,2012,Summer,Tennessee,yes
+35940,Class B,2012,Summer,Florida,yes
+35984,Class B,2012,Spring,Kansas,yes
+36008,Class B,2012,Summer,Montana,yes
+36070,Class B,2012,Summer,California,yes
+36112,Class B,2012,Summer,Florida,yes
+36150,Class B,2012,Summer,Missouri,yes
+36178,Class A,2012,Summer,Arkansas,yes
+36229,Class B,2012,Summer,Kentucky,yes
+387,,,,,no
+36238,Class B,2012,Summer,Georgia,yes
+350,,,,,no
+36247,Class B,2012,Summer,Missouri,yes
+36280,Class B,2012,Summer,Oregon,yes
+36310,Class B,2012,Spring,Washington,yes
+36318,Class B,2012,Summer,Washington,yes
+36355,Class B,2012,Summer,Michigan,yes
+36370,Class A,2012,Summer,Oregon,yes
+36381,Class B,2012,Summer,Wisconsin,yes
+36384,Class B,2012,Summer,Oregon,yes
+36406,Class A,2012,Summer,Illinois,yes
+36407,Class B,2012,Fall,Missouri,yes
+36467,Class A,2012,Fall,Washington,yes
+36498,Class A,2012,Summer,Arkansas,yes
+36505,Class B,2012,Fall,Oregon,yes
+36514,Class B,2012,Fall,Iowa,yes
+36572,Class A,2012,Fall,Missouri,yes
+36591,Class B,2012,Fall,Virginia,yes
+36618,Class B,2012,Fall,Washington,yes
+36623,Class B,2012,Fall,Arizona,yes
+36634,Class B,2012,Fall,Florida,yes
+36643,Class B,2012,Fall,Oklahoma,yes
+36647,Class B,2012,Summer,Washington,yes
+36662,Class B,2012,Summer,West Virginia,yes
+36671,Class A,2012,Summer,Oregon,yes
+36682,Class B,2012,Fall,Florida,yes
+36700,Class B,2012,Summer,West Virginia,yes
+36710,Class B,2012,Fall,Florida,yes
+36726,Class B,2012,Summer,Washington,yes
+36759,Class B,2012,Fall,Montana,yes
+36826,Class B,2012,Fall,Florida,yes
+36830,Class A,2012,Summer,Ohio,yes
+36838,Class A,2012,Fall,Missouri,yes
+36850,Class B,2012,Fall,Virginia,yes
+36852,Class B,2012,Fall,Washington,yes
+37010,Class B,2012,Spring,Arkansas,yes
+37094,Class A,2012,Fall,Alabama,yes
+37203,Class A,2012,Winter,Florida,yes
+37259,Class A,2012,Fall,Ohio,yes
+37267,Class A,2012,Fall,Tennessee,yes
+37275,Class A,2012,Fall,Florida,yes
+37336,Class B,2012,Fall,Iowa,yes
+37386,Class B,2012,Fall,Delaware,yes
+37558,Class B,2012,Fall,Maryland,yes
+372,,,,,no
+37565,Class B,2012,Winter,West Virginia,yes
+37656,Class B,2012,Fall,Ohio,yes
+37750,Class B,2012,Fall,Kentucky,yes
+37758,Class B,2012,Summer,Illinois,yes
+37793,Class A,2012,Fall,Ohio,yes
+37817,Class B,2012,Fall,Virginia,yes
+37974,Class B,2012,Winter,Montana,yes
+37988,Class B,2012,Fall,Illinois,yes
+38005,Class B,2012,Fall,Wisconsin,yes
+38015,Class A,2012,Winter,Arkansas,yes
+38022,Class B,2012,Winter,Alabama,yes
+38032,Class B,2012,Fall,Illinois,yes
+38061,Class B,2012,Fall,Michigan,yes
+38104,Class B,2012,Fall,Florida,yes
+38122,Class A,2012,Winter,Kentucky,yes
+38165,Class B,2012,Fall,Florida,yes
+38224,Class A,2012,Winter,Washington,yes
+38287,Class A,2012,Fall,Idaho,yes
+38309,Class B,2012,Winter,Indiana,yes
+38337,Class B,2012,Fall,Illinois,yes
+38339,Class B,2012,Fall,Missouri,yes
+415,,,,,no
+38395,Class A,2012,Winter,Illinois,yes
+38413,Class B,2012,Fall,Washington,yes
+38440,Class A,2012,Fall,Kansas,yes
+38519,Class A,2012,Fall,Missouri,yes
+38524,Class B,2012,Fall,Illinois,yes
+38619,Class B,2012,Winter,Virginia,yes
+38662,Class B,2012,Winter,Wisconsin,yes
+662,,,,,no
+666,,,,,no
+38693,Class B,2012,Winter,Washington,yes
+38873,Class A,2012,Summer,Georgia,yes
+39014,Class B,2012,Winter,Florida,yes
+39080,Class A,2012,Winter,Florida,yes
+39095,Class B,2012,Fall,Wisconsin,yes
+352,,,,,no
+294,,,,,no
+39098,Class B,2012,Fall,Illinois,yes
+39181,Class A,2012,Fall,California,yes
+39267,Class A,2012,Winter,Illinois,yes
+39360,Class A,2012,Summer,Ohio,yes
+39383,Class A,2012,Summer,Alabama,yes
+39568,Class A,2012,Fall,Illinois,yes
+39578,Class B,2012,Winter,Michigan,yes
+39610,Class B,2012,Spring,Washington,yes
+39855,Class A,2012,Winter,North Carolina,yes
+39990,Class B,2012,Summer,Illinois,yes
+40015,Class B,2012,Fall,Missouri,yes
+40101,Class A,2012,Winter,Arkansas,yes
+40177,Class A,2012,Fall,Missouri,yes
+40204,Class A,2012,Spring,Michigan,yes
+40362,Class B,2012,Summer,Virginia,yes
+40381,Class A,2012,Winter,Washington,yes
+40412,Class B,2012,Summer,Montana,yes
+40462,Class A,2012,Winter,New Jersey,yes
+361,,,,,no
+40476,Class B,2012,Fall,Illinois,yes
+40524,Class A,2012,Fall,Montana,yes
+40542,Class B,2012,Winter,Alabama,yes
+40548,Class B,2012,Fall,Missouri,yes
+40715,Class B,2012,Spring,Ohio,yes
+41043,Class B,2012,Spring,Illinois,yes
+41411,Class B,2012,Fall,Minnesota,yes
+41448,Class A,2012,Spring,Florida,yes
+41503,Class A,2012,Summer,Florida,yes
+41776,Class B,2012,Spring,Kentucky,yes
+41782,Class B,2012,Winter,Montana,yes
+42134,Class B,2012,Winter,Florida,yes
+42395,Class A,2012,Fall,Washington,yes
+42580,Class B,2012,Summer,North Carolina,yes
+42602,Class A,2012,Summer,Colorado,yes
+43229,Class B,2012,Fall,Texas,yes
+400,,,,,no
+399,,,,,no
+401,,,,,no
+401,,,,,no
+43381,Class B,2012,Fall,Florida,yes
+43519,Class B,2012,Spring,Michigan,yes
+43619,Class A,2012,Spring,Illinois,yes
+43742,Class B,2012,Fall,Wisconsin,yes
+43889,Class B,2012,Fall,Michigan,yes
+43915,Class B,2012,Winter,Wisconsin,yes
+43975,Class A,2012,Fall,Minnesota,yes
+44111,Class B,2012,Summer,Iowa,yes
+44166,Class B,2012,Spring,Indiana,yes
+44428,Class B,2012,Summer,Minnesota,yes
+44429,Class A,2012,Fall,Iowa,yes
+44437,Class B,2012,Summer,Michigan,yes
+44808,Class A,2012,Fall,Minnesota,yes
+45958,Class B,2012,Fall,Pennsylvania,yes
+47107,Class A,2012,Fall,Washington,yes
+48824,Class B,2012,Unknown,Michigan,yes
+50160,Class B,2012,Summer,Washington,yes
+51800,Class B,2012,Winter,Florida,yes
+56937,Class A,2012,Spring,Missouri,yes
+57323,Class B,2012,Winter,Oregon,yes
+59450,Class A,2012,Spring,Missouri,yes
+63646,Class B,2012,Fall,South Dakota,yes
+68932,Class A,2012,Fall,New York,yes
+38725,Class B,2013,Winter,Ohio,yes
+38764,Class B,2013,Winter,Florida,yes
+38835,Class B,2013,Winter,Ohio,yes
+38902,Class B,2013,Winter,Michigan,yes
+38923,Class B,2013,Winter,Florida,yes
+38933,Class B,2013,Winter,California,yes
+38980,Class A,2013,Winter,Kentucky,yes
+39084,Class B,2013,Winter,Illinois,yes
+39279,Class B,2013,Winter,North Carolina,yes
+39338,Class B,2013,Winter,Florida,yes
+39520,Class A,2013,Winter,Colorado,yes
+39620,Class B,2013,Winter,Alabama,yes
+39764,Class B,2013,Winter,Mississippi,yes
+39831,Class B,2013,Winter,Iowa,yes
+39835,Class B,2013,Winter,Missouri,yes
+40019,Class B,2013,Winter,Florida,yes
+40075,Class A,2013,Winter,Illinois,yes
+40120,Class B,2013,Winter,Illinois,yes
+40220,Class A,2013,Winter,Illinois,yes
+40293,Class B,2013,Winter,Minnesota,yes
+40306,Class A,2013,Winter,Missouri,yes
+40314,Class B,2013,Spring,Illinois,yes
+40360,Class B,2013,Winter,Ohio,yes
+40417,Class A,2013,Winter,Alabama,yes
+40564,Class B,2013,Spring,Florida,yes
+40580,Class B,2013,Winter,Ohio,yes
+40618,Class A,2013,Winter,Florida,yes
+40619,Class B,2013,Winter,Ohio,yes
+40714,Class B,2013,Winter,Illinois,yes
+40801,Class B,2013,Winter,Michigan,yes
+40901,Class B,2013,Winter,Florida,yes
+40912,Class A,2013,Winter,Alabama,yes
+40935,Class A,2013,Spring,Florida,yes
+40959,Class A,2013,Spring,Virginia,yes
+41012,Class A,2013,Spring,Missouri,yes
+41062,Class A,2013,Spring,Wisconsin,yes
+41169,Class B,2013,Spring,Georgia,yes
+41195,Class B,2013,Spring,Missouri,yes
+41232,Class A,2013,Spring,Ohio,yes
+41265,Class B,2013,Spring,Florida,yes
+41270,Class B,2013,Spring,Ohio,yes
+41275,Class B,2013,Spring,Florida,yes
+41309,Class B,2013,Summer,Florida,yes
+41350,Class B,2013,Spring,Arizona,yes
+41378,Class A,2013,Spring,Oregon,yes
+41395,Class A,2013,Spring,Missouri,yes
+41447,Class B,2013,Summer,Arizona,yes
+41452,Class B,2013,Summer,Ohio,yes
+41471,Class B,2013,Spring,Ohio,yes
+41506,Class B,2013,Summer,North Carolina,yes
+41508,Class A,2013,Summer,North Carolina,yes
+41514,Class B,2013,Summer,Wisconsin,yes
+41602,Class B,2013,Summer,Washington,yes
+41621,Class B,2013,Summer,Texas,yes
+41657,Class A,2013,Summer,Wisconsin,yes
+41676,Class B,2013,Summer,Ohio,yes
+150,,,,,no
+41700,Class B,2013,Summer,Iowa,yes
+41704,Class A,2013,Summer,Oregon,yes
+41709,Class B,2013,Summer,Oregon,yes
+41718,Class A,2013,Summer,Illinois,yes
+41770,Class B,2013,Summer,Michigan,yes
+724,,,,,no
+725,,,,,no
+41774,Class B,2013,Summer,Ohio,yes
+41825,Class B,2013,Summer,Washington,yes
+41845,Class B,2013,Summer,Iowa,yes
+41880,Class B,2013,Summer,West Virginia,yes
+41892,Class A,2013,Summer,Florida,yes
+41935,Class B,2013,Summer,Colorado,yes
+41981,Class B,2013,Summer,Arizona,yes
+42022,Class B,2013,Spring,Ohio,yes
+42051,Class A,2013,Spring,Pennsylvania,yes
+42056,Class B,2013,Summer,Michigan,yes
+42064,Class B,2013,Summer,Virginia,yes
+42120,Class B,2013,Summer,Ohio,yes
+42128,Class B,2013,Fall,Virginia,yes
+42148,Class B,2013,Fall,California,yes
+42226,Class B,2013,Fall,Michigan,yes
+42295,Class B,2013,Summer,Minnesota,yes
+42304,Class B,2013,Fall,Washington,yes
+42351,Class A,2013,Spring,Michigan,yes
+42448,Class A,2013,Fall,Washington,yes
+194,,,,,no
+192,,,,,no
+193,,,,,no
+42473,Class B,2013,Fall,Texas,yes
+42596,Class B,2013,Spring,Minnesota,yes
+42647,Class B,2013,Fall,Idaho,yes
+42658,Class A,2013,Fall,Michigan,yes
+42692,Class B,2013,Fall,Alabama,yes
+42726,Class A,2013,Fall,Florida,yes
+42742,Class B,2013,Fall,Missouri,yes
+42939,Class A,2013,Fall,Alabama,yes
+42967,Class B,2013,Fall,Michigan,yes
+42978,Class A,2013,Fall,Florida,yes
+43059,Class A,2013,Summer,Georgia,yes
+43120,Class A,2013,Winter,Alabama,yes
+43122,Class B,2013,Fall,Wisconsin,yes
+43148,Class A,2013,Summer,Illinois,yes
+43162,Class A,2013,Winter,Florida,yes
+43193,Class B,2013,Fall,West Virginia,yes
+43204,Class B,2013,Fall,North Carolina,yes
+43244,Class B,2013,Winter,Washington,yes
+43285,Class A,2013,Fall,New York,yes
+43295,Class B,2013,Fall,Wisconsin,yes
+43319,Class B,2013,Winter,Illinois,yes
+43399,Class A,2013,Fall,New Mexico,yes
+43407,Class B,2013,Winter,Ohio,yes
+43491,Class B,2013,Winter,Oregon,yes
+43689,Class A,2013,Spring,Alabama,yes
+191,,,,,no
+190,,,,,no
+189,,,,,no
+188,,,,,no
+43757,Class B,2013,Fall,Washington,yes
+43973,Class B,2013,Summer,Minnesota,yes
+44042,Class A,2013,Fall,Wisconsin,yes
+44263,Class A,2013,Summer,Massachusetts,yes
+44386,Class B,2013,Fall,Alabama,yes
+44479,Class B,2013,Summer,Alabama,yes
+44783,Class B,2013,Summer,Michigan,yes
+44989,Class B,2013,Fall,Oregon,yes
+45320,Class B,2013,Summer,Arizona,yes
+45883,Class B,2013,Spring,Florida,yes
+187,,,,,no
+45903,Class B,2013,Spring,New Jersey,yes
+46025,Class A,2013,Fall,Washington,yes
+47521,Class B,2013,Spring,Illinois,yes
+47523,Class B,2013,Winter,Georgia,yes
+47776,Class A,2013,Winter,Illinois,yes
+47975,Class A,2013,Winter,Alabama,yes
+48073,Class B,2013,Summer,Michigan,yes
+48388,Class B,2013,Summer,Iowa,yes
+184,,,,,no
+186,,,,,no
+185,,,,,no
+272,,,,,no
+48797,Class B,2013,Summer,Washington,yes
+48940,Class A,2013,Summer,New Hampshire,yes
+49518,Class B,2013,Winter,Minnesota,yes
+50502,Class B,2013,Fall,Illinois,yes
+51816,Class B,2013,Fall,Washington,yes
+55789,Class B,2013,Summer,Kansas,yes
+56106,Class B,2013,Summer,Iowa,yes
+56257,Class B,2013,Summer,Idaho,yes
+714,,,,,no
+57013,Class B,2013,Fall,Ohio,yes
+57358,Class B,2013,Summer,Iowa,yes
+57880,Class A,2013,Fall,Illinois,yes
+58461,Class A,2013,Winter,Washington,yes
+58702,Class A,2013,Fall,Ohio,yes
+59071,Class A,2013,Summer,Missouri,yes
+59073,Class A,2013,Fall,Illinois,yes
+60969,Class B,2013,Summer,Washington,yes
+62282,Class A,2013,Fall,Oklahoma,yes
+62902,Class B,2013,Spring,Connecticut,yes
+63279,Class A,2013,Summer,New York,yes
+65655,Class B,2013,Spring,Florida,yes
+43611,Class B,2014,Winter,Georgia,yes
+43733,Class B,2014,Winter,Michigan,yes
+179,,,,,no
+180,,,,,no
+43853,Class B,2014,Winter,Pennsylvania,yes
+43859,Class B,2014,Winter,Washington,yes
+43901,Class B,2014,Winter,Pennsylvania,yes
+43952,Class B,2014,Winter,Texas,yes
+44173,Class B,2014,Winter,Ohio,yes
+44262,Class B,2014,Winter,Ohio,yes
+44309,Class B,2014,Winter,Pennsylvania,yes
+44350,Class B,2014,Winter,Pennsylvania,yes
+44401,Class B,2014,Winter,Colorado,yes
+44445,Class A,2014,Winter,Pennsylvania,yes
+44474,Class A,2014,Winter,Washington,yes
+44645,Class B,2014,Spring,Illinois,yes
+44678,Class B,2014,Spring,Texas,yes
+44721,Class A,2014,Spring,Kansas,yes
+44849,Class A,2014,Spring,Alabama,yes
+44861,Class B,2014,Spring,Kentucky,yes
+44912,Class B,2014,Spring,Arkansas,yes
+44946,Class B,2014,Spring,Washington,yes
+45049,Class A,2014,Spring,Washington,yes
+45098,Class B,2014,Summer,New Jersey,yes
+45150,Class B,2014,Spring,Minnesota,yes
+45216,Class A,2014,Spring,Georgia,yes
+45266,Class B,2014,Spring,Maryland,yes
+45280,Class B,2014,Spring,Ohio,yes
+45296,Class A,2014,Summer,Alabama,yes
+45347,Class B,2014,Summer,Oregon,yes
+45360,Class B,2014,Spring,Washington,yes
+703,,,,,no
+45418,Class B,2014,Summer,Wisconsin,yes
+45464,Class A,2014,Summer,Alabama,yes
+45498,Class B,2014,Summer,Alabama,yes
+45566,Class B,2014,Winter,Florida,yes
+45570,Class A,2014,Spring,Virginia,yes
+45604,Class B,2014,Summer,Virginia,yes
+45616,Class A,2014,Summer,Texas,yes
+45652,Class B,2014,Summer,Arizona,yes
+45666,Class A,2014,Winter,Colorado,yes
+45726,Class B,2014,Summer,Washington,yes
+45813,Class B,2014,Summer,Oregon,yes
+45818,Class A,2014,Summer,Texas,yes
+45830,Class B,2014,Summer,Illinois,yes
+45831,Class A,2014,Summer,New York,yes
+45851,Class A,2014,Summer,Missouri,yes
+45876,Class B,2014,Spring,Missouri,yes
+45899,Class B,2014,Summer,Washington,yes
+45911,Class B,2014,Summer,Minnesota,yes
+46206,Class B,2014,Summer,Virginia,yes
+46243,Class B,2014,Summer,Arizona,yes
+46320,Class B,2014,Summer,Pennsylvania,yes
+46330,Class A,2014,Summer,California,yes
+46334,Class B,2014,Summer,Kentucky,yes
+46401,Class A,2014,Summer,Michigan,yes
+46439,Class A,2014,Summer,Illinois,yes
+46475,Class B,2014,Summer,Missouri,yes
+46477,Class B,2014,Summer,Washington,yes
+46502,Class B,2014,Summer,Virginia,yes
+46520,Class B,2014,Spring,Washington,yes
+46528,Class A,2014,Fall,West Virginia,yes
+46534,Class B,2014,Summer,Michigan,yes
+46546,Class B,2014,Summer,Washington,yes
+46578,Class B,2014,Summer,Kentucky,yes
+46604,Class B,2014,Summer,Florida,yes
+46620,Class B,2014,Winter,Maryland,yes
+46624,Class A,2014,Fall,Kentucky,yes
+46635,Class A,2014,Spring,Ohio,yes
+46641,Class B,2014,Fall,Texas,yes
+46665,Class B,2014,Fall,West Virginia,yes
+46676,Class B,2014,Fall,Missouri,yes
+46746,Class A,2014,Summer,Alabama,yes
+46749,Class B,2014,Fall,Missouri,yes
+46769,Class B,2014,Fall,Washington,yes
+46795,Class B,2014,Fall,Colorado,yes
+46805,Class A,2014,Fall,Colorado,yes
+46809,Class B,2014,Fall,Washington,yes
+46817,Class B,2014,Fall,Minnesota,yes
+46826,Class A,2014,Fall,Missouri,yes
+46878,Class A,2014,Fall,Illinois,yes
+46917,Class B,2014,Fall,Illinois,yes
+46973,Class B,2014,Fall,Massachusetts,yes
+47014,Class B,2014,Summer,Washington,yes
+47021,Class A,2014,Fall,Florida,yes
+47026,Class B,2014,Fall,North Carolina,yes
+47035,Class B,2014,Fall,Washington,yes
+47115,Class B,2014,Fall,Washington,yes
+47160,Class B,2014,Summer,Washington,yes
+47161,Class B,2014,Summer,Washington,yes
+47165,Class B,2014,Summer,California,yes
+47225,Class B,2014,Fall,West Virginia,yes
+47249,Class A,2014,Summer,Illinois,yes
+47267,Class A,2014,Fall,Kansas,yes
+47305,Class B,2014,Winter,Ohio,yes
+47403,Class A,2014,Winter,Illinois,yes
+47408,Class B,2014,Fall,Texas,yes
+47412,Class B,2014,Winter,Illinois,yes
+47439,Class B,2014,Spring,Michigan,yes
+47499,Class B,2014,Fall,Texas,yes
+47536,Class A,2014,Spring,Arizona,yes
+47557,Class B,2014,Winter,Michigan,yes
+47651,Class B,2014,Winter,Kansas,yes
+48403,Class B,2014,Fall,New Hampshire,yes
+48429,Class A,2014,Summer,California,yes
+48479,Class A,2014,Summer,Oklahoma,yes
+48732,Class A,2014,Summer,Connecticut,yes
+48932,Class B,2014,Winter,Washington,yes
+48988,Class B,2014,Summer,New Jersey,yes
+49092,Class A,2014,Summer,Washington,yes
+49777,Class A,2014,Spring,Florida,yes
+611,,,,,no
+306,,,,,no
+49869,Class B,2014,Fall,Washington,yes
+51417,Class B,2014,Fall,Illinois,yes
+51419,Class A,2014,Fall,Wisconsin,yes
+56232,Class B,2014,Fall,Washington,yes
+56270,Class B,2014,Fall,Idaho,yes
+56388,Class A,2014,Summer,Missouri,yes
+56438,Class A,2014,Spring,Missouri,yes
+715,,,,,no
+39,,,,,no
+38,,,,,no
+239,,,,,no
+56826,Class A,2014,Summer,Texas,yes
+57053,Class A,2014,Fall,Georgia,yes
+57754,Class A,2014,Fall,Texas,yes
+58086,Class B,2014,Summer,Ohio,yes
+59343,Class B,2014,Fall,Idaho,yes
+59668,Class B,2014,Summer,California,yes
+64064,Class B,2014,Spring,Colorado,yes
+64096,Class A,2014,Spring,Missouri,yes
+65984,Class A,2014,Fall,Kansas,yes
+67540,Class B,2014,Spring,North Carolina,yes
+47702,Class A,2015,Winter,Texas,yes
+47720,Class B,2015,Winter,Illinois,yes
+47841,Class B,2015,Winter,Georgia,yes
+47855,Class A,2015,Winter,Washington,yes
+48012,Class A,2015,Winter,Kansas,yes
+48101,Class B,2015,Winter,Connecticut,yes
+48224,Class B,2015,Winter,North Carolina,yes
+48243,Class B,2015,Spring,Texas,yes
+48339,Class B,2015,Winter,Missouri,yes
+48530,Class B,2015,Spring,Missouri,yes
+48575,Class B,2015,Spring,Pennsylvania,yes
+48616,Class A,2015,Spring,Montana,yes
+136,,,,,no
+137,,,,,no
+48652,Class B,2015,Spring,Washington,yes
+48665,Class A,2015,Spring,Louisiana,yes
+48686,Class B,2015,Spring,Iowa,yes
+48695,Class B,2015,Spring,Michigan,yes
+48746,Class B,2015,Spring,Florida,yes
+48777,Class B,2015,Spring,Washington,yes
+48900,Class B,2015,Spring,Ohio,yes
+48930,Class B,2015,Spring,Minnesota,yes
+49096,Class B,2015,Summer,New Jersey,yes
+49148,Class B,2015,Summer,North Carolina,yes
+49238,Class A,2015,Summer,Alabama,yes
+49243,Class B,2015,Summer,Colorado,yes
+49293,Class B,2015,Summer,Arizona,yes
+49309,Class B,2015,Summer,Texas,yes
+49480,Class B,2015,Summer,Indiana,yes
+49504,Class B,2015,Summer,Washington,yes
+49512,Class B,2015,Spring,Massachusetts,yes
+49515,Class A,2015,Summer,Illinois,yes
+49614,Class B,2015,Summer,Ohio,yes
+49621,Class B,2015,Spring,Michigan,yes
+49664,Class A,2015,Summer,Washington,yes
+49697,Class A,2015,Summer,Massachusetts,yes
+49746,Class A,2015,Fall,Virginia,yes
+49766,Class B,2015,Fall,Ohio,yes
+49773,Class A,2015,Summer,Pennsylvania,yes
+49847,Class B,2015,Summer,Ohio,yes
+49877,Class B,2015,Fall,Massachusetts,yes
+49896,Class B,2015,Fall,California,yes
+49902,Class B,2015,Spring,Vermont,yes
+49906,Class B,2015,Summer,North Carolina,yes
+49909,Class B,2015,Fall,Oklahoma,yes
+49918,Class B,2015,Fall,Ohio,yes
+49919,Class B,2015,Fall,Missouri,yes
+49971,Class B,2015,Fall,Missouri,yes
+49977,Class A,2015,Fall,North Carolina,yes
+49991,Class B,2015,Fall,Washington,yes
+49993,Class B,2015,Fall,Vermont,yes
+50039,Class B,2015,Fall,Washington,yes
+50045,Class A,2015,Summer,Texas,yes
+50064,Class B,2015,Summer,Kentucky,yes
+50074,Class B,2015,Fall,North Carolina,yes
+50124,Class A,2015,Fall,Idaho,yes
+50144,Class A,2015,Fall,Florida,yes
+50208,Class A,2015,Fall,Illinois,yes
+50214,Class A,2015,Fall,Washington,yes
+317,,,,,no
+231,,,,,no
+224,,,,,no
+225,,,,,no
+226,,,,,no
+143,,,,,no
+141,,,,,no
+129,,,,,no
+50318,Class B,2015,Fall,Kentucky,yes
+50341,Class A,2015,Fall,Illinois,yes
+50393,Class B,2015,Fall,Ohio,yes
+50462,Class B,2015,Fall,Florida,yes
+663,,,,,no
+50469,Class A,2015,Fall,West Virginia,yes
+50541,Class A,2015,Winter,Arkansas,yes
+50721,Class A,2015,Summer,North Carolina,yes
+50746,Class B,2015,Winter,Kentucky,yes
+50756,Class B,2015,Summer,Oklahoma,yes
+50967,Class B,2015,Spring,Illinois,yes
+51005,Class B,2015,Fall,Maine,yes
+51044,Class B,2015,Summer,Florida,yes
+51304,Class A,2015,Fall,Ohio,yes
+51469,Class B,2015,Summer,Washington,yes
+51471,Class A,2015,Fall,West Virginia,yes
+51612,Class A,2015,Summer,Texas,yes
+51821,Class A,2015,Spring,Texas,yes
+51869,Class A,2015,Summer,Virginia,yes
+55144,Class B,2015,Fall,Illinois,yes
+55410,Class A,2015,Fall,Arkansas,yes
+55476,Class B,2015,Fall,Vermont,no
+55672,Class A,2015,Winter,Missouri,yes
+55727,Class B,2015,Spring,New York,yes
+56202,Class B,2015,Fall,Kentucky,yes
+56293,Class B,2015,Fall,Massachusetts,yes
+228,,,,,no
+40,,,,,no
+41,,,,,no
+116,,,,,no
+56346,Class B,2015,Fall,Ohio,yes
+56861,Class A,2015,Winter,Idaho,yes
+57712,Class A,2015,Fall,Texas,yes
+59185,Class B,2015,Summer,Idaho,yes
+65650,Class B,2015,Fall,Washington,yes
+50643,Class B,2016,Winter,Texas,yes
+50826,Class A,2016,Winter,Massachusetts,yes
+50837,Class A,2016,Winter,Wisconsin,yes
+50901,Class B,2016,Winter,Oregon,yes
+50965,Class B,2016,Winter,Illinois,yes
+50982,Class A,2016,Winter,Wisconsin,yes
+51359,Class B,2016,Winter,Massachusetts,yes
+51430,Class B,2016,Spring,Oklahoma,yes
+51499,Class B,2016,Spring,Washington,yes
+51500,Class A,2016,Spring,New Jersey,yes
+51535,Class B,2016,Spring,Pennsylvania,yes
+51753,Class B,2016,Spring,Washington,yes
+51847,Class B,2016,Spring,Massachusetts,yes
+51882,Class B,2016,Spring,Missouri,yes
+51902,Class B,2016,Spring,Massachusetts,yes
+51934,Class B,2016,Spring,New Hampshire,yes
+51959,Class B,2016,Spring,Montana,yes
+51962,Class A,2016,Summer,Ohio,yes
+51991,Class B,2016,Winter,Maine,yes
+55121,Class A,2016,Summer,Texas,yes
+55169,Class B,2016,Summer,Connecticut,yes
+55171,Class B,2016,Spring,Texas,yes
+55195,Class B,2016,Summer,Arizona,yes
+55236,Class B,2016,Summer,Texas,yes
+55249,Class B,2016,Spring,Texas,yes
+55269,Class A,2016,Summer,New Hampshire,yes
+55290,Class B,2016,Summer,Maine,yes
+55306,Class A,2016,Summer,Virginia,yes
+55413,Class A,2016,Summer,New Jersey,yes
+55541,Class B,2016,Summer,Michigan,yes
+55549,Class B,2016,Summer,Washington,yes
+55554,Class B,2016,Fall,West Virginia,yes
+55574,Class A,2016,Fall,Florida,yes
+55583,Class A,2016,Summer,West Virginia,yes
+55598,Class A,2016,Summer,Michigan,yes
+55658,Class A,2016,Summer,Washington,yes
+115,,,,,no
+112,,,,,no
+148,,,,,no
+152,,,,,no
+153,,,,,no
+133,,,,,no
+55771,Class B,2016,Summer,Connecticut,yes
+55870,Class A,2016,Fall,Kentucky,yes
+55934,Class A,2016,Fall,Illinois,yes
+55961,Class B,2016,Fall,New Jersey,yes
+55997,Class B,2016,Summer,Missouri,yes
+56061,Class A,2016,Winter,Georgia,yes
+56073,Class B,2016,Fall,Ohio,yes
+56108,Class A,2016,Winter,Arkansas,yes
+56165,Class B,2016,Winter,Florida,yes
+56168,Class B,2016,Fall,Illinois,yes
+56480,Class A,2016,Fall,New Jersey,yes
+56490,Class A,2016,Summer,Idaho,yes
+56552,Class B,2016,Fall,Michigan,yes
+56614,Class A,2016,Fall,Missouri,yes
+56827,Class A,2016,Fall,Washington,yes
+56932,Class A,2016,Winter,Washington,yes
+57114,Class B,2016,Winter,Colorado,yes
+57244,Class B,2016,Spring,Washington,yes
+57411,Class B,2016,Spring,Texas,yes
+57781,Class A,2016,Winter,Washington,yes
+57872,Class B,2016,Fall,Idaho,yes
+58046,Class B,2016,Summer,Georgia,yes
+58779,Class A,2016,Summer,Washington,yes
+59333,Class B,2016,Fall,Michigan,yes
+63252,Class A,2016,Winter,North Carolina,yes
+63900,Class B,2016,Summer,Washington,yes
+65451,Class A,2016,Fall,Washington,yes
+65864,Class B,2016,Winter,Washington,yes
+66214,Class A,2016,Spring,Missouri,yes
+69464,Class B,2016,Spring,North Carolina,yes
+70716,Class B,2016,Summer,Pennsylvania,yes
+56332,Class B,2017,Winter,Washington,yes
+56567,Class B,2017,Winter,Georgia,yes
+56576,Class B,2017,Winter,Louisiana,yes
+56586,Class A,2017,Winter,Ohio,yes
+56735,Class A,2017,Winter,Arkansas,yes
+56798,Class B,2017,Winter,Maine,yes
+56800,Class B,2017,Winter,Ohio,yes
+140,,,,,no
+57305,Class B,2017,Spring,Missouri,yes
+57401,Class A,2017,Spring,Michigan,yes
+57484,Class B,2017,Spring,Washington,yes
+57659,Class A,2017,Summer,Ohio,yes
+57743,Class B,2017,Summer,Washington,yes
+57760,Class A,2017,Summer,Texas,yes
+57765,Class B,2017,Summer,Idaho,yes
+57774,Class B,2017,Summer,Ohio,yes
+57777,Class B,2017,Summer,Kentucky,yes
+57784,Class B,2017,Summer,Idaho,yes
+57789,Class B,2017,Summer,Washington,yes
+57884,Class A,2017,Summer,Florida,yes
+57939,Class B,2017,Summer,Iowa,yes
+57962,Class B,2017,Summer,Oregon,yes
+57991,Class B,2017,Summer,Florida,yes
+58026,Class B,2017,Summer,Idaho,yes
+58053,Class B,2017,Summer,Ohio,yes
+58089,Class B,2017,Summer,Illinois,yes
+58126,Class B,2017,Summer,Tennessee,yes
+58133,Class B,2017,Summer,Washington,yes
+58152,Class B,2017,Summer,Texas,yes
+58165,Class B,2017,Summer,Oregon,yes
+58220,Class B,2017,Fall,Washington,yes
+58238,Class A,2017,Fall,Illinois,yes
+58251,Class A,2017,Fall,Idaho,yes
+58357,Class A,2017,Spring,Washington,yes
+58379,Class B,2017,Summer,Connecticut,yes
+58396,Class B,2017,Fall,Washington,yes
+58458,Class A,2017,Fall,Ohio,yes
+58484,Class B,2017,Fall,Michigan,yes
+58534,Class A,2017,Fall,Pennsylvania,yes
+58557,Class B,2017,Winter,Texas,yes
+58621,Class A,2017,Fall,Michigan,yes
+58703,Class B,2017,Spring,Ohio,yes
+58768,Class A,2017,Summer,Arkansas,yes
+58855,Class B,2017,Fall,Texas,yes
+58895,Class A,2017,Winter,Minnesota,yes
+59102,Class B,2017,Summer,West Virginia,yes
+59236,Class A,2017,Winter,Florida,yes
+59532,Class A,2017,Fall,Missouri,yes
+59633,Class A,2017,Summer,Kansas,yes
+59858,Class A,2017,Summer,Florida,yes
+61147,Class B,2017,Summer,Wisconsin,yes
+62352,Class B,2017,Spring,Kansas,yes
+62393,Class A,2017,Summer,Missouri,yes
+62595,Class A,2017,Summer,Arkansas,yes
+63381,Class A,2017,Winter,Montana,yes
+63451,Class A,2017,Winter,Washington,yes
+63827,Class B,2017,Winter,Florida,yes
+65276,Class B,2017,Fall,Idaho,yes
+65366,Class B,2017,Summer,Texas,yes
+69015,Class A,2017,Summer,Texas,yes
+69553,Class B,2017,Summer,Washington,yes
+58853,Class B,2018,Winter,Ohio,yes
+58937,Class B,2018,Winter,Missouri,yes
+58980,Class A,2018,Winter,Missouri,yes
+59078,Class B,2018,Winter,Ohio,yes
+113,,,,,no
+132,,,,,no
+59159,Class B,2018,Winter,Pennsylvania,yes
+89,,,,,no
+59229,Class B,2018,Spring,Wisconsin,yes
+59235,Class B,2018,Spring,Oklahoma,yes
+59279,Class B,2018,Spring,Washington,yes
+59280,Class B,2018,Spring,New Jersey,yes
+59307,Class B,2018,Spring,Missouri,yes
+59332,Class B,2018,Spring,Oklahoma,yes
+59346,Class A,2018,Spring,Minnesota,yes
+59421,Class B,2018,Spring,Wisconsin,yes
+59537,Class B,2018,Summer,Florida,yes
+59590,Class B,2018,Spring,Michigan,yes
+59607,Class B,2018,Summer,Montana,yes
+59632,Class A,2018,Summer,Oregon,yes
+59650,Class B,2018,Summer,Michigan,yes
+59659,Class B,2018,Summer,Wisconsin,yes
+59664,Class B,2018,Summer,New York,yes
+59757,Class B,2018,Spring,Nebraska,yes
+59799,Class B,2018,Summer,Wisconsin,yes
+59838,Class A,2018,Summer,New York,yes
+60871,Class A,2018,Summer,Indiana,yes
+60877,Class B,2018,Summer,Colorado,yes
+60892,Class A,2018,Summer,Connecticut,yes
+60924,Class A,2018,Spring,Ohio,yes
+119,,,,,no
+61038,Class B,2018,Fall,Washington,yes
+61066,Class B,2018,Fall,Washington,yes
+61097,Class B,2018,Fall,Kentucky,yes
+61108,Class B,2018,Fall,Kentucky,yes
+61138,Class B,2018,Fall,Connecticut,yes
+61157,Class B,2018,Spring,Washington,yes
+62169,Class B,2018,Fall,California,yes
+62182,Class A,2018,Fall,Idaho,yes
+62192,Class A,2018,Fall,Oklahoma,yes
+62203,Class B,2018,Fall,Arkansas,yes
+62240,Class B,2018,Fall,Florida,yes
+62332,Class B,2018,Winter,Washington,yes
+62354,Class A,2018,Summer,Washington,yes
+62403,Class B,2018,Summer,Washington,yes
+62625,Class A,2018,Summer,Arkansas,yes
+62714,Class B,2018,Fall,Washington,yes
+62796,Class B,2018,Winter,Washington,yes
+63078,Class A,2018,Summer,California,yes
+63492,Class B,2018,Summer,Texas,yes
+65641,Class B,2018,Summer,Washington,yes
+67271,Class A,2018,Summer,Louisiana,yes
+67425,Class B,2018,Spring,New York,no
+68899,Class A,2018,Fall,Georgia,yes
+62432,Class A,2019,Winter,Missouri,yes
+62549,Class A,2019,Winter,Ohio,yes
+151,,,,,no
+62744,Class A,2019,Spring,Virginia,yes
+62746,Class A,2019,Spring,Texas,yes
+62926,Class A,2019,Spring,Texas,yes
+62929,Class B,2019,Spring,Colorado,yes
+62969,Class A,2019,Spring,Montana,yes
+63077,Class B,2019,Summer,Washington,yes
+63091,Class A,2019,Summer,Wisconsin,yes
+63141,Class B,2019,Summer,Oregon,yes
+63148,Class B,2019,Winter,Montana,yes
+63153,Class A,2019,Summer,Colorado,yes
+63218,Class A,2019,Summer,Vermont,yes
+63235,Class A,2019,Summer,New Jersey,yes
+63243,Class B,2019,Summer,Texas,yes
+63324,Class B,2019,Summer,Washington,yes
+63355,Class B,2019,Summer,Wisconsin,yes
+63367,Class B,2019,Fall,Missouri,yes
+63387,Class A,2019,Spring,Missouri,yes
+63405,Class B,2019,Summer,Michigan,yes
+63433,Class A,2019,Summer,Florida,yes
+63560,Class B,2019,Fall,California,yes
+63616,Class A,2019,Fall,Ohio,yes
+63645,Class B,2019,Fall,California,yes
+63731,Class A,2019,Fall,Connecticut,yes
+63981,Class A,2019,Winter,Ohio,yes
+65369,Class B,2019,Summer,Idaho,yes
+65423,Class A,2019,Fall,Virginia,yes
+65588,Class B,2019,Summer,South Dakota,yes
+65975,Class A,2019,Summer,New York,yes
+66081,Class A,2019,Summer,Texas,yes
+67192,Class B,2019,Summer,Idaho,yes
+67749,Class A,2019,Winter,North Carolina,yes
+69006,Class A,2019,Spring,Oklahoma,yes
+69052,Class A,2019,Winter,Georgia,yes
+69433,Class B,2019,Spring,North Carolina,no
+69612,Class A,2019,Fall,Connecticut,yes
+64024,Class A,2020,Winter,North Carolina,yes
+64180,Class B,2020,Spring,Idaho,yes
+65284,Class B,2020,Spring,Oklahoma,yes
+65295,Class A,2020,Winter,Washington,yes
+65305,Class B,2020,Spring,Ohio,yes
+65388,Class B,2020,Spring,Washington,yes
+65393,Class B,2020,Spring,Ohio,yes
+65464,Class B,2020,Spring,Washington,yes
+65469,Class B,2020,Spring,New York,yes
+65536,Class A,2020,Spring,Indiana,yes
+65538,Class B,2020,Spring,Washington,yes
+65589,Class B,2020,Summer,Indiana,yes
+65654,Class B,2020,Spring,Tennessee,yes
+65664,Class A,2020,Spring,Montana,yes
+65667,Class B,2020,Summer,Washington,yes
+65677,Class A,2020,Summer,North Carolina,yes
+65679,Class A,2020,Spring,Alabama,yes
+65795,Class B,2020,Summer,Illinois,yes
+65808,Class A,2020,Summer,Missouri,yes
+65849,Class B,2020,Summer,California,yes
+65867,Class A,2020,Summer,Michigan,yes
+65870,Class B,2020,Spring,Missouri,yes
+65880,Class B,2020,Spring,Pennsylvania,yes
+65924,Class B,2020,Summer,Idaho,yes
+65943,Class B,2020,Summer,California,yes
+65970,Class B,2020,Summer,Oregon,yes
+65980,Class B,2020,Summer,Washington,yes
+65996,Class B,2020,Summer,Massachusetts,yes
+66003,Class B,2020,Summer,Washington,yes
+66063,Class B,2020,Summer,Missouri,yes
+66109,Class A,2020,Fall,Maine,yes
+66120,Class B,2020,Fall,Washington,yes
+66158,Class A,2020,Fall,Missouri,yes
+66182,Class B,2020,Fall,Illinois,yes
+66198,Class B,2020,Fall,Oklahoma,yes
+66224,Class B,2020,Fall,Maine,yes
+67199,Class A,2020,Fall,Texas,yes
+67219,Class B,2020,Fall,South Carolina,yes
+67232,Class A,2020,Fall,Virginia,yes
+67239,Class A,2020,Fall,Ohio,yes
+67335,Class B,2020,Fall,Maine,no
+67380,Class B,2020,Spring,Oregon,yes
+67381,Class A,2020,Fall,Minnesota,yes
+67401,Class B,2020,Fall,Idaho,yes
+67407,Class B,2020,Fall,Washington,yes
+67412,Class A,2020,Winter,Florida,yes
+67423,Class A,2020,Summer,Alabama,yes
+67451,Class B,2020,Fall,Washington,yes
+67472,Class B,2020,Summer,Washington,yes
+67585,Class B,2020,Winter,Washington,yes
+67619,Class B,2020,Fall,Washington,yes
+67703,Class B,2020,Fall,Washington,yes
+67746,Class B,2020,Fall,Oklahoma,yes
+67875,Class A,2020,Fall,Ohio,yes
+68896,Class B,2020,Fall,New York,yes
+68897,Class B,2020,Summer,Washington,yes
+69437,Class B,2020,Summer,New Mexico,yes
+67485,Class B,2021,Winter,Virginia,no
+114,,,,,no
+125,,,,,no
+126,,,,,no
+127,,,,,no
+154,,,,,no
+67486,Class B,2021,Winter,Illinois,yes
+67556,Class B,2021,Winter,California,yes
+67590,Class B,2021,Winter,Florida,yes
+67602,Class B,2021,Winter,Michigan,yes
+69008,Class A,2021,Spring,Tennessee,yes
+69049,Class B,2021,Spring,Washington,yes
+69065,Class A,2021,Spring,Ohio,yes
+69193,Class A,2021,Spring,Kansas,yes
+69269,Class B,2021,Spring,North Carolina,no
+69270,Class B,2021,Spring,Washington,no
+69315,Class B,2021,Spring,California,yes
+69316,Class B,2021,Summer,Missouri,no
+69321,Class B,2021,Summer,Illinois,yes
+144,,,,,no
+69323,Class A,2021,Summer,Arizona,yes
+69394,Class B,2021,Summer,Colorado,no
+69411,Class B,2021,Summer,Ohio,yes
+69452,Class A,2021,Spring,Florida,yes
+69467,Class A,2021,Summer,Wisconsin,yes
+69469,Class B,2021,Summer,Ohio,yes
+69490,Class B,2021,Summer,Ohio,yes
+69503,Class B,2021,Summer,Virginia,yes
+69614,Class A,2021,Summer,Washington,yes
+69641,Class A,2021,Summer,Tennessee,yes
+70712,Class B,2021,Fall,Texas,yes
+70712,Class B,2021,Fall,Texas,yes
+71700,Class A,2021,Spring,South Carolina,yes
+71751,Class B,2021,Summer,Ohio,yes
+71773,Class A,2021,Fall,Washington,yes
+71794,Class B,2021,Fall,Oklahoma,yes
+71801,Class A,2021,Summer,Florida,yes
+71803,Class B,2021,Fall,Utah,yes
